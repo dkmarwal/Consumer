@@ -1,0 +1,139 @@
+{
+    "heading": {
+      "welcome": "¡Bienvenido a Payment Exchange!"
+    },
+    "error": {
+      "Email": "Username is required",
+      "Password": "Se requiere contraseña",
+      "recaptchaValue": "Por favor seleccione Captcha"
+    },
+    "buttonLabel": {
+      "submit": "ACEPTAR",
+      "cancel": "CANCELAR"
+    },
+    "notification": {
+      "Reset password link sent to your email successfully": "Enlace de restablecimiento de contraseña enviado a su dirección de correo electrónico si la ID de usuario está registrada con nosotros. Si aún no lo ha recibido, verifique su correo no deseado o vuelva a intentarlo después de 30 minutos.",
+      "alertMessageOTP": "Se ha enviado un código de acceso único a su número de teléfono registrado.",
+      "resetPasswordLink":"Restablecer enlace de contraseña"
+    },
+    "firstLogin": {
+      "error": {
+        "password": "La nueva contraseña debe tener un mínimo de ocho caracteres, al menos una letra mayúscula, una letra minúscula, un número y un carácter especial",
+        "confirmPassword": "Las contraseñas no coinciden",
+        "securityAnswer": "La respuesta de seguridad debe tener un mínimo de 6 caracteres."
+      },
+      "label": {
+        "tooltip": "La nueva contraseña debe tener un mínimo de ocho caracteres, al menos una letra mayúscula, una letra minúscula, un número y un carácter especial",
+        "passwordQuestion": "Configurar contraseña y pregunta de seguridad",
+        "password": "Nueva contraseña",
+        "confirmPassword": "confirmar Contraseña",
+        "securityQuestionId": "Pregunta de Seguridad",
+        "securityAnswer": "Respuesta de seguridad"
+      }
+    },
+    "forgotPassword": {
+      "label": {
+        "paymentExchange": "Intercambio de pago",
+        "forgotPassword": "Has olvidado tu contraseña",
+        "userName": "Nombre de usuario",
+        "resetPassword": "RESTABLECER LA CONTRASEÑA"
+      },
+      "placeholder": {
+        "userName": "Nombre de usuario"
+      }
+    },
+ 
+    "passwordExpired": {
+      "label": {
+        "tooltip": "La nueva contraseña debe tener un mínimo de ocho caracteres, al menos una letra mayúscula, una letra minúscula, un número y un carácter especial",
+        "paymentExchange": "Intercambio de pago",
+        "resetPassword": "Restablecer la contraseña",
+        "save": "AHORRAR"
+      },
+      "error": {
+        "password": "La nueva contraseña debe tener un mínimo de ocho caracteres, al menos una letra mayúscula, una letra minúscula, un número y un carácter especial",
+        "confirmPassword": "Las contraseñas no coinciden",
+        "empty_securityAnswer": "Se requiere respuesta de seguridad",
+        "securityAnswer": "La respuesta de seguridad debe tener un mínimo de 6 caracteres",
+        "newPasswordReq":"Se requiere una nueva contraseña",
+        "oldPasswordReq":"Se requiere contraseña antigua",
+        "confirmNewPasswordReq":"Se requiere confirmar nueva contraseña"
+      },
+      "placeholder": {
+        "oldPassword": "Contraseña anterior",
+        "newPassword": "Nueva contraseña",
+        "confirmPassword": "Confirmar nueva contraseña",
+        "securityQuestionId": "Pregunta de Seguridad",
+        "securityAnswer": "Respuesta de seguridad"
+      }
+    },
+    "recoverUsername": {
+      "label": {
+        "fogotUsername":"Olvidó su nombre de usuario",
+         "alertBoxHeading":"Nombre de usuario enviado"
+      },
+        "placeholder": {
+        "emailId":"Correo electrónico",
+        "customerID":"Identificación del consumidor",
+        "securityQuestionId": "Pregunta de Seguridad",
+        "securityAnswer": "Respuesta de seguridad"
+      },
+      "error": {
+        "emailId":"Correo electronico es requerido",
+        "customerID":"Se requiere {{CustomerID}}",
+        "securityQuestionId": "Se requiere una pregunta de seguridad",
+        "securityAnswer": "La respuesta de seguridad debe tener un mínimo de 6 caracteres.",
+        "empty_securityAnswer": "Se requiere respuesta de seguridad"
+      }
+  },
+    "resetPassword": {
+      "error": {
+        "password": "La nueva contraseña debe tener un mínimo de ocho caracteres, al menos una letra mayúscula, una letra minúscula, un número y un carácter especial",
+        "confirmPassword": "Las contraseñas no coinciden",
+        "securityQuestionId": "Security question is required",
+        "securityAnswer": "La respuesta de seguridad debe tener un mínimo de 6 caracteres.",
+        "empty_securityAnswer": "Se requiere respuesta de seguridad"
+      },
+      "label": {
+        "tooltip": "La nueva contraseña debe tener un mínimo de ocho caracteres, al menos una letra mayúscula, una letra minúscula, un número y un carácter especial",
+        "paymentExchange": "Intercambio de pago",
+        "resetPassword": "Restablecer la contraseña",
+        "password": "Nueva contraseña",
+        "confirmPassword": "confirmar Contraseña",
+        "securityQuestionId": "Pregunta de Seguridad",
+        "securityAnswer": "Respuesta de seguridad",
+        "save": "SAVE",
+        "alertBoxHeading":"Restablecer enlace de contraseña"
+      }
+    },
+    "mfa": {
+      "error": {
+        "verificationCode": "Se necesita un código de verificación."
+      }
+    },
+    "view": {
+      "error": {
+        "Email": "Se requiere nombre de usuario",
+        "Password": "Se requiere contraseña",
+        "recaptchaValue": "Por favor seleccione Captcha"
+      },
+      "notification": {
+        "Reset password link sent to your email successfully": "Enlace de restablecimiento de contraseña enviado a su dirección de correo electrónico si la ID de usuario está registrada con nosotros. Si aún no lo ha recibido, verifique su correo no deseado o vuelva a intentarlo después de 30 minutos."
+      },
+      "label": {
+        "paymentExchange": "Intercambio de pago",
+        "payeeLogin": "Inicio de sesión del beneficiario",
+        "signIn": "Iniciar sesión",
+         "forgotUsername": "Olvidó su nombre de usuario",
+        "forgotPassword": "Has olvidado tu contraseña",
+        "userName": "Nombre de usuario",
+        "password": "Contraseña",
+        "logoutMsg":"Gracias por visitar {{clientName}}, ha cerrado sesión correctamente!"
+      },
+      "placeholder": {
+        "password": "Contraseña"
+      },
+      "fromEnrollment": "Su cuenta está inactiva, haga clic en el enlace de confirmación que recibió en su correo electrónico para iniciar sesión en la plataforma"
+    }
+  }
+  

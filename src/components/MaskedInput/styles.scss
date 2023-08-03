@@ -1,0 +1,29 @@
+.inputContainer {
+  position: relative;
+  top: -15px;
+.maskedInput {
+  width: 100%;
+  padding: 15px 0px;
+  border-radius: 5px;
+  border: 1.2px solid #c3c3c3;
+}
+ .label {
+  position: relative;
+  top: 13px;
+  left: 11px;
+  font-size: 13px;
+  color: grey;
+  background: white;
+  padding: 0 4px;
+ }
+ .errorMessage {
+  color: #f44336;
+  margin-left: 14px;
+  margin-right: 14px;
+  font-size: 13px;
+ }
+ .errorField {
+     border-color: #f44336;;
+ }
+ 
+}

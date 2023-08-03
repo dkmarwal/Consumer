@@ -1,0 +1,75 @@
+{
+    "buttonLabel": {
+        "cancel": "Cancel"
+    },
+    "signUpWithTax": {
+        "user": {
+            "error": {
+                "firstName": "First name is required.",
+                "lastName": "Last name is required.",
+                "userName": "Username is required.",
+                "securityQuestionId": "Security question is required.",
+                "phone": "Phone number should be 10 digits",
+                "email": "Invalid email address",
+                "password": "New password must be minimum eight characters, at least one uppercase letter, one lowercase letter, one number and one special character",
+                "confirmPassword": "Password and confirm password must be same",
+                "securityAnswer": "Security answer should be minimum 6 characters is required."
+            },
+            "notification": 
+            {
+                "Signup successful": "Signup successful",
+                "tooltipTitle": "New password must be minimum eight characters, at least one uppercase letter, one lowercase letter, one number and one special character",
+                "User already exist!": "User already exist!"
+            }
+        },
+        "label": {
+            "paymentExchange": "Payment Exchange",
+            "completeSetup": "COMPLETE YOUR SETUP",
+            "firstName": "First Name*",
+            "lastName": "Last Name*",
+            "userName": "Username*",
+            "email": "Email*",
+            "password": "Password*",
+            "confirmPassword": "Confirm Password*",
+            "securityQuestion": "Security Question*",
+            "securityAnswer": "Security Answer*",
+            "register": "Register"
+        },
+
+        "stepperInfo":{
+            "companyInfo": "COMPANY INFORMATION",
+            "contactInfo": "CONTACT INFORMATION",
+            "mailVarif": "EMAIL VERIFICATION"
+        }
+    },
+    "startUp": {
+        "label": {
+            "welcomeMsg": "Citi Payment Exchange has begun offering a free service that will allow you to receive your payments electronically! Setup your profile on our new Electronic Payment Processing System so we can begin processing your payments. Payment Exchange lets you:",
+            "updatePayment":"Electronically update payment and profile details",
+            "trackPayment": "Track all of your payments in one place",
+            "receivePayment": "Receive payments electronically from",
+            "wlcmPaymentExchange": "Welcome to Payment Exchange!",
+            "completeSignUp": "COMPLETE YOUR SIGNUP",
+            "taxId": "Tax Id*",
+            "email": "Email*",
+            "agree": "I agree to",
+            "terms": "Terms and Conditions.",
+            "termsConditionConfirmText": "Please read and confirm your agreement with our terms and conditions which detail your rights and responsibilities as a member of the Citi Payment Exchange Network.",
+            "certifyText": "I certify that I am an employee of the company for which I am creating a Citi Payment Exchange Profile, that I am authorized to create a profile on behalf of company, and that the information I provide in our company’s profile is correct to the best of my knowledge",
+            "verify": "Verify"
+        },
+        "error": {
+            "email": "Invalid email address",
+            "taxId": "Federal Tax ID/ SSN must be 9 digits"
+        },
+        "notification": {
+                "Activation code is mandatory": "Activation code is mandatory.",
+                "To verify kindly go through and accept the Terms & Conditions and certify your authorisation to create Citi Payment Exchange profile on behalf of your company": "To verify kindly go through and accept the Terms & Conditions and certify your authorisation to create Citi Payment Exchange profile on behalf of your company.",
+                "To verify kindly go through and accept the Terms & Conditions": "To verify kindly go through and accept the Terms & Conditions.",
+                "To verify kindly certify your authorisation to create Citi Payment Exchange profile on behalf of your company":  "To verify kindly certify your authorisation to create Citi Payment Exchange profile on behalf of your company.",
+                "Please select the Captcha": "Please select the Captcha.",
+                "Tax Id is mandatory": "Tax Id is mandatory.",
+                "User already exists!": "User already exists!"
+        }
+    }
+}

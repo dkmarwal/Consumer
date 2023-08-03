@@ -1,0 +1,138 @@
+{
+  "heading": {
+    "welcome": "Bienvenue sur Payment Exchange!"
+  },
+  "error": {
+    "Email": "Nom d'utilisateur est nécessaire",
+    "Password": "Mot de passe requis",
+    "recaptchaValue": "Veuillez sélectionner Captcha"
+  },
+  "buttonLabel": {
+    "submit": "SOUMETTRE",
+    "cancel": "ANNULER"
+  },
+  "notification": {
+    "Reset password link sent to your email successfully": "Lien de réinitialisation du mot de passe envoyé à votre adresse e-mail si l'ID utilisateur est enregistré chez nous. Si vous ne l'avez pas encore reçu, veuillez vérifier vos spams ou réessayer après 30 minutes",
+    "alertMessageOTP": "Un code d'accès à usage unique a été envoyé à votre numéro de téléphone enregistré.",
+    "resetPasswordLink":"Lien de réinitialisation du mot de passe"
+  },
+  "firstLogin": {
+    "error": {
+      "password": "Le nouveau mot de passe doit comporter au moins huit caractères, au moins une lettre majuscule, une lettre minuscule, un chiffre et un caractère spécial",
+      "confirmPassword": "Le mot de passe ne correspond pas",
+      "securityAnswer": "La réponse de sécurité doit comporter au moins 6 caractères."
+    },
+    "label": {
+      "tooltip": "Le nouveau mot de passe doit comporter au moins huit caractères, au moins une lettre majuscule, une lettre minuscule, un chiffre et un caractère spécial",
+      "passwordQuestion": "Configurer le mot de passe et la question de sécurité",
+      "password": "Nouveau mot de passe",
+      "confirmPassword": "Confirmer le mot de passe",
+      "securityQuestionId": "Question de sécurité",
+      "securityAnswer": "Réponse de sécurité"
+    }
+  },
+  "forgotPassword": {
+    "label": {
+      "paymentExchange": "Payment Exchange",
+      "forgotPassword": "Mot de passe oublié",
+      "userName": "Nom d'utilisateur",
+      "resetPassword": "RÉINITIALISER LE MOT DE PASSE"
+    },
+    "placeholder": {
+      "userName": "Nom d'utilisateur"
+    }
+  },
+  
+  "passwordExpired": {
+    "label": {
+      "tooltip": "Le nouveau mot de passe doit comporter au moins huit caractères, au moins une lettre majuscule, une lettre minuscule, un chiffre et un caractère spécial",
+      "paymentExchange": "Payment Exchange",
+      "resetPassword": "Réinitialiser le mot de passe",
+      "save": "ENREGISTRER"
+    },
+    "error": {
+      "password": "Le nouveau mot de passe doit comporter au moins huit caractères, au moins une lettre majuscule, une lettre minuscule, un chiffre et un caractère spécial",
+      "confirmPassword": "Le mot de passe ne correspond pas",
+      "empty_securityAnswer": "Une réponse de sécurité est requis",
+      "securityAnswer": "La réponse de sécurité doit comporter au moins 6 caractères",
+      "newPasswordReq":"Un nouveau mot de passe est requis",
+      "oldPasswordReq":"L'ancien mot de passe est requis",
+      "confirmNewPasswordReq":"Confirmer que le nouveau mot de passe est requis"
+    },
+    "placeholder": {
+      "oldPassword": "Ancien mot de passe",
+      "newPassword": "Nouveau mot de passe",
+      "confirmPassword": "Confirmer le nouveau mot de passe",
+      "securityQuestionId": "Question de sécurité",
+      "securityAnswer": "Réponse de sécurité"
+    }
+  },
+   "recoverUsername": {
+      "label": {
+        "fogotUsername":"Identifiant oublié",
+         "alertBoxHeading":"Nom d'utilisateur envoyé"
+      },
+        "placeholder": {
+        "emailId":"E-mail",
+        "customerID":"ID consommateur",
+        "securityQuestionId": "Question de sécurité",
+        "securityAnswer": "Réponse de sécurité"
+      },
+      "error": {
+        "emailId":"L'e-mail est requis",
+        "customerID":"{{CustomerID}} est requis",
+        "securityQuestionId": "Une question de sécurité est requise",
+        "securityAnswer": "La réponse de sécurité doit comporter au moins 6 caractères.",
+        "empty_securityAnswer": "Une réponse de sécurité est requise"
+      }
+  },
+  "resetPassword": {
+    "error": {
+      "password": "Le nouveau mot de passe doit comporter au moins huit caractères, au moins une lettre majuscule, une lettre minuscule, un chiffre et un caractère spécial",
+      "confirmPassword": "Le mot de passe ne correspond pas",
+      "securityQuestionId": "Une question de sécurité est requis",
+      "securityAnswer": "La réponse de sécurité doit comporter au moins 6 caractères.",
+      "empty_securityAnswer": "Une réponse de sécurité est requis"
+    },
+    "label": {
+      "tooltip": "Le nouveau mot de passe doit comporter au moins huit caractères, au moins une lettre majuscule, une lettre minuscule, un chiffre et un caractère spécial",
+      "paymentExchange": "Payment Exchange",
+      "resetPassword": "Réinitialiser le mot de passe",
+      "password": "Nouveau mot de passe",
+      "confirmPassword": "Confirmer le mot de passe",
+      "securityQuestionId": "Question de sécurité",
+      "securityAnswer": "Réponse de sécurité",
+      "save": "ENREGISTRER",
+       "alertBoxHeading":"Lien de réinitialisation du mot de passe"
+    }
+  },
+  "mfa": {
+    "error": {
+      "verificationCode": "Le code de vérification est requis."
+    }
+  },
+  "view": {
+    "error": {
+      "Email": "Nom d'utilisateur est nécessaire",
+      "Password": "Mot de passe requis",
+      "recaptchaValue": "Veuillez sélectionner Captcha"
+    },
+    "notification": {
+      "Reset password link sent to your email successfully": "Lien de réinitialisation du mot de passe envoyé à votre adresse e-mail si l'ID utilisateur est enregistré chez nous. Si vous ne l'avez pas encore reçu, veuillez vérifier vos spams ou réessayer après 30 minutes"
+    },
+    "label": {
+      "paymentExchange": "Payment Exchange",
+      "payeeLogin": "Connexion du bénéficiaire",
+      "signIn": "S'identifier",
+       "forgotUsername": "Identifiant oublié",
+      "forgotPassword": "Mot de passe oublié",
+      "userName": "Nom d'utilisateur",
+      "password": "Mot de passe",
+      "logoutMsg":"Merci d'avoir visité {{clientName}}, vous avez réussi à vous déconnecter!"
+    },
+    "placeholder": {
+      "password": "Mot de passe"
+    },
+    "fromEnrollment": "Votre compte est inactif, cliquez sur le lien de confirmation que vous avez reçu dans votre email pour vous connecter à la plateforme"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "tooltip": "Identifiant de paiement unique",
+  "label": {
+    "paymentReference": "RÉFÉRENCE DE PAIEMENT",
+    "paymentMethod": "MODE DE PAIEMENT",
+    "paymentMobMethod": "MÉTHODE",
+    "date": "DATE",
+    "status": "STATUT",
+    "amount": "MONTANTE",
+    "notes": "REMARQUES",
+    "paymentAmount": "Montant du paiement",
+    "noDataFound": "Aucune transaction trouvée",
+    "rowsPerPage": "Lignes par page",
+    "bankDeposit":"Dépôt Direct",
+    "check":"Chèque",
+    "paypal":"PayPal",
+    "directDeposit":"Instant Pay",
+    "zelle":"Zelle",
+    "primaryText": "Primaire",
+    "alternateText": "Secondaire",
+    "defaultText": "Défaut",
+    "labelDisplayedRows": "{{from}}-{{to}} de {{count}}"
+  },
+  "placeholder": {
+    "enterText": "Entrez du texte",
+    "paymentDate": "MM / JJ / AAAA"
+  },
+  "tooltipText":{
+    "primary":"Mode de paiement principal choisi par le destinataire.",
+    "secondary":"Mode de paiement utilisé lorsque la méthode principale échoue.",
+    "default":"Méthode de paiement choisie par l'expéditeur lorsque les méthodes principale et secondaire échouent."
+  }
+}

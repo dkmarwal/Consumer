@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ABE902DD-F9ED-41A3-A79C-22B456EEE320</title>
+    <defs>
+        <path d="M16.6666666,3.33333331 L3.33333331,3.33333331 C2.41666664,3.33333331 1.67499997,4.08333331 1.67499997,4.99999998 L1.66666663,15 C1.66666663,15.9166667 2.41666664,16.6666667 3.33333331,16.6666667 L16.6666666,16.6666667 C17.5833334,16.6666667 18.3333334,15.9166667 18.3333334,15 L18.3333334,4.99999998 C18.3333334,4.08333331 17.5833334,3.33333331 16.6666666,3.33333331 L16.6666666,3.33333331 Z M16.6666667,6.66666665 L10,10.8333333 L3.33333331,6.66666665 L3.33333331,4.99999998 L10,9.16666666 L16.6666667,4.99999998 L16.6666667,6.66666665 L16.6666667,6.66666665 Z" id="path-1"></path>
+    </defs>
+    <g id="Supplier-Portal-Phase-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="MyPayersExpanded_Contact-info" transform="translate(-831.000000, -837.000000)">
+            <g id="Group-17" transform="translate(359.500000, 767.000000)">
+                <g id="Group-13" transform="translate(471.500000, 33.000000)">
+                    <g id="chevron_left" transform="translate(0.000000, 37.000000)">
+                        <polygon id="Base" fill-rule="nonzero" points="-4.1666676e-08 -4.1666605e-08 20 -4.1666605e-08 20 20 -4.1666676e-08 20"></polygon>
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Icon" fill-rule="nonzero"></g>
+                        <rect id="↳-🎨-Color" fill="#080808" mask="url(#mask-2)" x="0" y="0" width="20" height="20"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

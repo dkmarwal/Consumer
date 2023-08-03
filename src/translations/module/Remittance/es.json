@@ -1,0 +1,40 @@
+{
+  "error": {
+    "Please fill at least one email address": "Por favor complete al menos una dirección de correo electrónico",
+    "Invalid email address": "Dirección de correo electrónico inválida",
+    "VAN name is required": "Se requiere el nombre de VAN",
+    "VAN EDI Code must be 2 alphanumeric characters": "El código VAN EDI debe tener 2 caracteres alfanuméricos",
+    "VAN EDI Qualifier must be alphanumeric": "El calificador VAN EDI debe ser alfanumérico",
+    "Please select at least one format": "Seleccione al menos un formato"
+  },
+  "remittanceEmail": {
+    "label": {
+      "additionalInformation": "AÑADIR CORREO ELECTRÓNICO ADICIONAL",
+      "bulkRemittanceEmail": "Dirección de correo electrónico",
+      "remittanceEmails": "Correos electrónicos de remesas*",
+      "bulkRemittance": "Remesa a granel"
+    }
+  },
+  "bulkRemittance": {
+    "label": {
+      "forAllBank": "Esto es para todas las cuentas bancarias con este cliente.",
+      "remittanceDelivery": "Modo de envío de remesas*",
+      "vanName": "De nombre*",
+      "remittanceVanEdiCode": "DESDE Código EDI*",
+      "remittanceVanEdiQualifier": "DESDE EDI Qualifier*",
+      "format": "Formato de remesa*"
+    }
+  },
+  "remittanceFrequencyOptions": {
+    "Daily": "Diario",
+    "Weekly": "Semanalmente",
+    "Monthly": "Mensual",
+    "None": "Ninguno"
+  },
+  "chooseRemittanceMode": "Recibir detalles de pago adicionales",
+  "receivePayment": "Seleccione para recibir remesas de pago (Opcional)",
+  "remittanceFormat": "*El formato de la remesa será PDF",
+  "EmailId":"Correo electrónico",
+  "optional":"(opcional)",
+  "tooltipText":"Recibirá detalles de pago adicionales por correo electrónico y podrá descargarlo del portal una vez que esté disponible."
+}

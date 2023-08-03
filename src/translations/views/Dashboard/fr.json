@@ -1,0 +1,35 @@
+{
+  "label": {
+    "dashboard": "Tableau de bord",
+    "enrollment": "Inscription",
+    "addPayment": "Ajouter un paiement",
+    "contactPage": "Page de contact",
+    "PAFPage": "Page PAF",
+    "offersPage": "Page Offres",
+    "SHARE INFORMATION": "PARTAGER L'INFORMATION",
+    "electronically": "{{clientName}} souhaite vous payer par voie électronique via Payment Exchange.",
+    "select": "Sélectionner",
+    "GoToSettings": "Aller aux paramètres"
+  },
+  "notification": {
+    "Dual factor authentication updated successfully": "Authentification à deux facteurs mise à jour avec succès",
+    "alternatePaymentDelete": "Mode de paiement secondaire supprimé avec succès"
+  },
+  "heading": {
+    "accounts": "Comptes",
+    "preferredMethod": "Mode de paiement principal",
+    "alternateMethod": "Méthode de paiement secondaire",
+    "cancel": "ANNULER",
+    "confirmRemove": "EFFACER",
+    "removeAlternatePayment": "Supprimer le mode de paiement secondaire",
+    "removeAlternateText": "Voulez-vous vraiment supprimer le paiement secondaire ?",
+    "thresholdRemoveAlternateText":"La limite de paiement maximale de {{paymentMethodName}} est de ${{paymentMethodCode}}. Tout paiement entrant supérieur à la limite de paiement maximale du mode de paiement principal sera rejeté si la préférence de paiement secondaire n'est pas ajoutée. Souhaitez-vous toujours supprimer le paiement secondaire ?"
+  },
+  "paymentAuth": {
+    "payments": " Paiement",
+    "paymentText": " besoin d'authentification pour traiter.",
+    "paymentsText": " nécessite une authentification pour traiter.",
+    "verify": "VÉRIFIER",
+    "stalePopup": "Veuillez mettre à jour ou confirmer votre préférence de paiement pour valider votre profil"
+  }
+}

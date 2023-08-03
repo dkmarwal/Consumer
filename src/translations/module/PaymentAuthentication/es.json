@@ -1,0 +1,50 @@
+{
+  "heading": {
+    "thankYou": "Gracias",
+    "payment": "Pago de",
+    "reflect": "se reflejará en tu",
+    "account": "cuenta",
+    "recievePayment": "Recibirá su (s) pago (s) de monto",
+    "confirmation": "en su (s) cuenta (s). Se le ha enviado una confirmación (correo electrónico / SMS).",
+    "noNewPayment": "No hay nuevos pagos para autenticar.",
+    "thankyouText":"Se ha enviado una confirmación por correo electrónico / SMS a su información de contacto registrada. Recibirá su pago en su cuenta bancaria vinculada con Zelle dentro de 1-2 horas. Para pagos futuros, puede cambiar su preferencia de pago en cualquier momento."
+  },
+
+  "buttonLabel": {
+    "Okay": "De acuerdo",
+    "close": "CERRAR",
+    "resend": "Reenviar",
+    "verify": "VERIFICAR",
+    "cancel": "CANCELAR",
+    "submit": "ACEPTAR",
+    "later": "MÁS TARDE"
+  },
+  "error": {
+    "enterCode": "Ingrese el código de verificación.",
+    "selectonePayment":"Seleccione al menos un monto de pago."
+  },
+  "dashboard":{
+    "verifyPaymentTitle":"Verificar para recibir el pago",
+    "verifyPaymentText":"Ha recibido una solicitud de autenticación de pago, seleccione el pago para autenticar",
+    "codeReceived":"Por favor ingrese el código de seis dígitos recibido el",
+    "both":"ambas",
+    "NoPaymentsText":"No hay pagos para autenticarse",
+    "verifySuccessTitle":"Verificar pago",
+    "verifySuccessMsg":{
+      "ach": "Su pago ha sido autorizado con éxito. Recibirá su pago en su cuenta bancaria dentro de {{timeRequired}} días hábiles. Para pagos futuros, puede cambiar su preferencia de pago en cualquier momento",
+      "check":"Votre paiement est autorisé avec succès. Vous recevrez votre chèque sous {{timeRequired}} jours ouvrés. Pour les paiements futurs, vous pouvez modifier vos préférences de paiement à tout moment.",
+      "zelle":"Su pago ha sido autorizado con éxito. Recibirá su pago en su cuenta bancaria vinculada con Zelle generalmente en menos de una hora. Para pagos futuros, puede cambiar su preferencia de pago en cualquier momento.",
+      "directDeposit":"Su pago ha sido autorizado con éxito. Recibirá su pago en la cuenta vinculada a su tarjeta de débito en menos de una hora. Para pagos futuros, puede cambiar su preferencia de pago en cualquier momento.",
+      "paypal":"Su pago ha sido autorizado con éxito. Recibirás tu pago en tu cuenta PayPal en menos de una hora. Para pagos futuros, puede cambiar su preferencia de pago en cualquier momento."
+    }
+  },
+  "verifyPayment": "Verificar para recibir ${{paymentsData}} Pago",
+  "enterCode": "Ingrese el código de verificación de seis dígitos recibido el {{contact}}",
+  "enterCodeBoth": "Ingrese el código de verificación de seis dígitos recibido en ambos {{mobile}} y {{email}}",
+  "retryAfter60": "Esto puede tardar unos segundos. Vuelva a intentarlo después de 60 segundos.",
+  "enterVerCode": "Código de verificación",
+  "nonCdmAuth":{
+    "paymentReceivedHeading":"¡Wooh! Ha recibido el pago de ${{paymentAmount}}",
+    "enterVerificationCode":"Introduzca el código de verificación"
+  }
+}

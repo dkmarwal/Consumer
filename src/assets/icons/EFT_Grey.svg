@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="18px" viewBox="0 0 26 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>eft grey</title>
+    <defs>
+        <path d="M11.2625,17.5 L2.49999995,17.5 L2.49999995,20 L11.2625,20 L11.2625,23.75 L16.25,18.75 L11.2625,13.75 L11.2625,17.5 L11.2625,17.5 Z M18.7375,16.25 L18.7375,12.5 L27.5000001,12.5 L27.5000001,9.99999998 L18.7375,9.99999998 L18.7375,6.24999996 L13.75,11.25 L18.7375,16.25 L18.7375,16.25 Z" id="path-1"></path>
+    </defs>
+    <g id="Client-Portal-Phase-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Settings--Payment-Methods(list)" transform="translate(-341.000000, -92.000000)">
+            <g id="add_location" transform="translate(339.000000, 86.000000)">
+                <polygon id="Base" points="-6.24999785e-08 -6.25000496e-08 30.0000001 -6.25000496e-08 30.0000001 30.0000001 -6.24999785e-08 30.0000001"></polygon>
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Icon" fill-rule="nonzero"></g>
+                <rect id="↳-🎨-Color" fill="#53565A" mask="url(#mask-2)" x="0" y="0" width="30" height="30"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

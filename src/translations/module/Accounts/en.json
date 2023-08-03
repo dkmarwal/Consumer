@@ -1,0 +1,93 @@
+{
+    "ach":{
+        "accountNumber":"Account Number",
+        "routingNumber":"Routing Number",
+        "bankName":"Bank Name",
+        "bankAccountType":"Account Type",
+        "methodName":"BANK DEPOSIT",
+        "methodNameACH":"ACH",
+        "methodNameRTP":"RTP@"
+    },
+    "check":{
+        "addressLine1":"Address Line 1",
+        "country":"Country",
+        "state":"State",
+        "city":"City",
+        "zipCode":"Zip Code",
+        "address":"Address",
+        "methodName":"CHECK"
+    },
+    "directDeposit":{
+        "nameOnCard":"Name on Card",
+        "cardNumber":"Card Number",
+        "expiryDate":"Expiration Date",
+        "addressLine1":"Address Line 1",
+        "country":"Country",
+        "state":"State",
+        "city":"City",
+        "zipCode":"Zip Code",
+        "methodName":"INSTANT PAY"
+    },
+    "paypal":{
+        "addressLine1":"Address Line 1",
+        "country":"Country",
+        "state":"State",
+        "city":"City",
+        "zipCode":"Zip Code",
+        "email":"Email",
+        "phone":"Phone Number",
+        "address":"Address",
+        "methodName":"PAYPAL"
+    },
+    "zelle":{
+        "email":"Email",
+        "phone":"Phone Number",
+        "methodName":"ZELLE"
+    },
+    "depositToDebitCard":{
+        "methodName":"DEPOSIT TO DEBIT CARD",
+        "nameOnCard":"Name on Card",
+        "cardNumber":"Card Number",
+        "expiryDate":"Expiration Date"
+    },
+    "ReliaCard":{
+        "methodName": "ReliaCard",
+        "email": "Email",
+        "firstName": "First Name",
+        "lastName": "Last Name",
+        "addressLine1": "Address Line 1",
+        "addressLine2": "Address Line 2",
+        "phoneNumber": "Phone No.",
+        "zipCode":"Zip Code",
+        "uniqueId":"Unique ID",
+        "dateOfBirth": "Date of Birth",
+        "SSN":"SSN",
+        "homePhone": "Home Phone",
+        "mobilePhone": "Mobile Phone",
+        "employerState": "Employer State",
+        "govLocation": "Gov Location",
+        "govExpiredDate": "Gov Expired Date",
+        "govIdType":"Gov Type",
+        "govIdValue":"Gov Value",
+        "country": "Country",
+        "state": "State",
+        "city": "City"
+    },
+    "FocusCard":{
+        "methodName": "Focus Non-Payroll"
+    },
+    "PlasticCard":{
+        "methodName": "Plastic Card"
+    },
+    "DigitalCard":{
+        "methodName": "Digital Card"
+    },
+    "CorporateCard":{
+        "methodName": "Corporate Reward"
+    },
+    "bankAccount":{
+        "methodName":"BANK ACCOUNT"
+    },
+    "addAlternatePaymentMethod":"Add Secondary Payment Method",
+    "paymentMethod":"Payment Method"
+}

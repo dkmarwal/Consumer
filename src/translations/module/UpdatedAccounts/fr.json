@@ -1,0 +1,180 @@
+{
+  "error": {
+    "accountNumberRequired": "Le numéro de compte est requis",
+    "confirmAccountNumber": "Confirmer que le numéro de compte est requis",
+    "accountNumberSame": "Confirmer que le numéro de compte doit être le même que le numéro de compte",
+    "routingNumberLength": "Le numéro d'acheminement doit être composé de 9 chiffres",
+    "routingNumberRequired": "Le numéro d'acheminement est requis",
+    "accountTypeRequired": "Le type de compte est requis",
+    "bankNameRequired": "Le nom de la banque est requis",
+    "bankNameLength":"Le nom de la banque doit comporter moins de 159 caractères.",
+    "addressLine1": "La ligne d'adresse 1 est requise",
+    "addressLine2": "",
+    "country": "Le pays est requis",
+    "state": "L'état est requis",
+    "city": "La ville est obligatoire",
+    "postalCode": "Le code postal est requis",
+    "validPhoneNumber": "Le numéro de téléphone doit être composé de 10 chiffres",
+    "emailOrPhone": "Veuillez sélectionner un e-mail/numéro de téléphone",
+    "emptyToken": "L'e-mail est requis",
+    "emptyPhoneNumber": "Le numéro de téléphone est requis"
+  },
+
+  "remittance": {
+    "emailIdRequired": "L'e-mail est requis",
+    "validEmail": "Veuillez entrer un email valide",
+    "deliveryMode": "Veuillez sélectionner un mode de livraison de remise",
+    "chooseDeliveryMode": "Recevoir des détails de paiement supplémentaires",
+    "recievePayment": "Sélectionner pour recevoir les remises de paiement (facultatif)",
+    "content": "*Le format de remise sera PDF",
+    "optional":" (optionnel)"
+  },
+
+  "message": {
+    "somethingWentWrong": "Quelque chose s'est mal passé",
+    "invalidReq":"Requête invalide",
+    "successfulAlternatePaymentMethod": "Vous avez mis à jour avec succès votre mode de paiement secondaire.",
+    "successfulDeletePaymentMethod": "Vous avez supprimé avec succès votre mode de paiement secondaire.",
+    "successfulPreferredPaymentMethod": "Vous avez mis à jour avec succès votre mode de paiement préféré.",
+    "achAlternatePaymentMethod": "Dépôt Direct a été ajouté en tant que méthode de paiement alternative.",
+    "checkAlternatePaymentMethod": "Le chèque a été ajouté comme mode de paiement alternatif.",
+    "successfulCheckPreferredPaymentUpdate":"Votre préférence de paiement a été mise à jour avec succès. Le paiement sera effectué via {{paymentMethodName}}. Il faudra {{timeSpan}} jours ouvrables pour atteindre votre adresse enregistrée.",
+    "successfulACHPreferredPaymentUpdate":"Votre préférence de paiement a été mise à jour avec succès. Le paiement sera versé sur votre compte bancaire. Il faudra {{timeSpan}} jours ouvrés pour que le paiement apparaisse sur votre compte bancaire.",
+    "logoutAlternatePayment": "Vous pouvez ajouter le paiement alternatif après vous être connecté à l'échange de paiement",
+    "addNewAlternatePaymentMethod":"Le choix d'un mode de paiement secondaire est recommandé pour assurer le bon traitement des paiements en dollars élevés. En sélectionnant un mode de paiement secondaire, vous recevrez votre argent sans délai même s'il ne peut pas être traité par votre mode de paiement principal en raison des limites de traitement du réseau."
+  },
+
+  "label": {
+    "accountNumber": "Numéro de compte",
+    "confirmAccountNumber": "Confirmer le numéro de compte",
+    "routingNumber": "Numéro d'acheminement",
+    "bankName": "Nom de banque",
+    "accountType": "Type de compte",
+    "addressLine1": "Adresse 1",
+    "addressLine2": "Adresse 2",
+    "country": "Pays",
+    "state": "État",
+    "city": "Ville",
+    "postalCode": "Code postal",
+    "countryCode": "Code postal",
+    "phoneNumber": "No de téléphone",
+    "emailOrPhone": "Courriel/Numéro de téléphone",
+    "email": "E-mail",
+    "address":"Adresse",
+    "searchRoutingCode":"Rechercher le numéro d'acheminement",
+    "searchBank":"Banque de recherche",
+    "select":"Sélectionner"
+  },
+
+  "buttonLabel": {
+    "continue": "CONTINUEZ",
+    "back": "ARRIÈRE",
+    "cancel":"ANNULER",
+    "add":"AJOUTER",
+    "update":"METTRE À JOUR",
+    "okay":"D'ACCORD"
+  },
+
+  "heading": {
+    "updatePreferredPaymentMethod": "Mettre à jour le mode de paiement principal",
+    "updateAlternatePaymentMethod": "Mettre à jour le mode de paiement secondaire",
+    "addAlternatePaymentMethod": "Ajouter un mode de paiement secondaire",
+    "checkAsPayment": "Si vous préférez recevoir votre règlement par chèque.",
+    "orDivider": "OU",
+    "otherPayments":"Autres options de paiement",
+    "cardInfo":"Informations sur la carte",
+    "updateDetails":"Détails de la mise à jour",
+    "secondaryPaymentMethodAdded":"Mode de paiement secondaire ajouté"
+  },
+
+  "link": {
+    "clearSelection": "Effacer la sélection",
+    "clickHere": "Cliquez ici",
+    "searchRoutingNumber": "Rechercher un numéro d'acheminement"
+  },
+
+  "ach": {
+    "content": {
+      "achInformation": "Partagez vos détails de Dépôt Direct",
+      "note": "Remarque: Les détails de paiement ACH sont déjà ajoutés comme mode de paiement alternatif. Le même sera enregistré comme votre méthode de paiement préférée. Et les modifications apportées à ACH seront également reflétées dans le mode de paiement alternatif.",
+      "bankSearchResult": "Résultats de la recherche bancaire",
+      "bankDetails":"Coordonnées bancaires"
+    }
+  },
+
+  "check": {
+    "content": {
+      "checkInformation": "Partagez les détails de votre Chèque",
+      "note": "Remarque: Les détails de paiement ACH sont déjà ajoutés comme mode de paiement alternatif. Le même sera enregistré comme votre méthode de paiement préférée. Et les modifications apportées à ACH seront également reflétées dans le mode de paiement alternatif.",
+      "checkDetails":"Chèque détails"
+    }
+  },
+
+  "pushToCard": {
+    "error": {
+      "nameRequired": "Le nom est requis",
+      "validCardNumber": "S'il vous plaît entrez un numéro de carte valide",
+      "expiryDateRequired": "La date d'expiration est requise",
+      "cvvLength": "Le CVV doit comporter 3 chiffres",
+      "cardNumber":"Seules les cartes Visa/MasterCard sont acceptées"
+    },
+
+    "content": {
+      "pushToCardInformation": "Partagez les détails de votre carte de débit",
+      "pushToCardDetails":"Détails de la carte de débit"
+    },
+
+    "label": {
+      "cardName": "Nom du titulaire",
+      "cardNumber": "Numéro de carte",
+      "expiryDate": "Date d'expiration",
+      "cvv": "CVV"
+    }
+  },
+
+  "paypal": {
+    "error": {
+      "phoneNumberRequired":"Le numéro de téléphone est requis",
+      "phoneNumberLength": "Le numéro de téléphone doit être composé de 10 chiffres",
+      "emailIdRequired": "L'e-mail est requis",
+      "validEmailId": "Veuillez saisir un e-mail valide"
+    },
+
+    "content": {
+      "paypalInformation": "Partagez vos détails PayPal",
+      "paypalDetails":"Détails PayPal"
+    }
+  },
+
+  "zelle": {
+    "content": {
+      "zelleInformation": "Partagez vos détails Zelle",
+      "zelleDetails":"Détails de Zelle"
+    },
+
+    "label": {
+      "tokenValue": "E-mail"
+    }
+  },
+  "actionButtons": {
+    "continue": "CONTINUEZ",
+    "back": "ARRIÈRE"
+  },
+  "mostPreferred":"Le plus préféré",
+  "usBankPreferred":"Préféré",
+  "ifEnrolled":"Moins d'une heure si le numéro de téléphone ou l'e-mail est inscrit auprès de Zelle.",
+  "selectAnAccount":"Veuillez sélectionner un compte à partager",
+  "shareAccount":"Sélectionnez un compte avec lequel partager ",
+  "subHeading":{
+    "ach":"Plus rapide, plus facile et plus pratique. Contrôlez le compte à votre convenance.",
+    "paypal":"Le paiement sera effectué sur votre compte PayPal. Il faudra moins d'une heure pour que le paiement apparaisse.",
+    "zelle":"Un moyen rapide, sécurisé et facile de recevoir de l'argent. Pas besoin de partager vos informations bancaires confidentielles.",
+    "check":"Prévoyez 10 à 15 jours ouvrables pour que votre chèque arrive à votre adresse enregistrée.",
+    "directDeposit":"Le paiement sera effectué sur le compte lié à votre carte de débit à 16 chiffres ou à votre carte prépayée préchargeable. Il faudra moins d'une heure pour que le paiement apparaisse sur votre compte bancaire."
+  },
+  "tooltipText":{
+    "paypal":"PayPal la limite de seuil est ${{threshold}}. Tous vos futurs paiements qui dépassent la limite de traitement du réseau ne seront pas traités.",
+    "directDeposit":"Instant Pay la limite de seuil est ${{threshold}}. Tous vos futurs paiements qui dépassent la limite de traitement du réseau ne seront pas traités.",
+    "zelle":"Zelle la limite de seuil est ${{threshold}}. Tous vos futurs paiements qui dépassent la limite de traitement du réseau ne seront pas traités."
+  }
+}

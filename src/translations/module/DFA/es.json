@@ -1,0 +1,45 @@
+{
+    "buttonLabel": {
+        "cancel": "CANCELAR",
+        "save": "AHORRAR",
+        "call": "LLAMA",
+        "sms": "MENSAJE DE TEXTO",
+        "email":"EMAIL",
+        "resendSms": "REENVIAR MENSAJE DE TEXTO",
+        "submit": "ACEPTAR",
+        "back":"ATRÁS",
+        "send":"ENVIAR",
+        "skip": "SALTAR POR AHORA",
+        "text": "ESCRÍBEME",
+        "update":"ACTUALIZAR"
+    },
+    "error": {
+        "dfaPhone": "El número de teléfono debe tener 10 dígitos",
+        "verificationErr": "Por favor ingrese su código de verificación",
+        "dfaErr":"Seleccione Llamar o Mensaje de texto para recibir su código de verificación.",
+        "somethingWentWrong": "¡Algo salió mal! Intentar otra vez.",
+        "invalidPhoneNumber": "¡Número invalido!",
+        "verificationCodeRequired": "Se necesita un código de verificación."
+    },
+    "notification": {
+        "Dual factor authentication updated successfully": "La autenticación de doble factor se actualizó correctamente"
+    },
+    "label": {
+        "dfaType": "Tipo de autenticación de doble factor",
+        "phone": "TELÉFONO",
+        "sms": "SMS",
+        "verificationCode":"Código de verificación"
+    },
+    "message": {
+        "retryAfter60": "Esto puede tardar unos segundos. Vuelva a intentarlo después de 60 segundos.",
+        "MFAText":"Seleccione cómo le gustaría recibir su código de verificación",
+        "enterCode": "Ingrese el código de verificación de seis dígitos recibido el",
+        "verificationCode": "Ingrese su código de verificación",
+        "twoStepVerification": "Verificación de dos pasos",
+        "accessProfile": "Verificar para acceder a su perfil",
+        "verifyPhoneNumber": "Por favor verifique su número de teléfono.",
+        "securePayments": "Agrega más seguridad a sus pagos futuros e información de cuenta.",
+        "oneTimeVerificationCode": "Le enviaremos un código de verificación único.",
+        "updatePhoneText":"Actualice su número de teléfono para continuar con su preferencia de pago"
+    }
+}

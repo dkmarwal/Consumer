@@ -1,0 +1,180 @@
+{
+  "error": {
+    "accountNumberRequired": "Account Number is required",
+    "confirmAccountNumber": "Confirm Account Number is required",
+    "accountNumberSame": "Confirm Account Number should be same as Account Number",
+    "routingNumberLength": "Routing Number must be of 9 digits",
+    "routingNumberRequired": "Routing Number is required",
+    "accountTypeRequired": "Account Type is required",
+    "bankNameRequired": "Bank Name is required",
+    "bankNameLength":"Bank Name must be less than 159 characters.",
+    "addressLine1": "Address Line 1 is required",
+    "addressLine2": "",
+    "country": "Country is required",
+    "state": "State is required",
+    "city": "City is required",
+    "postalCode": "Zip Code is required",
+    "validPhoneNumber": "Phone Number should be of 10 digits",
+    "emailOrPhone": "Please select Email/Phone Number",
+    "emptyToken": "Email is required",
+    "emptyPhoneNumber": "Phone Number is required"
+  },
+
+  "remittance": {
+    "emailIdRequired": "Email is required",
+    "validEmailId": "Please enter a valid email",
+    "deliveryMode": "Please select one remittance delivery mode",
+    "chooseDeliveryMode": "Receive Additional Payment Details",
+    "recievePayment": "Select to receive payment remittances (Optional)",
+    "content": "*Remittance format will be PDF",
+    "optional":"(optional)"
+  },
+
+  "message": {
+    "somethingWentWrong": "Something went wrong",
+    "invalidReq":"Invalid Request",
+    "successfulAlternatePaymentMethod": "You have successfully updated your secondary payment method.",
+    "successfulDeletePaymentMethod": "You have successfully deleted your secondary payment method.",
+    "successfulPreferredPaymentMethod": "Your payment preference is updated successfully. Payment will be released to your {{paymentMethodName}} account. It will take less than an hour for the payment to appear.",
+    "achAlternatePaymentMethod": "Bank Deposit has been added as your Secondary Payment Method.",
+    "checkAlternatePaymentMethod": "Check has been added as your Secondary Payment Method.",
+    "successfulCheckPreferredPaymentUpdate":"Your payment preference is updated successfully. Payment will be released through {{paymentMethodName}}. It will take {{timeSpan}} business days to reach on your registered address.",
+    "successfulACHPreferredPaymentUpdate":"Your payment preference is updated successfully. Payment will be released to your bank account. It will take {{timeSpan}} business days for the payment to appear in your bank account.",
+    "logoutAlternatePayment": "You can add the Alternate Payment after logging in to the Payment Exchange",
+    "addNewAlternatePaymentMethod":"Choosing a secondary payment method is recommended to ensure the smooth processing of high dollar payments. By selecting a secondary payment method, you will receive your money without delay even if it cannot be processed by your primary payment method due to network processing limits."
+  },
+
+  "label": {
+    "accountNumber": "Account Number",
+    "confirmAccountNumber": "Confirm Account Number",
+    "routingNumber": "Routing Number",
+    "bankName": "Bank Name",
+    "accountType": "Account Type",
+    "addressLine1": "Address Line 1",
+    "addressLine2": "Address Line 2",
+    "country": "Country",
+    "state": "State",
+    "city": "City",
+    "postalCode": "Zip Code",
+    "countryCode": "Country Code",
+    "phoneNumber": "Phone No.",
+    "emailOrPhone": "Email/Phone Number",
+    "email": "Email",
+    "address":"Address",
+    "searchRoutingCode":"Search Routing Number",
+    "searchBank":"Search Bank",
+    "select":"Select"
+  },
+
+  "buttonLabel": {
+    "continue": "CONTINUE",
+    "back": "BACK",
+    "cancel":"CANCEL",
+    "add":"ADD",
+    "update":"UPDATE",
+    "okay":"OKAY"
+  },
+
+  "heading": {
+    "updatePreferredPaymentMethod": "Update Primary Payment Method",
+    "updateAlternatePaymentMethod": "Update Secondary Payment Method",
+    "addAlternatePaymentMethod": "Add Secondary Payment Method",
+    "checkAsPayment": "If you prefer to receive your payment via check.",
+    "orDivider": "OR",
+    "otherPayments":"Other Payment Options",
+    "cardInfo":"Card Information",
+    "updateDetails":"Update Details",
+    "secondaryPaymentMethodAdded":"Secondary Payment Method Added"
+  },
+
+  "link": {
+    "clearSelection": "Clear Selection",
+    "clickHere": "Click Here",
+    "searchRoutingNumber": "Search Routing Number"
+  },
+
+  "ach": {
+    "content": {
+      "achInformation": "Share your Bank Deposit Details",
+      "note": "Note: Bank Deposit payment details are already added as your alternate Payment method. Same will be saved as your Preferred Payment Method. And change made for Bank Deposit will be reflected in Alternate payment method as well.",
+      "bankSearchResult": "Bank Search Results",
+      "bankDetails":"Bank Details"
+    }
+  },
+
+  "check": {
+    "content": {
+      "checkInformation": "Share your Check Details",
+      "note": "Note: Check payment details are already added as your alternate Payment method. Same will be saved as your Preferred Payment Method. And change made for Check will be reflected in Alternate payment method as well.",
+      "checkDetails":"Check Details"
+    }
+  },
+
+  "pushToCard": {
+    "error": {
+      "nameRequired": "Name is required",
+      "validCardNumber": "Please enter a valid Card Number",
+      "expiryDateRequired": "Expiration Date is required",
+      "cvvLength": "CVV should be of 3 digits length",
+      "cardNumber":"Only Visa/MasterCard is accepted"
+    },
+
+    "content": {
+      "pushToCardInformation": "Share your Debit Card Details",
+      "pushToCardDetails":"Debit Card Details"
+    },
+
+    "label": {
+      "cardName": "Card Holder Name",
+      "cardNumber": "Card Number",
+      "expiryDate": "Expiration Date",
+      "cvv": "CVV"
+    }
+  },
+
+  "paypal": {
+    "error": {
+      "phoneNumberRequired":"Phone Number is required",
+      "phoneNumberLength": "Phone Number should be of 10 digits",
+      "emailIdRequired": "Email is required",
+      "validEmailId": "Please enter a valid Email"
+    },
+
+    "content": {
+      "paypalInformation": "Share your PayPal Details",
+      "paypalDetails":"PayPal Details"
+    }
+  },
+
+  "zelle": {
+    "content": {
+      "zelleInformation": "Share your Zelle Details",
+      "zelleDetails":"Zelle Details"
+    },
+
+    "label": {
+      "tokenValue": "Email"
+    }
+  },
+  "actionButtons": {
+    "continue": "CONTINUE",
+    "back": "BACK"
+  },
+  "mostPreferred":"Most preferred",
+  "usBankPreferred":"Preferred",
+  "ifEnrolled":"Less than 1 Hour if Phone number or Email is enrolled with Zelle.",
+  "selectAnAccount":"Please select an account to share",
+  "shareAccount":"Select an account to share with ",
+  "subHeading":{
+    "ach":"Faster, easier, & more convenient. Control the account at your own convenience.",
+    "paypal":"Payment will be released to your PayPal account. It will take less than an hour for the payment to appear.",
+    "zelle":"Quick, secure, and easy way to receive money. No need to share your confidential bank information.",
+    "check":"Allow 10-15 business days for your check to arrive to your registered address.",
+    "directDeposit":"Payment will be released to the account linked to your 16-digit Debit Card or preloadable prepaid card. It will take less than an hour for the payment to appear in your bank account."
+  },
+  "tooltipText":{
+    "paypal":"PayPal threshold limit is ${{threshold}}. Any of your future payments which exceed Network Processing limit will not be processed.",
+    "directDeposit":"Instant Pay threshold limit is ${{threshold}}. Any of your future payments which exceed Network Processing limit will not be processed.",
+    "zelle":"Zelle threshold limit is ${{threshold}}. Any of your future payments which exceed Network Processing limit will not be processed."
+  }
+}

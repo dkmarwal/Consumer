@@ -1,0 +1,29 @@
+{
+    "buttonLabel": {
+      "back": "Précédent",
+      "continue": "Continuer",
+      "close": "Terminer",
+      "select":"Sélectionner"
+    },
+    "error":{
+      "login":"Nom d'utilisateur est nécessaire.",
+      "securityQuestionId":"Une question de sécurité est requis.",
+      "jobTitle" : "Le titre du poste est obligatoire.",
+      "empty_email":"Adresse e-mail est nécessaire.",
+      "lastName" :"Le nom de famille est obligatoire.",
+      "firstName":"Le prénom est requis.",
+      "title":"Le préfixe est requis.",
+      "zipCodeCA":"Le code postal doit être alphanumérique (6 caractères minimum et 9 caractères maximum)",
+      "zipCode":"Le code postal doit être composé de chiffres (5 caractères minimum et 9 caractères maximum)",
+      "phone":"Le numéro de téléphone doit être composé de 10 chiffres",
+      "taxId":"Le numéro d'ID fiscale fédérale / SSN doit comporter 9 chiffres",
+      "dunNumber":"Doit comporter 9 chiffres",
+      "npId":"Entrez votre identifiant national de fournisseur complet à 10 chiffres",
+      "website":"Veuillez saisir une adresse de site Web valide",
+      "email":"Adresse e-mail invalide",
+      "contactTypeId":"Veuillez sélectionner au moins un type de contact",
+      "securityAnswer":"La réponse de sécurité doit comporter au moins 6 caractères.",
+      "confirmPassword":"Le mot de passe et le mot de passe de confirmation doivent être identiques",
+      "password": "Le mot de passe doit comporter au moins huit caractères, au moins une lettre majuscule, une lettre minuscule, un chiffre et un caractère spécial"
+   }
+}

@@ -1,0 +1,29 @@
+{
+    "buttonLabel": {
+        "back": "Back",
+        "continue": "Continue",
+        "close": "Close",
+        "select": "Select"
+    },
+    "error": {
+        "login":"Username is required.",
+        "securityQuestionId":"Security question is required.",
+        "jobTitle" : "Job title is required.",
+        "empty_email":"Email address is required.",
+        "lastName" :"Last name is required.",
+        "firstName":"First name is required.",
+        "title":"Prefix is required.",
+        "zipCodeCA": "Postal Code must be alphanumeric (min- 6 characters & max-9 characters)",
+        "zipCode": "Zip Code must be digits (min- 5 characters & max-9 characters)",
+        "phone": "Phone number must be of 10 digits",
+        "taxId": "Federal Tax ID/ SSN must be 9 digits",
+        "dunNumber": "Must be 9 digits",
+        "npId": "Enter your complete 10-digit National Provider Identifier",
+        "website": "Please enter valid website address",
+        "email": "Invalid email address",
+        "contactTypeId": "Please select at least one contact type",
+        "securityAnswer": "Security answer should be minimum 6 characters is required.",
+        "confirmPassword": "Password and confirm password must be same",
+        "password": "Password must be minimum eight characters, at least one uppercase letter, one lowercase letter, one number and one special character"
+    }
+}

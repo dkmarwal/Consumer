@@ -1,0 +1,118 @@
+{
+    "14244": {
+        "title": "System | alert",
+        "description": "Your payer Best Buy Canada LTD company information is updated. Click here, to see the updated information."
+    },
+
+    "5220":{
+        "title": "B CASupp2 | Accounts Receivable",
+        "description": "Changes to your Contact information have been updated successfully.  Click here , to see the updated information."
+    },
+    "5215": {
+        "title": "B CASupp2 | Accounts Receivable",
+        "description": "Changes to your Location Information have been updated successfully.  Click here , to see the updated information."
+    }, 
+    "5210": {
+        "title": "B CASupp2 | Accounts Receivable",
+        "description": "Changes to your Company Detail(s) have been updated successfully.  Click here , to see the updated information."
+    
+    },
+    "5207": {
+        "title": "B CASupp2 | Accounts Receivable",
+        "description": "Changes to your Payment Account information  have been updated successfully.  Click here , to see the updated information."
+   },
+   "5202": {
+        "title": "B CASupp2 | Accounts Receivable",
+        "description": "Changes to your Location Information have been updated successfully.  Click here , to see the updated information."
+    }, 
+    "5197": {
+        "title": "B CASupp2 | Accounts Receivable",
+        "description": "Changes to your Contact information have been updated successfully.  Click here , to see the updated information."
+    },
+    "5192": {
+        "title": "B CASupp2 | Accounts Receivable",
+        "description": "Changes to your Company Detail(s) have been updated successfully.  Click here , to see the updated information."
+    },
+    "5191": {
+        "title": " | ",
+        "description": "Your Payment Account updates are accepted by your payer Best Buy Canada LTD. Click here , to see the updated information."
+    },
+    "5190": {
+        "title": "System | alert",
+        "description": "A new payment account has been shared with Best Buy Canada LTD. Click here, to see the updated information."
+    }, 
+    "5188": {
+        "title": "B CASupp2 | Accounts Receivable",
+        "description": "Changes to your Payment Account information  have been updated successfully.  Click here , to see the updated information."
+    },
+   "5185": {
+        "title": " | ",
+        "description": "Your Payment Account updates are accepted by your payer Best Buy Canada LTD. Click here , to see the updated information."
+   },
+    "5184": {
+        "title": "B CASupp2 | Accounts Receivable",
+        "description": "Changes to your Payment Account information  have been updated successfully.  Click here , to see the updated information."
+    },
+    "5172": {
+        "title": "System | alert",
+        "description": "Your payer  company information is updated. Click here, to see the updated information."
+    },
+    "5168":{
+        "title": "System | alert",
+        "description": "A new payment account has been shared with Best Buy Canada LTD. Click here, to see the updated information."
+    },
+    "5167": {
+        "title": "B CASupp2 | Accounts Receivable",
+        "description": "Changes to your Payment Account information  have been updated successfully.  Click here , to see the updated information."
+    },
+     "4336": {
+        "title": "B CASupp2 | Accounts Receivable",
+        "description": "Changes to your Company Detail(s) have been updated successfully.  Click here , to see the updated information."
+     },
+    "4239": {
+        "title": "System | alert",
+        "description": "Changes to your Company Detail(s) have been updated successfully.  Click here , to see the updated information."
+    },
+    "4228": {
+        "title": " | ",
+        "description": "Your Payment Account updates are accepted by your payer B CASupp. Click here , to see the updated information."
+    },
+    "4227": {
+        "title": " | ",
+        "description": "Your Payment Account updates are accepted by your payer B CASupp. Click here , to see the updated information."
+    },
+    "4165": {
+        "title": "System | alert",
+        "description": "Changes to your Company Detail(s) have been updated successfully.  Click here , to see the updated information."
+    },
+    "4152": {
+        "title": "System | alert",
+        "description": "Changes to your Company Detail(s) have been updated successfully.  Click here , to see the updated information."
+    },
+    "258": {
+        "title": "System | alert",
+        "description": "A new Bank Account/Virtual Card Account has been shared with Best Buy Canada LTD .  Click here , to see the updated information."
+    },
+    "252": {
+        "title": "System | alert",
+        "description": "A new Bank Account/Virtual Card Account has been shared with Best Buy Canada LTD .  Click here , to see the updated information."
+    },
+    "250": {
+        "title": "System | alert",
+        "description": "Profile is ready to receive payments!"
+    },
+"label": {
+    "earlier": "Earlier",
+    "new": "New",
+    "clearAll":"Clear All Notification",
+    "undoClear": "Undo Clear Notification",
+    "markAllRead":"Mark all as Read",
+    "undoReadAll": "Undo Read All",
+    "showAllNotification": "Show All Notification",
+    "noNotification": "No Notifications to Share",
+    "notifications": "Notifications",
+    "Mark as Unread" : "Mark as Unread",
+     "Mark as read": "Mark as read",
+     "Remove this notification": "Remove this notification"
+}
+}

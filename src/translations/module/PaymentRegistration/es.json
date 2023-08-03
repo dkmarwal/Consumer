@@ -1,0 +1,380 @@
+{
+  "somethingWentWrong": "Algo salió mal",
+  "invalidReq":"Solicitud no válida",
+  "button": {
+    "continue": "SEGUIR",
+    "clickHere": "Haga clic aquí",
+    "back": "ATRÁS",
+    "loginBank": "Login to Your Bank",
+    "addBank": "Add Bank Details",
+    "OK":"OK",
+    "YES":"SÍ",
+    "NO":"NO"
+  },
+  "heading": {
+    "ach": "Comparta los detalles de su cuenta",
+    "instantConnection": "Conexion instantanea",
+    "manualConnection": "Conexión manual",
+    "paypal": "Comparte tus datos de PayPal",
+    "zelle": "Comparta sus detalles de Zelle",
+    "paymentMethod": "¿Cómo le gustaría recibir su pago?",
+    "cardInfo":"Información de la tarjeta",
+    "sharePaymentDetails":"Comparte tus datos de pago",
+    "usBankAch":"Comparta los detalles de su cuenta bancaria"
+  },
+  "subHeading":{
+    "ach":"Más rápido, más fácil y más conveniente. Controle la cuenta a su conveniencia.",
+    "paypal":"El pago se liberará en su cuenta de PayPal. Tardará menos de una hora en aparecer el pago.",
+    "zelle":"Manera rápida, segura y fácil de recibir dinero. No es necesario compartir su información bancaria confidencial.",
+    "check":"Espere de 10 a 15 días hábiles para que su cheque llegue a su dirección registrada.",
+    "directDeposit":"El pago se liberará a la cuenta vinculada a su tarjeta de débito de 16 dígitos o tarjeta prepaga precargable. El pago tardará menos de una hora en aparecer en su cuenta bancaria.",
+    "instantConnection": "Inicie sesión en su banco para conectar su cuenta de forma segura. La forma más rápida de configurar el pago digital",
+    "manualConnection": "Si su banco no admite la conexión instantánea, puede ingresar manualmente el número de ruta y su número de cuenta personal"
+  },
+  "tooltipText":{
+    "paypal":"El límite máximo establecido es de ${{threshold}}. No se procesará ningún pago futuro que supere el límite establecido.",
+    "directDeposit":"El límite máximo establecido es de ${{threshold}}. No se procesará ningún pago futuro que supere el límite establecido.",
+    "zelle":"El límite máximo establecido es de ${{threshold}}. No se procesará ningún pago futuro que supere el límite establecido."
+  },
+  "remittance": {
+    "emailIdRequired": "Correo electronico es requerido",
+    "validEmail": "Por favor introduzca una dirección de correo electrónico válida",
+    "deliveryMode": "Seleccione un modo de envío de remesas"
+  },
+  "ach": {
+    "error": {
+      "accountNumber": "Se requiere el número de cuenta",
+      "confirmAccountNumber": "Confirmar el número de cuenta es obligatorio",
+      "confirmAccountNumberCheck": "Confirme que el número de cuenta debe ser el mismo que el número de cuenta",
+      "routingNumber": "Se requiere un número de ruta",
+      "routingNumberLength": "El número de ruta debe tener 9 dígitos",
+      "accountType": "Se requiere el tipo de cuenta",
+      "bankName": "Se requiere el nombre del banco"
+    },
+
+    "label": {
+      "accountNumber": "Número de cuenta",
+      "accountNumberConfirm": "Confirmar número de cuenta",
+      "routingNumber": "Número de ruta",
+      "routingNumberSearch": "Número de ruta de búsqueda",
+      "routingNumberConfirm": "Confirmar número de ruta",
+      "bankName": "Nombre del banco",
+      "accountType": "Tipo de cuenta",
+      "select":"Seleccione"
+    },
+    "successMsg": "Preferencia de pago añadida con éxito",
+    "msgText": "Deposito bancario se ha agregado como su método de pago secundario.",
+    "bankSearch": "Resultados de la búsqueda bancaria.",
+    "instantConnectionMsg": "Inicie sesión en su banco para conectar su cuenta de forma segura. La forma más rápida de configurar el pago digital",
+    "manualConnectionMsg": "Si su banco no admite la conexión instantánea, puede ingresar manualmente el número de ruta y su número de cuenta personal"
+  },
+
+  "paypal": {
+    "error": {
+      "address1": "Se requiere la línea de dirección 1",
+      "country": "El país es obligatorio",
+      "state": "El estado es obligatorio",
+      "city": "Ciudad es requerida",
+      "postalCode": "Se requiere código postal",
+      "phoneLength": "El número de teléfono debe tener 10 dígitos.",
+      "email": "Correo electronico es requerido",
+      "emailValid": "Por favor introduzca una dirección de correo electrónico válida",
+      "phoneNumber":"Se requiere número de teléfono"
+    },
+
+    "label": {
+      "emailPhone": "Correo electrónico / número de teléfono",
+      "email": "Correo electrónico",
+      "addressLine1": "Dirección Línea 1",
+      "addressLine2": "Dirección de línea 2",
+      "phoneNumber": "Número de teléfono",
+      "address":"Dirección",
+      "zipCode":"Código postal"
+    }
+  },
+
+  "plasticCard": {
+    "error": {
+      "address1": "Se requiere la línea de dirección 1",
+      "country": "El país es obligatorio",
+      "state": "Se requiere estado",
+      "city": "Ciudad es requerida",
+      "postalCode": "Se requiere código postal",
+      "phoneLength": "Número de teléfono debe ser de 10 dígitos",
+      "mobileLength": "Número de móvil debe ser de 10 dígitos",
+      "email": "correo electronico es requerido",
+      "emailValid": "Por favor introduzca una dirección de correo electrónico válida",
+      "phoneNumber":"Se requiere número de teléfono",
+      "firstName": "Se requiere el primer nombre",
+      "lastName": "Se requiere apellido",
+      "dateOfBirth": "Se requiere fecha de nacimiento",
+      "homePhone": "Se requiere teléfono de casa",
+      "mobilePhone": "Se requiere teléfono móvil",
+      "employerState": "El estado del empleador es obligatorio",
+      "govLocation": "Se requiere la ubicación del gobierno",
+      "govExpiredDate": "Se requiere la fecha de caducidad del gobierno"
+    },
+
+    "label": {
+      "emailPhone": "Correo electrónico/Número de teléfono",
+      "email": "Correo electrónico",
+      "firstName": "Primer nombre",
+      "lastName": "Apellido",
+      "addressLine1": "Dirección Línea 1",
+      "addressLine2": "Línea de dirección 2",
+      "phoneNumber": "Telefono no.",
+      "address":"Dirección",
+      "zipCode":"Código postal",
+      "dateOfBirth": "Fecha de nacimiento",
+      "homePhone": "Teléfono de casa",
+      "mobilePhone": "Teléfono móvil",
+      "employerState": "Estado empleador",
+      "govLocation": "Ubicación del gobierno",
+      "govExpiredDate": "Fecha de vencimiento del gobierno"
+    }
+  },
+  "USbankFocusCard": {
+    "error": {
+      "address1": "Se requiere la línea de dirección 1",
+      "postalCodemin": "El código postal no debe tener menos de 5 dígitos.",
+      "employerStatemin": "Estado del empleador no debe tener menos de 2 caracteres.",
+      "address2": "Se requiere la línea de dirección 2",
+      "country": "El país es obligatorio",
+      "SSN": "Se requiere NSS",
+      "state": "Se requiere estado",
+      "city": "Ciudad es requerida",
+      "postalCode": "Se requiere código postal",
+      "phoneLength": "Número de teléfono debe ser de 10 dígitos",
+      "mobileLength": "Número de móvil debe ser de 10 dígitos",
+      "email": "correo electronico es requerido",
+      "emailValid": "Por favor introduzca una dirección de correo electrónico válida",
+
+      "phoneNumber":"Se requiere número de teléfono",
+      "firstName": "Se requiere el primer nombre",
+      "lastName": "Se requiere apellido",
+      "dateOfBirth": "Se requiere fecha de nacimiento",
+      "homePhone": "Se requiere teléfono de casa",
+      "mobilePhone": "Se requiere teléfono móvil",
+      "employerState": "El estado del empleador es obligatorio",
+      "govLocation": "Se requiere la ubicación del gobierno",
+      "govExpiredDate": "Se requiere la fecha de caducidad del gobierno",
+      "govIdType":"El tipo de gobierno es obligatorio",
+        "govIdValue":"Se requiere el valor del gobierno"
+    },
+
+    "label": {
+      "emailPhone": "Correo electrónico/Número de teléfono",
+      "email": "Correo electrónico",
+      "firstName": "Primer nombre",
+      "lastName": "Apellido",
+      "addressLine1": "Dirección Línea 1",
+      "addressLine2": "Línea de dirección 2",
+      "uniqueId":"Identificación única",
+      "SSN":"SSN",
+      "phoneNumber": "Telefono no.",
+      "address":"Dirección",
+      "zipCode":"Código postal",
+      "dateOfBirth": "Fecha de nacimiento",
+      "homePhone": "Teléfono de casa",
+      "mobilePhone": "Teléfono móvil",
+      "employerState": "Estado empleador",
+      "govLocation": "Ubicación del gobierno",
+      "govExpiredDate": "Fecha de vencimiento del gobierno",
+      "govIdType":"Tipo de gobierno",
+      "govIdValue":"Valor del gobierno"
+    }
+  },
+  "digitalCard": {
+    "error": {
+      "address1": "Se requiere la línea de dirección 1",
+      "country": "El país es obligatorio",
+      "state": "Se requiere estado",
+      "city": "Ciudad es requerida",
+      "postalCode": "Se requiere código postal",
+      "phoneLength": "Número de teléfono debe ser de 10 dígitos",
+      "mobileLength": "Número de móvil debe ser de 10 dígitos",
+      "email": "correo electronico es requerido",
+      "emailValid": "Por favor introduzca una dirección de correo electrónico válida",
+      "phoneNumber":"Se requiere número de teléfono",
+      "firstName": "Se requiere el primer nombre",
+      "lastName": "Se requiere apellido"
+    },
+
+    "label": {
+      "email": "Correo electrónico",
+      "firstName": "Primer nombre",
+      "lastName": "Apellido",
+      "addressLine1": "Dirección Línea 1",
+      "phoneNumber": "Telefono no.",
+      "address":"Dirección",
+      "zipCode":"Código postal"
+    },
+    "info":{
+      "document": "El documento que se establece a continuación es el acuerdo del titular de la tarjeta de recompensas de U.S. Bank",
+      "PlasticCard":"Tarjeta Plástica",
+      "DigitalCard":"Tarjeta Digital",
+     "Agreement": "Acuerdo del titular de la tarjeta Corporate Rewards de US Bank",
+      "Card": "¿Cómo será mi tarjeta?",
+      "DigitalDisclosure":"Luego de la revisión y aprobación, su pedido se procesará y enviará dentro de 7 a 10 días hábiles. Si tiene preguntas, llame a Servicio al cliente: 855-274-9934. Para actualizar sus datos una vez enviados aquí, visite https: //usbankrewardscard.com/. La tarjeta de recompensas no se puede recargar con fondos adicionales, ni se puede usar en un cajero automático. No hay acceso a efectivo. Solo para uso en los EE. UU. Se aplican términos y condiciones, incluidas las tarifas. La tarjeta de recompensas es emitida por Asociación Nacional de Bancos de EE. UU. conforme a una licencia de Visa U.S.A. Inc. ©2021 U.S. Bank.",
+      "PlasticDisclosure":"Luego de la revisión y aprobación, su pedido se procesará y enviará dentro de 7 a 10 días hábiles. Si tiene preguntas, llame a Servicio al cliente: 855-274-9934. Para actualizar sus datos una vez enviados aquí, visite https: //usbankrewardscard.com/. La tarjeta de recompensas no se puede recargar con fondos adicionales, ni se puede usar en un cajero automático. No hay acceso a efectivo. Solo para uso en los EE. UU. Se aplican términos y condiciones, incluidas las tarifas. La tarjeta de recompensas es emitida por Asociación Nacional de Bancos de EE. UU. conforme a una licencia de Visa U.S.A.Inc. © 2021 U.S.Bank.",
+      "mailimgaddress": "Proporcione su dirección postal a continuación."
+    }
+    
+  },
+
+  "zelle": {
+    "error": {
+      "emailErr": "Por favor, introduce una dirección de correo electrónico válida",
+      "phoneErr": "El número de teléfono debe tener 10 dígitos",
+      "tokenErr": "Seleccione correo electrónico/número de teléfono",
+      "tokenErrPE": "Se requiere el número de teléfono",
+      "tokenErrEmail": "Correo electronico es requerido"
+    },
+
+    "label": {
+      "emailPhone": "Correo electrónico / número de teléfono",
+      "email": "Correo electrónico",
+      "phone": "Número de teléfono",
+      "tokenValue": "Correo electrónico"
+    },
+
+    "conditions": {
+      "txt": "Las opciones de pago se mostrarán al consumidor en función de los métodos de pago elegidos por el cliente durante el proceso de embarque.",
+      "note": "Nota: ",
+      "txt2": "La opción de pago de Zelle se proporcionará al consumidor según el estado del token del usuario y la configuración de destinatario desconocido habilitada para el cliente."
+    }
+  },
+
+  "error": {
+    "addressLine1": "Se requiere la línea de dirección 1",
+    "addressLine2": "Se requiere la dirección de línea 2",
+    "country": "El país es obligatorio",
+    "state": "El estado es obligatorio",
+    "city": "Ciudad es requerida",
+    "postalCode": "Se requiere código postal"
+  },
+  "label": {
+    "addressLine1": "Dirección Línea 1",
+    "addressLine2": "Dirección de línea 2",
+    "country": "País",
+    "state": "Estado",
+    "city": "Ciudad",
+    "postalCode": "Código postal"
+  },
+  "buttonLabel": {
+    "continue": "SEGUIR"
+  },
+  "check": {
+    "or": "O",
+    "paymentCheck": "Si prefiere recibir su pago mediante cheque.",
+    "clickHere": "Haga clic aquí",
+    "heading": {
+      "checkInformation": "Comparta los detalles de su Cheque"
+    },
+
+    "message": {
+      "checkAlternateMethod": "Cheque se ha agregado como su método de pago secundario.",
+      "somethingWentWrong": "Algo salió mal",
+      "checkPaymentInfo": "Consumidor B2C Cheque información de pago agregada con éxito"
+    }
+  },
+
+  "pushToCard": {
+    "error": {
+      "nameRequired": "Se requiere el nombre del titular de la tarjeta",
+      "validCardNumber": "Por favor, introduzca un número de tarjeta válido",
+      "invalidCardExpiry": "La fecha de caducidad no es válida",
+      "cardExpiryDate": "La fecha de caducidad es obligatoria",
+      "cvvLength": "CVV debe tener una longitud de 3 dígitos",
+      "cardNumber":"Solo se acepta Visa/MasterCard"
+    },
+
+    "heading": {
+      "pushToCardInformation": "Comparta los detalles de su tarjeta de débito"
+    },
+
+    "label": {
+      "nameOnCard": "Nombre del titular de la tarjeta",
+      "cardNumber": "Número de tarjeta",
+      "expiryDate": "Fecha de caducidad",
+      "cvv": "CVV"
+    },
+
+    "message": {
+      "somethingWentWrong": "Algo salió mal"
+    }
+  },
+
+  "depositToDebit": {
+    "error": {
+      "nameRequired": "Se requiere el nombre del titular de la tarjeta",
+      "validCardNumber": "Por favor, introduzca un número de tarjeta válido",
+      "invalidCardExpiry": "La fecha de caducidad no es válida",
+      "cardExpiryDate": "La fecha de caducidad es obligatoria",
+      "cvvLength": "CVV debe tener una longitud de 3 dígitos",
+      "cardNumber":"Solo se acepta Visa/MasterCard"
+    },
+
+    "label": {
+      "nameOnCard": "Nombre del titular de la tarjeta",
+      "cardNumber": "Número de tarjeta",
+      "expiryDate": "Fecha de caducidad"
+    },
+
+    "message": {
+      "somethingWentWrong": "Algo salió mal",
+      "confirmationText":"Ha superado el número máximo de intentos incorrectos. Elija otra preferencia de pago.",
+      "logoutConfirmationText":"El depósito a la tarjeta de débito no tuvo éxito. Elija otra preferencia de pago. Haga clic en SÍ para continuar."
+    }
+  },
+
+  "alternatePayment": {
+    "heading": "Método de pago secundario (Opcional)",
+    "clearSelection": "Limpiar Formulario",
+    "skip": "SALTAR POR AHORA",
+    "save": "SEGUIR",
+    "msgText": "Puede agregar el Pago secundario después de iniciar sesión en el Intercambio de pagos",
+    "or": "O",
+    "paymentCheck": "Si prefiere recibir su pago mediante cheque.",
+    "subHeading":"Se recomienda elegir un método de pago secundario para garantizar el procesamiento sin problemas de los pagos elevados en dólares. Al seleccionar un método de pago secundario, recibirá su dinero sin demora, incluso si su método de pago principal no puede procesarlo debido a los límites de procesamiento de la red."
+  },
+  "otherPaymentMethods":{
+    "heading":"Otros métodos de pago"
+  },
+  "mostPreferred":"Más preferido",
+  "usBankPreferred":"Privilegiado",
+  "ifEnrolled":"Menos de 1 hora si el número de teléfono o el correo electrónico están registrados en Zelle.",
+  "clearSelection":"Limpiar Formulario",
+  "maximumPayment":"El límite máximo de pago es ",
+  "paymentRef":"Número de referencia de pago : {{paymentRefId}}",
+  "noPaymentMethodFound":"No se encontró ningún método de pago",
+  "selectAnAccount":"Seleccione una cuenta para compartir",
+  "shareAccount":"Selecciona una cuenta para compartir ",
+  "thankyouMessage":{
+    "registeredUser":{
+      "ach":"Se ha enviado una confirmación por correo electrónico y / o SMS a su información de contacto registrada. Recibirá su pago en su cuenta bancaria dentro de {{timeRequired}} dias. Para pagos futuros, puede cambiar su preferencia de pago en cualquier momento.",
+      "check":"Se ha enviado una confirmación por correo electrónico y / o SMS a su información de contacto registrada. Recibirá su cheque dentro de {{timeRequired}} días. Para pagos futuros, puede cambiar su preferencia de pago en cualquier momento.",
+      "zelle":"Se ha enviado un correo electrónico y/o mensaje de texto a su información de contacto registrada. Recibirá su pago en su cuenta bancaria vinculada con Zelle generalmente en menos de una hora. Puede tomar hasta un día para algunos bancos. Para pagos futuros, puede cambiar su preferencia de pago en cualquier momento.",
+      "directDeposit":"Se ha enviado una confirmación por correo electrónico y/o SMS a su información de contacto registrada. Recibirá su pago en la cuenta vinculada a su tarjeta de débito en menos de una hora. Para pagos futuros, puede cambiar su preferencia de pago en cualquier momento.",
+      "paypal":"Se ha enviado una confirmación por correo electrónico y/o SMS a su información de contacto registrada. Recibirás tu pago en tu cuenta PayPal en menos de una hora. Para pagos futuros, puede cambiar su preferencia de pago en cualquier momento.",
+      "usbankAch":"Se ha enviado una confirmación por correo electrónico y/o SMS a su información de contacto registrada. Recibirá su pago en su cuenta bancaria dentro de {{timeRequired}} días hábiles. Para pagos futuros, puede cambiar su preferencia de pago en cualquier momento.",
+      "usbankZelle":"Se ha enviado una confirmación por correo electrónico y/o SMS a su información de contacto registrada. Recibirás tu pago en tu cuenta Zelle en menos de una hora. Para pagos futuros, puede cambiar su preferencia de pago en cualquier momento.",
+      "usBankDepositToDebitcard":"Se ha enviado una confirmación por correo electrónico y/o SMS a su información de contacto registrada. Recibirá su pago en su cuenta de Depósito a Débito en menos de una hora. Para pagos futuros, puede cambiar su preferencia de pago en cualquier momento.",
+      "usBankPrepaidCard":"Se ha enviado una confirmación por correo electrónico y/o SMS a su información de contacto registrada. Recibirá su pago en su tarjeta prepaga dentro de {{timeRequired}} días hábiles. Para pagos futuros, puede cambiar su preferencia de pago en cualquier momento.",
+      "usBankCHK":"Se ha enviado una confirmación por correo electrónico y/o SMS a su información de contacto registrada. Recibirá su cheque dentro de {{timeRequired}} días hábiles. Para pagos futuros, puede cambiar su preferencia de pago en cualquier momento."
+    },
+    "guestUser":{
+      "ach":"Se ha enviado una confirmación por correo electrónico y / o SMS a su información de contacto registrada. Recibirá su pago en su cuenta bancaria dentro de {{timeRequired}} dias.",
+      "check":"Se ha enviado una confirmación por correo electrónico y / o SMS a su información de contacto registrada. Recibirá su cheque dentro de {{timeRequired}} dias.",
+      "zelle":"Se ha enviado un correo electrónico y/o mensaje de texto a su información de contacto registrada. Recibirá su pago en su cuenta bancaria vinculada con Zelle generalmente en menos de una hora. Puede tomar hasta un día para algunos bancos.",
+      "directDeposit":"Se ha enviado una confirmación por correo electrónico y/o SMS a su información de contacto registrada. Recibirá su pago en la cuenta vinculada a su tarjeta de débito en menos de una hora.",
+      "paypal":"Se ha enviado una confirmación por correo electrónico y/o SMS a su información de contacto registrada. Recibirás tu pago en tu cuenta PayPal en menos de una hora.",
+      "usbankAch":"Se ha enviado una confirmación por correo electrónico y/o SMS a su información de contacto registrada. Recibirá su pago en su cuenta bancaria dentro de {{timeRequired}} días hábiles.",
+      "usbankZelle":"Se ha enviado un correo electrónico y/o mensaje de texto a su información de contacto registrada. Recibirá su pago en su cuenta bancaria vinculada con Zelle generalmente en menos de una hora. Puede tomar hasta un día para algunos bancos.",
+      "usBankDepositToDebitcard":"Se ha enviado una confirmación por correo electrónico y/o SMS a su información de contacto registrada. Recibirá su pago en la cuenta vinculada a su tarjeta de débito en menos de una hora.",
+      "usBankPrepaidCard":"Se ha enviado una confirmación por correo electrónico y/o SMS a su información de contacto registrada. Recibirá su pago en la cuenta vinculada a su tarjeta prepaga dentro de {{timeRequired}} días hábiles.",
+      "usBankCHK":"Se ha enviado una confirmación por correo electrónico y/o SMS a su información de contacto registrada. Recibirá su pago en su cuenta bancaria dentro de {{timeRequired}} días hábiles."
+    }
+  },
+  "dataSecureText": "Tus datos están seguros"
+}

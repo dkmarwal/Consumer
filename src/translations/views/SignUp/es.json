@@ -1,0 +1,75 @@
+{
+    "buttonLabel": {
+        "cancel": "Cancelar"
+    },
+    "signUpWithTax": {
+        "user": {
+            "error": {
+                "firstName": "Se requiere el primer nombre.",
+                "lastName": "Se requiere apellido.",
+                "userName": "Se requiere nombre de usuario.",
+                "securityQuestionId": "Se requiere una pregunta de seguridad.",
+                "phone": "El número de teléfono debe tener 10 dígitos",
+                "email": "Dirección de correo electrónico inválida",
+                "password": "La nueva contraseña debe tener un mínimo de ocho caracteres, al menos una letra mayúscula, una letra minúscula, un número y un carácter especial ",
+                "confirmPassword": "La contraseña y la contraseña de confirmación deben ser las mismas",
+                "securityAnswer": "La respuesta de seguridad debe tener un mínimo de 6 caracteres."
+            },
+            "notification": 
+            {
+                "Signup successful": "Registro exitoso",
+                "tooltipTitle": "La nueva contraseña debe tener un mínimo de ocho caracteres, al menos una letra mayúscula, una letra minúscula, un número y un carácter especial ",
+                "User already exist!": "El usuario ya existe!"
+            }
+        },
+        "label": {
+            "paymentExchange": "Intercambio de pago",
+            "completeSetup": "COMPLETA TU CONFIGURACIÓN",
+            "firstName": "Primer nombre*",
+            "lastName": "Apellido*",
+            "userName": "Nombre de usuario*",
+            "email": "Correo electrónico*",
+            "password": "Contraseña*",
+            "confirmPassword": "confirmar Contraseña*",
+            "securityQuestion": "Pregunta de Seguridad*",
+            "securityAnswer": "Respuesta de seguridad*",
+            "register": "Registrarse"
+        },
+
+        "stepperInfo":{
+            "companyInfo": "INFORMACION DE LA EMPRESA",
+            "contactInfo": "INFORMACIÓN DEL CONTACTO",
+            "mailVarif": "VERIFICACION DE EMAIL"
+        }
+    },
+    "startUp": {
+        "label": {
+            "welcomeMsg": "¡Citi Payment Exchange ha comenzado a ofrecer un servicio gratuito que le permitirá recibir sus pagos electrónicamente! Configure su perfil en nuestro nuevo Sistema de procesamiento de pagos electrónicos para que podamos comenzar a procesar sus pagos. Payment Exchange le permite:",
+            "updatePayment":"Actualizar electrónicamente los detalles de pago y perfil",
+            "trackPayment": "Realice un seguimiento de todos sus pagos en un solo lugar",
+            "receivePayment": "Reciba pagos electrónicamente de",
+            "wlcmPaymentExchange": "¡Bienvenido a Payment Exchange!",
+            "completeSignUp": "COMPLETA TU REGISTRO",
+            "taxId": "Identificación del impuesto*",
+            "email": "Correo electrónico*",
+            "agree": "estoy de acuerdo con",
+            "terms": "Términos y condiciones.",
+            "termsConditionConfirmText": "Lea y confirme su acuerdo con nuestros términos y condiciones que detallan sus derechos y responsabilidades como miembro de la Red de Intercambio de Pagos de Citi.",
+            "certifyText": "Certifico que soy un empleado de la empresa para la que estoy creando un Perfil de Intercambio de Pagos de Citi, que estoy autorizado a crear un perfil en nombre de la empresa y que la información que proporciono en el perfil de nuestra empresa es correcta al mejor de los casos. mi conocimiento",
+            "verify": "Verificar"
+        },
+        "error": {
+            "email": "Dirección de correo electrónico inválida",
+            "taxId": "El número de identificación fiscal federal / SSN debe tener 9 dígitos"
+        },
+        "notification": {
+                "Activation code is mandatory": "El código de activación es obligatorio.",
+                "To verify kindly go through and accept the Terms & Conditions and certify your authorisation to create Citi Payment Exchange profile on behalf of your company": "Para verificar, revise y acepte los Términos y condiciones y certifique su autorización para crear un perfil de Citi Payment Exchange en nombre de su empresa.",
+                "To verify kindly go through and accept the Terms & Conditions": "Para verificar, revise y acepte los Términos y condiciones.",
+                "To verify kindly certify your authorisation to create Citi Payment Exchange profile on behalf of your company":  "Para verificar, certifique amablemente su autorización para crear un perfil de Citi Payment Exchange en nombre de su empresa.",
+                "Please select the Captcha": "Por favor seleccione el Captcha.",
+                "Tax Id is mandatory": "La identificación fiscal es obligatoria.",
+                "User already exists!": "El usuario ya existe!"
+        }
+    }
+}

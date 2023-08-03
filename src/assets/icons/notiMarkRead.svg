@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>D6BC5E5A-710C-474C-9D31-A097425FA791</title>
+    <defs>
+        <path d="M11.2301923,5.375 L7.04807692,9.57245223 L4.76980769,7.29219745 L3.875,8.19028662 L7.04807692,11.375 L12.125,6.2794586 L11.2301923,5.375 Z M8,0.5 C3.86,0.5 0.5,3.86 0.5,8 C0.5,12.14 3.86,15.5 8,15.5 C12.14,15.5 15.5,12.14 15.5,8 C15.5,3.86 12.14,0.5 8,0.5 Z M8,14 C4.685,14 2,11.315 2,8 C2,4.685 4.685,2 8,2 C11.315,2 14,4.685 14,8 C14,11.315 11.315,14 8,14 Z" id="path-1"></path>
+    </defs>
+    <g id="Client-Portal" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Notification_1" transform="translate(-1102.000000, -137.000000)">
+            <g id="add" transform="translate(1102.000000, 137.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="-↳Color" fill="#53565A" xlink:href="#path-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>

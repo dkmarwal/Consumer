@@ -1,0 +1,29 @@
+{
+    "buttonLabel": {
+        "back": "atrás",
+        "continue": "Continuar",
+        "close": "Cerrar",
+        "select": "Seleccione"
+    },
+    "error": {
+        "login":"Se requiere nombre de usuario.",
+        "securityQuestionId":"Se requiere una pregunta de seguridad.",
+        "jobTitle" : "Se requiere el título del trabajo.",
+        "empty_email":"Se requiere Dirección de correo electrónico.",
+        "lastName" :"Se requiere el apellido.",
+        "firstName":"Se requiere el primer nombre.",
+        "title":"Se requiere prefijo.",
+        "zipCodeCA": "El código postal debe ser alfanumérico (mínimo 6 caracteres y máximo 9 caracteres)",
+        "zipCode": "El código postal debe contener dígitos (mínimo 5 caracteres y máximo 9 caracteres)",
+        "phone": "El número de teléfono debe tener 10 dígitos",
+        "taxId": "El número de identificación fiscal federal / SSN debe tener 9 dígitos",
+        "dunNumber": "Debe tener 9 dígitos",
+        "npId": "Ingrese su identificador de proveedor nacional completo de 10 dígitos",
+        "website": "Ingrese una dirección de sitio web válida",
+        "email": "Dirección de correo electrónico inválida",
+        "contactTypeId": "Seleccione al menos un tipo de contacto",
+        "securityAnswer": "La respuesta de seguridad debe tener un mínimo de 6 caracteres.",
+        "confirmPassword": "La contraseña y la contraseña de confirmación deben ser las mismas",
+        "password": "La contraseña debe tener un mínimo de ocho caracteres, al menos una letra mayúscula, una letra minúscula, un número y un carácter especial"
+    }
+}

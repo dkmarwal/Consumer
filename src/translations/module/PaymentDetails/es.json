@@ -1,0 +1,13 @@
+{
+    "paymentReference": "Referencia de pago",
+    "paymentMethod": "Método de pago",
+    "notes": "Notas",
+    "paymentReceipt": "Detalles del pago",
+    "downloadPaymentReciept": "Descargar detalles de pago",
+    "deliveryAddress": "Dirección de entrega",
+    "notification": {
+      "Download Success!!": "Descargar Exito!!",
+      "File does not exist!": "¡El archivo no existe!"
+    }
+  }
+  

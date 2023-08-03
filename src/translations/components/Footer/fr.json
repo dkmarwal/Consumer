@@ -1,0 +1,17 @@
+{
+  "label": {
+    "allRightsReserved": "Droits d'auteur © 2021 Citi. Tous les droits sont réservés.",
+    "citiInfo": "Citigroup.com est la source mondiale d'informations et d'accès aux services financiers fournis par les sociétés Citigroup.",
+    "EmailUs": "Envoyez-nous un email",
+    "FAQs": "FAQ",
+    "NeedHelp":"Besoin d'aide",
+    "phoneExtesion":"ext.",
+    "PrivacyPolicy": "Confidentialité",
+    "noPrivacyPolicyFound": "Aucune politique de confidentialité trouvée.",
+    "TC": "Termes"
+  },
+   "labelLink":{
+    "PrivacyPolicy": "Confidentialité",
+    "TC": "Termes"
+  }
+}

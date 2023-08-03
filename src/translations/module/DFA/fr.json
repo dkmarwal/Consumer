@@ -1,0 +1,45 @@
+{
+    "buttonLabel": {
+      "cancel": "ANNULER",
+      "save": "SAUVER",
+      "call": "APPEL",
+      "sms": "TEXTE",
+      "email":"E-MAIL",
+      "resendSms": "RENVOYER TEXTE",
+      "submit": "NOUS FAIRE PARVENIR",
+      "back":"RETOUR",
+      "send":"ENVOYER",
+      "skip": "IGNORER POUR L'INSTANT",
+      "text": "ÉCRIS MOI",
+      "update":"METTRE À JOUR"
+    },
+    "error": {
+      "dfaPhone": "Le numéro de téléphone doit être composé de 10 chiffres",
+      "verificationErr": "Veuillez entrer votre code de vérification",
+      "dfaErr":"Veuillez sélectionner Appel ou SMS pour recevoir votre code de vérification.",
+      "somethingWentWrong": "Quelque chose s'est mal passé ! Réessayer.",
+      "invalidPhoneNumber": "Numéro invalide !",
+      "verificationCodeRequired": "Le code de vérification est requis."
+    },
+    "notification": {
+      "Dual factor authentication updated successfully": "Authentification à deux facteurs mise à jour avec succès"
+    },
+    "label": {
+      "dfaType": "Type d'authentification à double facteur",
+      "phone": "TÉLÉPHONE",
+      "sms": "SMS",
+      "verificationCode":"Code de vérification"
+    },
+    "message": {
+      "retryAfter60": "Cela peut prendre quelques secondes. Réessayez après 60 secondes.",
+      "MFAText":"Veuillez sélectionner où souhaitez-vous recevoir votre code de vérification",
+      "enterCode": "Veuillez saisir le code de vérification à six chiffres reçu le",
+      "verificationCode": "Entrez votre code de vérification",
+      "twoStepVerification": "Vérification en deux étapes",
+      "accessProfile": "Validez pour accéder à votre profil",
+      "verifyPhoneNumber": "Veuillez vérifier votre numéro de téléphone.",
+      "securePayments": "Ajoute plus de sécurité à vos futurs paiements et informations de compte.",
+      "oneTimeVerificationCode": "Nous vous enverrons un code de vérification à usage unique.",
+      "updatePhoneText":"Veuillez mettre à jour votre numéro de téléphone pour procéder à votre préférence de paiement"
+  }
+  }

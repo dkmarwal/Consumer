@@ -1,0 +1,15 @@
+{
+    "label": {
+        "logout": "LOGOUT",
+        "manageYourAccount": " Manage Your Account",
+        "english": "English",
+        "french": "French",
+        "paymentExchange": "Payment Exchange",
+        "Redeem": "Redeem",
+        "Rewards": "Rewards",
+        "Manage Account": "Manage Account",
+        "Support": "Support",
+        "Employee Rewards": "Employee Rewards",
+        "hiGuestUser":"Hi, Guest User"
+    }
+}

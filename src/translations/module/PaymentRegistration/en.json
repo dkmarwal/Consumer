@@ -1,0 +1,460 @@
+{
+  "somethingWentWrong": "Something went wrong",
+  "invalidReq":"Invalid Request",
+  "button": {
+    "continue": "CONTINUE",
+    "clickHere": "Click Here",
+    "back": "BACK",
+    "loginBank": "Login to Your Bank",
+    "addBank": "Add Bank Details",
+    "OK":"OK",
+    "YES":"YES",
+    "NO":"NO"
+  },
+  "heading": {
+    "ach": "Share your Bank Deposit Details",
+    "instantConnection": "Instant Connection",
+    "manualConnection": "Manual Connection",
+    "paypal": "Share your PayPal Details",
+    "zelle": "Share your Zelle Details",
+    "paymentMethod": "How would you like to receive your payment?",
+    "cardInfo":"Card Information",
+    "sharePaymentDetails":"Share your payment details",
+    "corporateReward": "Corporate Reward Card",
+    "ReliaCard":"Relia Card",
+    "FocusCard":"Focus Non-Payroll",
+    "usBankAch":"Share your Bank Account Details"
+  },
+  "subHeading":{
+    "ach":"Faster, easier, & more convenient. Control the account at your own convenience.",
+    "paypal":"Payment will be released to your PayPal account. It will take less than an hour for the payment to appear.",
+    "zelle":"Quick, secure, and easy way to receive money. No need to share your confidential bank information.",
+    "check":"Allow 10-15 business days for your check to arrive to your registered address.",
+    "directDeposit":"Payment will be released to the account linked to your 16-digit Debit Card or preloadable prepaid card. It will take less than an hour for the payment to appear in your bank account.",
+    "instantConnection": "Sign in to your bank to securely connect your account. The fastest way to get set up for digital payment",
+    "manualConnection": "If your bank does not support instant connection, you can manually enter the routing number and your personal account number"
+  },
+  "tooltipText":{
+    "paypal":"PayPal threshold limit is ${{threshold}}. Any of your future payments which exceed Network Processing limit will not be processed.",
+    "directDeposit":"Instant Pay threshold limit is ${{threshold}}. Any of your future payments which exceed Network Processing limit will not be processed.",
+    "zelle":"Zelle threshold limit is ${{threshold}}. Any of your future payments which exceed Network Processing limit will not be processed."
+  },
+  "remittance": {
+    "emailIdRequired": "Email is required",
+    "validEmail": "Please enter a valid email",
+    "deliveryMode": "Please select one remittance delivery mode"
+  },
+  "ach": {
+    "error": {
+      "accountNumber": "Account Number is required",
+      "confirmAccountNumber": "Confirm Account Number is required",
+      "confirmAccountNumberCheck": "Confirm Account Number should be same as Account Number",
+      "routingNumber": "Routing Number is required",
+      "routingNumberLength": "Routing Number must be of 9 digits",
+      "accountType": "Account Type is required",
+      "bankName": "Bank Name is required"
+    },
+
+    "label": {
+      "accountNumber": "Account Number",
+      "accountNumberConfirm": "Confirm Account Number",
+      "routingNumber": "Routing Number",
+      "routingNumberSearch": "Search Routing Number",
+      "routingNumberConfirm": "Confirm Routing Number",
+      "bankName": "Bank Name",
+      "accountType": "Account Type",
+      "select":"Select"
+    },
+    "successMsg": "Payment preference added successfully",
+    "msgText": "Bank Deposit has been added as your Secondary Payment Method.",
+    "bankSearch": "Bank Search Results",
+    "instantConnectionMsg": "Sign in to your bank to securely connect your account. The fastest way to get set up for digital payment",
+    "manualConnectionMsg": "If your bank does not support instant connection, you can manually enter the routing number and your personal account number"
+  },
+
+  "paypal": {
+    "error": {
+      "address1": "Address Line 1 is required",
+      "country": "Country is required",
+      "state": "State is required",
+      "city": "City is required",
+      "postalCode": "Zip Code is required",
+      "phoneLength": "Phone Number should be of 10 digits",
+      "email": "Email is required",
+      "emailValid": "Please enter a valid Email",
+      "phoneNumber":"Phone Number is required"
+    },
+
+    "label": {
+      "emailPhone": "Email/Phone Number",
+      "email": "Email",
+      "addressLine1": "Address Line 1",
+      "addressLine2": "Address Line 2",
+      "phoneNumber": "Phone No.",
+      "address":"Address",
+      "zipCode":"Zip Code"
+    }
+  },
+
+  "plasticCard": {
+    "error": {
+      "address1": "Address Line 1 is required",
+      "country": "Country is required",
+      "state": "State is required",
+      "city": "City is required",
+      "postalCode": "Zip Code is required",
+      "phoneLength": "Phone Number should be of 10 digits",
+      "mobileLength": "Mobile Number should be of 10 digits",
+      "email": "Email is required",
+      "emailValid": "Please enter a valid Email",
+      "phoneNumber":"Phone Number is required",
+      "firstName": "First Name is required",
+      "lastName": "Last Name is required",
+      "dateOfBirth": "Date of Birth is required",
+      "homePhone": "Home Phone is required",
+      "mobilePhone": "Mobile Phone is required",
+      "employerState": "Employer State is required",
+      "govLocation": "Gov Location is required",
+      "govExpiredDate": "Gov Expired Date is required"
+    },
+
+    "label": {
+      "emailPhone": "Email/Phone Number",
+      "email": "Email",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "addressLine1": "Address Line 1",
+      "addressLine2": "Address Line 2",
+      "phoneNumber": "Phone No.",
+      "address":"Address",
+      "zipCode":"Zip Code",
+      "dateOfBirth": "Date of Birth",
+      "homePhone": "Home Phone",
+      "mobilePhone": "Mobile Phone",
+      "employerState": "Employer State",
+      "govLocation": "Gov Location",
+      "govExpiredDate": "Gov Expired Date"
+    }
+  },
+
+  "USbankFocusCard": {
+    "error": {
+      "address1": "Address Line 1 is required",
+      "postalCodemin": "Zip Code  must not be less than 5 digits.",
+      "employerStatemin": "Employer State  must not be less than 2 characters.",
+      "address2": "Address Line 2 is required",
+      "country": "Country is required",
+      "state": "State is required",
+      "SSN": "SSN is required",
+      "city": "City is required",
+      "postalCode": "Zip Code is required",
+      "phoneLength": "Phone Number should be of 10 digits",
+      "mobileLength": "Mobile Number should be of 10 digits",
+      "email": "Email is required",
+      "emailValid": "Please enter a valid Email",
+      "phoneNumber":"Phone Number is required",
+      "firstName": "First Name is required",
+      "lastName": "Last Name is required",
+      "dateOfBirth": "Date of Birth is required",
+      "homePhone": "Home Phone is required",
+      "mobilePhone": "Mobile Phone is required",
+      "employerState": "Employer State is required",
+      "govLocation": "Gov Location is required",
+      "govExpiredDate": "Gov Expired Date is required",
+      "govIdType":"Gov Type is required",
+        "govIdValue":"Gov Value is required"
+    },
+
+    "label": {
+      "emailPhone": "Email/Phone Number",
+      "email": "Email",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "addressLine1": "Address Line 1",
+      "addressLine2": "Address Line 2",
+      "phoneNumber": "Phone No.",
+      "address":"Address",
+      "zipCode":"Zip Code",
+      "uniqueId":"Unique ID",
+      "dateOfBirth": "Date of Birth",
+      "SSN":"SSN",
+      "homePhone": "Home Phone",
+      "mobilePhone": "Mobile Phone",
+      "employerState": "Employer State",
+      "govLocation": "Gov Location",
+      "govExpiredDate": "Gov Expired Date",
+      "govIdType":"Gov Type",
+        "govIdValue":"Gov Value"
+    }
+  },
+  "digitalCard": {
+    "error": {
+      "address1": "Address Line 1 is required",
+      "country": "Country is required",
+      "state": "State is required",
+      "city": "City is required",
+      "postalCode": "Zip Code is required",
+      "phoneLength": "Phone Number should be of 10 digits",
+      "mobileLength": "Mobile Number should be of 10 digits",
+      "email": "Email is required",
+      "emailValid": "Please enter a valid Email",
+      "phoneNumber":"Phone Number is required",
+      "firstName": "First Name is required",
+      "lastName": "Last Name is required"
+    },
+
+    "label": {
+      "email": "Email",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "addressLine1": "Address Line 1",
+      "phoneNumber": "Phone No.",
+      "address":"Address",
+      "zipCode":"Zip Code"
+    },
+    "info":{
+      "document": "The document set forth below is the Cardholder agreement for the U.S. Bank rewards Card.",
+      "PlasticCard":"Plastic Card",
+      "DigitalCard":"Digital Card",
+     "Agreement": "US Bank Corporate Rewards Cardholder Agreement",
+      "Card": "What will my card look like?",
+      "DigitalDisclosure":"Upon review and approval, your order will be processed and shipped out within 7-10 business days. For questions please call Customer Service: 855-274-9934. For updating your details once submitted here, please visit https://usbankrewardscard.com/. Rewards Card cannot be reloaded with additional funds, nor can it be used at an ATM. No cash access. For use in the U.S. only. Terms and conditions, including fees, apply. Rewards Card is issued by U.S. Bank National Association pursuant to a license from Visa U.S.A. Inc. ©2021 U.S. Bank.",
+      "PlasticDisclosure":"Upon review and approval, your order will be processed and shipped out within 7-10 business days. For questions please call Customer Service: 855-274-9934. For updating your details once submitted here, please visit https://usbankrewardscard.com/. Rewards Card cannot be reloaded with additional funds, nor can it be used at an ATM. No cash access. For use in the U.S. only.Terms and conditions, including fees, apply. Rewards Card is issued by U.S. Bank National Association pursuant to a license from Visa U.S.A.Inc. © 2021 U.S.Bank.",
+      "mailimgaddress": "Provide your mailing address below."
+    }
+  },
+
+
+  "ReliaCard": {
+    "error": {
+      "address1": "Address Line 1 is required",
+      "country": "Country is required",
+      "state": "State is required",
+      "city": "City is required",
+      "postalCode": "Zip Code is required",
+      "postalCodeMaxLen": "Zip Code  must not be less than 5 digits.",
+      "SSN": "SSN is required",
+      "phoneLength": "Phone Number should be of 10 digits",
+      "mobileLength": "Mobile Number should be of 10 digits",
+      "email": "Email is required",
+      "emailValid": "Please enter a valid Email",
+      "phoneNumber":"Phone Number is required",
+      "firstName": "First Name is required",
+      "lastName": "Last Name is required"
+    },
+
+    "label": {
+      "email": "Email",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "addressLine1": "Address Line 1",
+      "phoneNumber": "Phone No.",
+      "address":"Address",
+      "zipCode":"Zip Code"
+    },
+    "info":{
+      "document": "The document set forth below are thePre-Acquisition Disclosure and the Fee Schedule.",
+      "acknowledgement": "Please review the document for acknowledgement.",
+      "acknowledge":"I acknowledge review of this document",
+      "Card": "What will my card look like?",
+      "Disclosure":"Digital Card Disclosure - Upon review and approval, your order will be processed and emailed out within 3 business days. For questions please call Customer Service: 877-528-6413. For updating your details once submitted here, please visit https://rewards.mydigitalcard.com/. Digital Rewards Card will be fulfilled via a digital card that can be used for online purchases only. Digital Rewards Card cannot be reloaded with additional funds, nor can it be used at an ATM. No cash access. May be used in U.S. Bank only. Card expires 12 months after issuance. Other terms and conditions apply. Digital Rewards Card is issued by U.S. Bank National Association, pursuant to a license from Visa U.S.A.Inc.",
+      "mailimgaddress": "Provide your mailing address below."
+
+    }
+  },
+  
+  "FocusCard": {
+    "error": {
+      "address1": "Address Line 1 is required",
+      "country": "Country is required",
+      "state": "State is required",
+      "city": "City is required",
+      "postalCode": "Zip Code is required",
+     "postalCodemin": "Zip Code should be of minimum 5 digits.",
+      "phoneLength": "Phone Number should be of 10 digits",
+      "mobileLength": "Mobile Number should be of 10 digits",
+      "email": "Email is required",
+      "emailValid": "Please enter a valid Email",
+      "phoneNumber":"Phone Number is required",
+      "firstName": "First Name is required",
+      "employerState": "Employer State is required",
+      "lastName": "Last Name is required",
+      "mobilePhone": "Mobile Phone is required",
+    
+      "govLocation": "Gov Location is required",
+      "govExpiredDate": "Gov Expired Date is required"
+    },
+
+    "label": {
+      "email": "Email",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "addressLine1": "Address Line 1",
+      "phoneNumber": "Phone No.",
+      "address":"Address",
+      "zipCode":"Zip Code"
+    },
+    "info":{
+      "document": "The document set forth below are thePre-Acquisition Disclosure and the Fee Schedule.",
+      "acknowledgement": "Please review the document for acknowledgement.",
+      "acknowledge":"I acknowledge review of this document",
+      "Card": "What will my card look like?",
+      "Disclosure":"Digital Card Disclosure - Upon review and approval, your order will be processed and emailed out within 3 business days. For questions please call Customer Service: 877-528-6413. For updating your details once submitted here, please visit https://rewards.mydigitalcard.com/. Digital Rewards Card will be fulfilled via a digital card that can be used for online purchases only. Digital Rewards Card cannot be reloaded with additional funds, nor can it be used at an ATM. No cash access. May be used in U.S. Bank only. Card expires 12 months after issuance. Other terms and conditions apply. Digital Rewards Card is issued by U.S. Bank National Association, pursuant to a license from Visa U.S.A.Inc.",
+      "mailimgaddress": "Provide your mailing address below."
+
+    }
+  },
+  "zelle": {
+    "error": {
+      "emailErr": "Please enter a valid email address",
+      "phoneErr": "Phone Number should be of 10 digits",
+      "tokenErr": "Please select Email/Phone Number",
+      "tokenErrPE": "Phone Number is required",
+      "tokenErrEmail": "Email is required"
+    },
+    "label": {
+      "emailPhone": "Email/Phone Number",
+      "email": "Email",
+      "phone": "Phone No.",
+      "tokenValue": "Email"
+    },
+    "conditions": {
+      "txtTokenEmail": "The email address used for this payment is enrolled with Zelle®; choose Zelle® to get your money in minutes.",
+      "txtTokenPhone": "The phone number used for this payment is enrolled with Zelle®; choose Zelle® to get your money in minutes.",
+      "txtTokenNotEnrolled": "The email address or mobile phone number used for this payment is not yet enrolled with  Zelle. You will receive an email from U.S. Bank with instructions on how to enroll with Zelle to receive payments."
+    }
+  },
+
+  "error": {
+    "addressLine1": "Address Line 1 is required",
+    "addressLine2": "",
+    "country": "Country is required",
+    "state": "State is required",
+    "city": "City is required",
+    "postalCode": "Zip Code is required"
+  },
+  "label": {
+    "addressLine1": "Address Line 1",
+    "addressLine2": "Address Line 2",
+    "country": "Country",
+    "state": "State",
+    "city": "City",
+    "postalCode": "Zip Code"
+  },
+  "buttonLabel": {
+    "continue": "CONTINUE"
+  },
+  "check": {
+    "or": "OR",
+    "paymentCheck": "If you prefer to receive your payment via check.",
+    "clickHere": "Click Here",
+    "heading": {
+      "checkInformation": "Share your Check Details"
+    },
+
+    "message": {
+      "checkAlternateMethod": "Check has been added as your Secondary Payment Method.",
+      "somethingWentWrong": "Something went wrong",
+      "checkPaymentInfo": "B2C consumer check payment info added successfully"
+    }
+  },
+
+  "pushToCard": {
+    "error": {
+      "nameRequired": "Card Holder Name is required",
+      "validCardNumber": "Please enter a valid Card Number",
+      "cardExpiryDate": "Expiration Date is required",
+      "invalidCardExpiry": "Expiration date is not valid",
+      "cvvLength": "CVV should be of 3 digits length",
+      "cardNumber":"Only Visa/MasterCard is accepted"
+    },
+
+    "heading": {
+      "pushToCardInformation": "Share your Debit Card Details"
+    },
+
+    "label": {
+      "nameOnCard": "Card Holder Name",
+      "cardNumber": "Card Number",
+      "expiryDate": "Expiration Date",
+      "cvv": "CVV"
+    },
+
+    "message": {
+      "somethingWentWrong": "Something went wrong"
+    }
+  },
+
+  "depositToDebit": {
+    "error": {
+      "nameRequired": "Card Holder Name is required",
+      "validCardNumber": "Please enter a valid Card Number",
+      "cardExpiryDate": "Expiration Date is required",
+      "invalidCardExpiry": "Expiration date is not valid",
+      "cvvLength": "CVV should be of 3 digits length",
+      "cardNumber":"Only Visa/MasterCard is accepted"
+    },
+
+    "label": {
+      "nameOnCard": "Card Holder Name",
+      "cardNumber": "Card Number",
+      "expiryDate": "Expiration Date"
+    },
+
+    "message": {
+      "somethingWentWrong": "Something went wrong",
+      "confirmationText":"You have exceeded the maximum number of incorrect attempts. Please choose another payment preference.",
+      "logoutConfirmationText":"Deposit to Debit Card was unsuccessful. Please choose another payment preference. Click YES to continue."
+    }
+  },
+
+  "alternatePayment": {
+    "heading": "Secondary Payment Method (Optional)",
+    "clearSelection": "Clear Selection",
+    "skip": "SKIP FOR NOW",
+    "save": "CONTINUE",
+    "msgText": "You can add the Secondary Payment after logging in to the Payment Exchange",
+    "or": "OR",
+    "paymentCheck": "If you prefer to receive your payment via check.",
+    "subHeading":"Choosing a secondary payment method is recommended to ensure the smooth processing of high dollar payments. By selecting a secondary payment method, you will receive your money without delay even if it cannot be processed by your primary payment method due to network processing limits."
+  },
+  "otherPaymentMethods":{
+    "heading":"Other Payment Methods"
+  },
+  "mostPreferred":"Most preferred",
+  "usBankPreferred":"Preferred",
+  "ifEnrolled":"Less than 1 Hour if Phone number or Email is enrolled with Zelle.",
+  "clearSelection":"Clear Selection",
+  "maximumPayment":"Maximum payment limit is ",
+  "paymentRef":"Payment Reference Number : {{paymentRefId}}",
+  "noPaymentMethodFound":"No Payment Method Found",
+  "selectAnAccount":"Please select an account to share",
+  "shareAccount":"Select an account to share with ",
+  "thankyouMessage":{
+    "registeredUser":{
+      "ach":"An email and / or SMS confirmation has been sent to your contact information on file. You will receive your payment to your bank account within {{timeRequired}} business days. For future payments, you can change your payment preference anytime.",
+      "check":"An email and / or SMS confirmation has been sent to your contact information on file. You will receive your check within {{timeRequired}} business days. For future payments, you can change your payment preference anytime.",
+      "zelle":"An email and / or text message has been sent to your contact information on file. You will receive your payment in your bank account linked with Zelle usually in less than an hour. It can take up to a day for some banks. For future payments, you can change your payment preference anytime.",
+      "directDeposit":"An email and / or SMS confirmation has been sent to your contact information on file. You will receive your payment in the account linked to your debit card within less than an hour. For future payments, you can change your payment preference anytime.",
+      "paypal":"An email and / or SMS confirmation has been sent to your contact information on file. You will receive your payment in your PayPal account in less than an hour. For future payments, you can change your payment preference anytime.",
+      "usbankAch":"An email and / or SMS confirmation has been sent to your contact information on file. You will receive your payment in your bank account within {{timeRequired}} business days. For future payments, you can change your payment preference anytime.",
+      "usbankZelle":"An email and / or SMS confirmation has been sent to your contact information on file. You will receive your payment in your Zelle account in less than an hour. For future payments, you can change your payment preference anytime.",
+      "usBankDepositToDebitcard":"An email and / or SMS confirmation has been sent to your contact information on file. You will receive your payment in your Deposit to Debit account in less than an hour. For future payments, you can change your payment preference anytime.",
+      "usBankPrepaidCard":"An email and / or SMS confirmation has been sent to your contact information on file. You will receive your payment in your Prepaid Card within {{timeRequired}} business days. For future payments, you can change your payment preference anytime.",
+      "usBankCHK":"An email and / or SMS confirmation has been sent to your contact information on file. You will receive your check within {{timeRequired}} business days. For future payments, you can change your payment preference anytime."
+    },
+    "guestUser":{
+      "ach":"An email and / or SMS confirmation has been sent to your contact information on file. You will receive your payment to your bank account within {{timeRequired}} business days.",
+      "check":"An email and / or SMS confirmation has been sent to your contact information on file. You will receive your check within {{timeRequired}} business days.",
+      "zelle":"An email and / or text message has been sent to your contact information on file. You will receive your payment in your bank account linked with Zelle usually in less than an hour. It can take up to a day for some banks.",
+      "directDeposit":"An email and / or SMS confirmation has been sent to your contact information on file. You will receive your payment in the account linked to your debit card within less than an hour.",
+      "paypal":"An email and / or SMS confirmation has been sent to your contact information on file. You will receive your payment in your PayPal account in less than an hour.",
+      "usbankAch":"An email and / or SMS confirmation has been sent to your contact information on file. You will receive your payment to your bank account within {{timeRequired}} business days.",
+      "usbankZelle":"An email and / or text message has been sent to your contact information on file. You will receive your payment in your bank account linked with Zelle usually in less than an hour. It can take up to a day for some banks.",
+      "usBankDepositToDebitcard":"An email and / or SMS confirmation has been sent to your contact information on file. You will receive your payment in the account linked to your debit card within less than an hour.",
+      "usBankPrepaidCard":"An email and / or SMS confirmation has been sent to your contact information on file. You will receive your payment in the account linked to your prepaid card within {{timeRequired}} business days.",
+      "usBankCHK":"An email and / or SMS confirmation has been sent to your contact information on file. You will receive your payment to your bank account within {{timeRequired}} business days."
+    }
+  },
+  "dataSecureText": "Your Data Is Secure"
+}

@@ -1,0 +1,61 @@
+{
+  "paymentDetailHeading": "{{amount}} from {{clientName}}",
+  "fileName":"payment_list_{{dateStr}}.pdf",
+  "filters": "Filters",
+  "heading": "Payment History",
+  "title": "Payments",
+  "buttonLabel": {
+    "exportAs": "Export as "
+  },
+  "alert": {
+    "Remittance Download API WIP": "Remittance Download API WIP",
+    "Remittance Email API WIP": "Remittance Email API WIP",
+    "No Data available to Download": "No Data available to Download!"
+  },
+  "label": {
+    "Today": "Today",
+    "Previous Month": "Previous Month",
+    "Previous Quarter": "Previous Quarter",
+    "Previous Year": "Previous Year",
+    "Last 7 Days": "Last 7 Days",
+    "Last 30 Days": "Last 30 Days",
+    "Custom": "Custom",
+    "All Time": "All Time",
+    "paymentDetails": "Payment Details",
+    "dateFilters": "Date Filters",
+    "all": "All",
+    "remitToId": "Remit to ID",
+    "viewing": "Viewing",
+    "moreFilters": "Filters",
+    "resetFilter": "RESET FILTER",
+    "applyFilter": "APPLY FILTER",
+    "paymentMethod": "Payment Method",
+    "CHK": "CHK",
+    "ACH": "ACH",
+    "VCA": "VCA",
+    "creditAccounts": "Credit Accounts",
+    "allAccounts": "All Accounts"
+  },
+  "tableColumn": {
+    "Payment Reference": "Payment Reference",
+    "Payer Name": "Payer Name",
+    "Value Date": "Value Date",
+    "Status": "Status",
+    "Payment Amount": "Payment Amount",
+    "Payment Type": "Payment Type",
+    "Client Name": "Client Name",
+    "Payment Date": "Payment Date",
+    "Payment List": "Payment List",
+    "Payment Method": "Payment Method"
+  },
+  "notification": {
+    "File does not exist": "File does not exist."
+  },
+  "placeHolder": {
+    "endDate": "MM-DD-YYYY"
+  },
+  "appliedFiltersLabel":{
+    "clearAll":"Clear All",
+    "filters":"Filters:"
+  }
+}

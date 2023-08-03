@@ -1,0 +1,35 @@
+{
+  "label": {
+    "dashboard": "Dashboard",
+    "enrollment": "Enrollment",
+    "addPayment": "Add Payment",
+    "contactPage": "Contact Page",
+    "PAFPage": "PAF Page",
+    "offersPage": "Offers Page",
+    "SHARE INFORMATION": "SHARE INFORMATION",
+    "electronically": "{{clientName}} would like to pay you electronically through Payment Exchange.",
+    "select": "Select",
+    "GoToSettings": "Go To Settings"
+  },
+  "notification": {
+    "Dual factor authentication updated successfully": "Dual factor authentication updated successfully",
+    "alternatePaymentDelete": "Secondary payment method deleted successfully"
+  },
+  "heading": {
+    "accounts": "Accounts",
+    "preferredMethod": "Primary Payment Method",
+    "alternateMethod": "Secondary Payment Method",
+    "cancel": "CANCEL",
+    "confirmRemove": "DELETE",
+    "removeAlternatePayment": "Delete Secondary Payment Method",
+    "removeAlternateText": "Are you sure to delete secondary payment?",
+    "thresholdRemoveAlternateText":"{{paymentMethodName}} maximum payment limit is ${{paymentMethodCode}}. Any incoming payment above the maximum payment limit of Primary Payment method will be rejected if secondary payment preference is not added. Do you still wish to delete secondary payment?"
+  },
+  "paymentAuth": {
+    "payments": " Payment",
+    "paymentText": " need authentication to process.",
+    "paymentsText": " needs authentication to process.",
+    "verify": "VERIFY",
+    "stalePopup": "Please update or confirm your payment preference to validate your profile"
+  }
+}

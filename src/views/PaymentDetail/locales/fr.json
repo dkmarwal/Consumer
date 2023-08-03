@@ -1,0 +1,51 @@
+{
+    "title": "Payments",
+    "buttonLabel": {
+        "exportAs": "Export as "
+    },
+    "alert": {
+        "Remittance Download API WIP": "Remittance Download API WIP",
+        "Remittance Email API WIP": "Remittance Email API WIP"
+    },
+    "label": {
+        "today": "Today",
+        "previousMonth": "Previous Month",
+        "previousQuarter": "Previous Quarter",
+        "previousYear": "Previous Year",
+        "last7Days": "Last 7 Days",
+        "last30Days": "Last 30 Days",
+        "custom": "Custom",
+        "allTime": "All Time",
+        "paymentDetails": "Payment Details",
+        "dateFilters": "Date Filters",
+        "all": "All",
+        "remitToId": "Remit to ID",
+        "viewing": "Viewing",
+        "moreFilters": "More Filters",
+        "resetFiler": "RESET FILTER",
+        "applyFilter": "APPLY FILTER",
+        "paymentMethod": "Payment Method",
+        "CHK":"CHK",
+        "ACH": "ACH",
+        "VCA": "VCA" ,
+        "creditAccounts": "Credit Accounts",
+        "allAccounts": "All Accounts"     
+    },
+    "tableColumn": {
+        "paymentReference": "Payment Reference",
+        "payerName": "Payer Name",
+        "valueDate": "Value Date",
+        "status": "Status",
+        "paymentAmount": "Payment Amount",
+        "paymentType": "Payment Type",
+        "clientName": "Client Name",
+        "paymentDate": "Payment Date",
+        "paymentList": "Payment List"
+    },
+    "notification": {
+        "File does not exist.": "File does not exist."
+    },
+    "placeHolder": {
+        "endDate": "MM-DD-YYYY"
+    }
+}

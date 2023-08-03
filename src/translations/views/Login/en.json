@@ -1,0 +1,138 @@
+{
+  "heading": {
+    "welcome": "Welcome to Payment Exchange!"
+  },
+  "error": {
+    "Email": "Username is required",
+    "Password": "Password is required",
+    "recaptchaValue": "Please select Captcha"
+  },
+  "buttonLabel": {
+    "submit": "SUBMIT",
+    "cancel": "CANCEL"
+  },
+  "notification": {
+    "Reset password link sent to your email successfully": "Reset password link sent to your email address if user ID is registered with us. If haven't received it yet please check your spam or retry after 30 minutes.",
+    "alertMessageOTP": "One Time Passcode has been sent to your registered phone number.",
+    "resetPasswordLink":"Reset Password Link"
+  },
+  "firstLogin": {
+    "error": {
+      "password": "New password must be minimum eight characters, at least one uppercase letter, one lowercase letter, one number and one special character",
+      "confirmPassword": "Password does not match",
+      "securityAnswer": "Security answer should be minimum 6 characters."
+    },
+    "label": {
+      "tooltip": "New password must be minimum eight characters, at least one uppercase letter, one lowercase letter, one number and one special character",
+      "passwordQuestion": "Set Up Password and Security Question",
+      "password": "New Password",
+      "confirmPassword": "Confirm Password",
+      "securityQuestionId": "Security Question",
+      "securityAnswer": "Security Answer"
+    }
+  },
+  "forgotPassword": {
+    "label": {
+      "paymentExchange": "Payment Exchange",
+      "forgotPassword": "Forgot Password",
+      "userName": "Username",
+      "resetPassword": "RESET PASSWORD"
+    },
+    "placeholder": {
+      "userName": "Username"
+    }
+  },
+  "passwordExpired": {
+    "label": {
+      "tooltip": "New password must be minimum eight characters, at least one uppercase letter, one lowercase letter, one number and one special character",
+      "paymentExchange": "Payment Exchange",
+      "resetPassword": "Reset Password",
+      "save": "SAVE"
+    },
+    "error": {
+      "password": "New password must be minimum eight characters, at least one uppercase letter, one lowercase letter, one number and one special character",
+      "confirmPassword": "Password does not match",
+      "empty_securityAnswer": "Security answer is required",
+      "securityAnswer": "Security answer should be minimum 6 characters",
+      "newPasswordReq":"New Password is required",
+      "oldPasswordReq":"Old Password is required",
+      "confirmNewPasswordReq":"Confirm New Password is required"
+    },
+    "placeholder": {
+      "oldPassword": "Old Password",
+      "newPassword": "New Password",
+      "confirmPassword": "Confirm New Password",
+      "securityQuestionId": "Security Question",
+      "securityAnswer": "Security Answer"
+    }
+  },
+  "recoverUsername": {
+    "label": {
+      "fogotUsername":"Forgot Username",
+      "alertBoxHeading":"Username Sent"
+    },
+    "placeholder": {
+      "emailId":"Email",
+      "customerID":"Consumer ID",
+      "securityQuestionId": "Security Question",
+      "securityAnswer": "Security Answer"
+    },
+    "error": {
+      "emailId":"Email is required",
+      "customerID":"{{CustomerID}} is required",
+      "securityQuestionId": "Security question is required",
+      "securityAnswer": "Security answer should be minimum 6 characters",
+      "empty_securityAnswer": "Security answer is required"
+    }
+  },
+
+  "resetPassword": {
+    "error": {
+      "password": "New password must be minimum eight characters, at least one uppercase letter, one lowercase letter, one number and one special character",
+      "confirmPassword": "Password does not match",
+      "securityQuestionId": "Security question is required",
+      "securityAnswer": "Security answer should be minimum 6 characters",
+      "empty_securityAnswer": "Security answer is required"
+    },
+    "label": {
+      "tooltip": "New password must be minimum eight characters, at least one uppercase letter, one lowercase letter, one number and one special character",
+      "paymentExchange": "Payment Exchange",
+      "resetPassword": "Reset Password",
+      "password": "New Password",
+      "confirmPassword": "Confirm Password",
+      "securityQuestionId": "Security Question",
+      "securityAnswer": "Security Answer",
+      "save": "SAVE",
+      "alertBoxHeading":"Reset password link"
+    }
+  },
+  "mfa": {
+    "error": {
+      "verificationCode": "Verification Code is required."
+    }
+  },
+  "view": {
+    "error": {
+      "Email": "Username is required",
+      "Password": "Password is required",
+      "recaptchaValue": "Please select Captcha"
+    },
+    "notification": {
+      "Reset password link sent to your email successfully": "Reset password link sent to your email address if user ID is registered with us. If haven't received it yet please check your spam or retry after 30 minutes."
+    },
+    "label": {
+      "paymentExchange": "Payment Exchange",
+      "payeeLogin": "Payee Login",
+      "signIn": "Sign In",
+      "forgotUsername": "Forgot Username",
+      "forgotPassword": "Forgot Password",
+      "userName": "Username",
+      "password": "Password",
+      "logoutMsg":"Thank you for visiting {{clientName}}, you have successfully signed out!"
+    },
+    "placeholder": {
+      "password": "Password"
+    },
+    "fromEnrollment": "Your account is inactive, click on the confirmation link you have received in your email to login into the platform"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "label": {
+    "allRightsReserved": "Copyright © 2021 Citi. All rights reserved.",
+    "citiInfo": "Citigroup.com is the global source of information about and access to financial services provided by the Citigroup companies.",
+    "EmailUs": "Email Us",
+    "FAQs": "FAQs",
+    "NeedHelp":"Need Help",
+    "phoneExtesion":"ext.",
+    "PrivacyPolicy": "Privacy",
+    "noPrivacyPolicyFound": "No Privacy Policy Found.",
+    "TC": "Terms"
+  },
+  "labelLink":{
+    "PrivacyPolicy": "Privacy Policy",
+    "TC": "Terms and Conditions"
+  }
+}

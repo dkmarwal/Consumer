@@ -1,0 +1,48 @@
+pipeline {
+    agent none
+    stages {
+		
+        stage('Install NodeJS dependencies') {
+            when {
+                branch 'consumer_citi_cte'
+            }
+            agent {label 'master'}
+            steps {
+                dir('./SourceCode/Frontend/consumer_portal') {
+					sh 'npm install'
+                }
+				dir('./SourceCode/Frontend/consumer_portal/server') {
+					sh 'npm install'
+                }
+            }
+        }
+        stage('Build NodeJS') {
+            when {
+                branch 'consumer_citi_cte'
+            }
+            agent {label 'master'}
+            steps {
+                dir('./SourceCode/Frontend/consumer_portal') {
+					sh 'REACT_APP_STAGE=CITI_CTE PUBLIC_URL=/ node --max-old-space-size=4000 scripts/build.js'
+					sh 'cp -r build server/'
+                }
+            }
+        }
+        stage('Deploy CITI_CTE') {
+            when {
+                branch 'consumer_citi_cte'
+            }
+            agent {label 'master'}
+            steps {
+                input 'Deploy to CITI CTE?'
+                milestone(1)
+                sshPublisher(publishers: [sshPublisherDesc(configName: 'uat-cte-webserver-1', transfers: [sshTransfer(cleanRemote: false, excludes: '', execCommand: '''pwd; chmod +x /CITI_CTE/consumer_portal/deploy_run_env.sh; sh /CITI_CTE/consumer_portal/deploy_run_env.sh CITI_CTE;''', execTimeout: 30000, flatten: false, makeEmptyDirs: false, noDefaultExcludes: false, patternSeparator: '[, ]+', remoteDirectory: '/CITI_CTE/consumer_portal', remoteDirectorySDF: false, removePrefix: 'SourceCode/Frontend/consumer_portal/server', sourceFiles: 'SourceCode/Frontend/consumer_portal/server/**/*')], usePromotionTimestamp: false, useWorkspaceInPromotion: false, verbose: true)])			
+            }
+            post {
+		       always {
+                    cleanWs()
+               }
+            }
+        }
+    }
+}

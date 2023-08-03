@@ -1,0 +1,32 @@
+{
+    "userProfileFieldName": {
+        "OldPassword": "Contraseña anterior",
+        "NewPassword":"Nueva contraseña",
+        "ConfirmNewPassword":"Confirmar nueva contraseña",
+        "DeleteProfile":"Borrar perfil",
+        "PasswordSuggestion":"La nueva contraseña debe tener un mínimo de ocho caracteres, al menos una letra mayúscula, una letra minúscula, un número y un carácter especial",
+        "deleteDialogTitle":"Estas seguro",
+        "deleteDialogText":"Una vez que elimine su perfil, ya no podrá recibir pagos ni tener acceso a su cuenta.",
+        "cancelButtonText":"CANCELAR",
+        "saveButtonText":"ACTUALIZAR",
+        "deleteButtonText":"ELIMINAR",
+        "userNameReq":"Se requiere nombre de usuario",
+        "oldPassReq":"Se requiere contraseña anterior",
+        "newPassReq": "Se requiere nueva contraseña",
+        "invalidNewPassword":"Las contraseñas no coinciden",
+        "somethingWentWrong":"Algo salió mal",
+        "profileDetails":"Detalles del perfil",
+        "password": "Contraseña",
+        "userName": "Nombre de usuario",
+        "changePass": "Cambiar la contraseña",
+        "UsernameSuggestion": "El nombre de usuario debe tener entre 8 y 50 caracteres, se permiten letras (A-Z, a-z), números (0-9) y caracteres especiales (@,_,-,.,,)",
+        "passReq": "Se requiere contraseña",
+        "securityQuestion": "Seleccionar pregunta de seguridad",
+        "securityAnswer": "Respuesta de seguridad",
+        "phoneLength":"Número de teléfono debe ser de 10 dígitos",
+        "phoneReq":"Se requiere número de teléfono",
+        "securityAnswerLength": "La respuesta de seguridad debe tener un mínimo de 6 caracteres",
+        "securityAnswerReq": "Se requiere respuesta de seguridad",
+        "securityQuestionReq": "Se requiere pregunta de seguridad"
+    }
+}

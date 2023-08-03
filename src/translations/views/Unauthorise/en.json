@@ -1,0 +1,8 @@
+{
+    "unAuthories": {
+        "AccessDenied": "Access Denied",
+        "ACCESSDENIED": "ACCESS DENIED !",
+        "notAccessMsg": "You could have been trying to access the part of the site reserved for authorised users only. Kindly contact customer support team.",
+        "OkayBtn": "Okay"
+    }
+}

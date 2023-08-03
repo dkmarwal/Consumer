@@ -1,0 +1,12 @@
+{
+  "paymentReference": "Payment Reference",
+  "paymentMethod": "Payment Method",
+  "notes": "Notes",
+  "paymentReceipt": "Payment Details",
+  "downloadPaymentReciept": "Download Payment Details",
+  "deliveryAddress": "Delivery Address",
+  "notification": {
+    "Download Success!!": "Download Success!!",
+    "File does not exist!": "File does not exist!"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "error": {
+    "Please fill at least one email address": "Veuillez remplir au moins une adresse e-mail",
+    "Invalid email address": "Adresse e-mail invalide",
+    "VAN name is required": "Le nom du VAN est requis",
+    "VAN EDI Code must be 2 alphanumeric characters": "Le code VAN EDI doit être composé de 2 caractères alphanumériques",
+    "VAN EDI Qualifier must be alphanumeric": "Le qualificatif VAN EDI doit être alphanumérique",
+    "Please select at least one format": "Veuillez sélectionner au moins un format"
+  },
+  "remittanceEmail": {
+    "label": {
+      "additionalInformation": "AJOUTER UN EMAIL SUPPLÉMENTAIRE",
+      "bulkRemittanceEmail": "Adresse e-mail",
+      "remittanceEmails": "Courriels de remise *",
+      "bulkRemittance": "Remises en masse"
+    }
+  },
+  "bulkRemittance": {
+    "label": {
+      "forAllBank": "Ceci est pour tous les comptes bancaires avec ce client",
+      "remittanceDelivery": "Mode de remise des fonds *",
+      "vanName": "Du nom *",
+      "remittanceVanEdiCode": "DU Code EDI *",
+      "remittanceVanEdiQualifier": "Qualificatif VAN EDI *",
+      "format": "Format de remise *"
+    }
+  },
+  "remittanceFrequencyOptions": {
+    "Daily": "Quotidien",
+    "Weekly": "Hebdomadaire",
+    "Monthly": "Mensuel",
+    "None": "Aucun"
+  },
+  "chooseRemittanceMode": "Recevoir des détails de paiement supplémentaires",
+  "receivePayment": "Sélectionner pour recevoir les remises de paiement (Facultatif)",
+  "remittanceFormat": "*Le format de remise sera PDF",
+  "EmailId":"E-mail",
+  "optional":"(optionnel)",
+  "tooltipText":"Vous recevrez des détails de paiement supplémentaires par e-mail et vous pourrez le télécharger à partir du portail une fois disponible."
+}

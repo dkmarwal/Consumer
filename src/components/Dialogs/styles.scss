@@ -1,0 +1,261 @@
+.dialogTitle {
+  font-size: 20px;
+  font-weight: 500;
+  text-align: center;
+  color: #121212;
+}
+.dialogConten {
+  font-size: 17px;
+  // text-align: center;
+  color: #121212;
+}
+.noBtn {
+  background-color: #f39f90 !important;
+}
+.yesBtn,
+.noBtn {
+  padding: 0.8rem !important;
+}
+.alert-dialog-message {
+  font-size: 20px;
+  font-weight: 300;
+}
+// .dialogTitle,
+// .dialogConten {
+//   text-align: center;
+// }
+.dialogCustom,
+.MuiDialog-paperWidthSm {
+  max-width: 600px !important;
+}
+.sideDialog {
+  position: fixed;
+  right: 0;
+  top: 0;
+  margin: 0;
+  // width: 630px;
+  width: 30%;
+  padding: 0;
+  overflow-y: scroll;
+  height: 100%;
+  bottom: 0;
+  max-height: none;
+  max-width: none;
+  background: white;
+
+  .heading {
+    padding: 13.5px;
+    box-shadow: 0 1px 0px 0 rgba(35, 35, 36, 0.45);
+    margin-bottom: 1.5rem;
+  }
+
+  .alert-dialog-message {
+    font-size: 20px;
+    font-weight: 300;
+    overflow-y: visible;
+    height: 100vh;
+    display: block;
+  }
+  /*.MuiBox-root {
+    padding: 5px 0 !important;
+  }*/
+  .boxRoot {
+    padding: 5px 0 !important;
+  }
+  button.MuiButtonBase-root {
+    font-size: 14px;
+  }
+  button.Mui-selected {
+    color: #008ce6;
+  }
+  .MuiTabs-indicator {
+    background-color: #008ce6;
+  }
+}
+
+.notificationSideDialog {
+  position: fixed;
+  right: 0;
+  top: 0;
+  margin: 0;
+  // width: 630px;
+  width: 35%;
+  min-width: 300px;
+  padding: 0;
+  overflow-y: scroll;
+  height: 100%;
+  bottom: 0;
+  max-height: none;
+  max-width: none;
+  background: white;
+
+  .heading {
+    box-shadow: 0 1px 0px 0 rgba(35, 35, 36, 0.45);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    color: #002d43;
+    padding: 4.5px 16px;
+  }
+
+  .dialogTitle {
+    font-size: 24px;
+    letter-spacing: 0;
+    color: #002d43;
+  }
+
+  .alert-dialog-message {
+    font-size: 20px;
+    font-weight: 300;
+    padding: 0px;
+    overflow: hidden;
+    height: auto;
+    display: block;
+  }
+
+  .img {
+    color: #002d43;
+    padding-right: 15px;
+  }
+
+  .dialogConten {
+    font-size: 18px;
+    color: #121212;
+  }
+
+  button.MuiButtonBase-root {
+    font-size: 12px;
+  }
+}
+
+.customSideDialog {
+  position: fixed;
+  right: 0;
+  top: 0;
+  margin: 0;
+  // width: 630px;
+  width: 27%;
+  min-width: 300px;
+  padding: 0;
+  overflow-y: scroll;
+  height: 100%;
+  bottom: 0;
+  max-height: none;
+  max-width: none;
+  background: white;
+  @media (max-width: 600px) {
+    width: 100%;
+  }
+
+  .heading {
+    box-shadow: 0 1px 0px 0 rgba(35, 35, 36, 0.45);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    color: #002d43;
+    padding: 4.5px 8px 4.5px 30px;
+    justify-content: space-between;
+  }
+  .dialogCross {
+    transform: scale(1.3, 1.3);
+  }
+  .dialogTitle {
+    font-size: 24px;
+    letter-spacing: 0;
+    color: #002d43;
+  }
+
+  .alert-dialog-message {
+    font-size: 20px;
+    font-weight: 300;
+    overflow: hidden;
+    display: block;
+  }
+
+  .imgIcon {
+    margin-right: 5px;
+    position: relative;
+    bottom: 2px;
+  }
+
+  .dialogConten {
+    font-size: 17px;
+  }
+
+  button.MuiButtonBase-root {
+    font-size: 12px;
+  }
+}
+
+.payeeDialogue {
+  .alert-dialog-message {
+    overflow: hidden;
+  }
+}
+.centerDialog {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  margin: 0;
+  overflow-y: scroll;
+  height: 600px;
+  bottom: 0;
+  max-height: none;
+  max-width: none !important;
+  width: 840px;
+  background: white;
+  transform: translate(-50%, -50%);
+
+  .imgIcon {
+    margin-right: 5px;
+    position: relative;
+  }
+  .heading {
+    box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.14),
+      0 2px 1px -1px rgba(0, 0, 0, 0.12), 0 1px 3px 0 rgba(0, 0, 0, 0.2);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 24px;
+    width: 100%;
+    @media (max-width: 600px) {
+      padding: 16px;
+    }
+    .dataSecure {
+      display: flex;
+      flex-direction: column;
+    }
+
+    .dataSecureImg {
+      width: 25px;
+      margin: 0 auto;
+    }
+
+    .dataSecureText {
+      font-size: 12px;
+      color: #8f9ec3;
+      margin-top: 5px;
+    }
+  }
+  .dialogTitle {
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: 36px;
+    // padding: 0 !important;
+    word-break: break-word;
+  }
+
+  button.MuiButtonBase-root {
+    font-size: 16px;
+  }
+}
+.alert-dialoge-otp {
+  max-width: "300px";
+}
+@media (max-width: 600px) {
+  .dataSecureText {
+    font-size: 9px !important;
+    text-align: center !important;
+    min-width: 100px !important;
+  }
+}

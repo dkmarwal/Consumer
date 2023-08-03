@@ -1,0 +1,16 @@
+{
+    "yourPaymentIsJust3StepsAway":"Su pago está a solo 3 paso (s) de distancia.",
+    "verifyYourself":"1. Verifíquese",
+    "registerOrContinueAsGuest":"2. Registrarse o continuar como invitado",
+    "shareYourPaymentDetailsWithUs":"3. Comparte tus datos de pago con nosotros",
+    "journeyCompleted":"¡Viaje completado!",
+    "authenticatePayment": "Autenticar pago",
+    "authenticateYourself": "Autentícate",
+    "welcomeCard":{
+        "enjoyTheBenefits":"Disfrute de los beneficios con nosotros:",
+        "contactLessPayments":"Pagos sin contacto",
+        "personalisePaymentMethods":"Personaliza los métodos de pago.",
+        "notificationAndAlerts":"Notificación y alertas",
+        "transparency":"Transparencia"
+    }
+}

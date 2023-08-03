@@ -1,0 +1,90 @@
+{
+    "ach":{
+        "accountNumber":"Número de cuenta",
+        "routingNumber":"Número de ruta",
+        "bankName":"Nombre del banco",
+        "bankAccountType":"Tipo de cuenta",
+        "methodName":"DEPOSITO BANCARIO",
+        "methodNameACH":"ACH",
+        "methodNameRTP":"RTP@"
+    },
+    "check":{
+        "addressLine1":"Dirección Línea 1",
+        "country":"País",
+        "state":"Estado",
+        "city":"Ciudad",
+        "zipCode":"Código postal",
+        "address":"Dirección",
+        "methodName":"CHEQUE"
+    },
+    "directDeposit":{
+        "nameOnCard":"Nombre en la tarjeta",
+        "cardNumber":"Número de tarjeta",
+        "expiryDate":"Fecha de caducidad",
+        "addressLine1":"Dirección Línea 1",
+        "country":"País",
+        "state":"Estado",
+        "city":"Ciudad",
+        "zipCode":"Código postal",
+        "methodName":"INSTANT PAY"
+    },
+    "ReliaCard":{
+        "methodName": "ReliaCard",
+        "emailPhone": "Correo electrónico/Número de teléfono",
+      "email": "Correo electrónico",
+      "firstName": "Primer nombre",
+      "lastName": "Apellido",
+      "addressLine1": "Dirección",
+      "addressLine2": "Línea de dirección 2",
+      "uniqueId":"Identificación única",
+      "SSN":"SSN",
+      "phoneNumber": "Telefono no.",
+      "address":"Dirección",
+      "zipCode":"Código postal",
+      "dateOfBirth": "Fecha de nacimiento",
+      "homePhone": "Teléfono de casa",
+      "mobilePhone": "Teléfono móvil",
+      "employerState": "Estado empleador",
+      "govLocation": "Ubicación del gobierno",
+      "govExpiredDate": "Fecha de vencimiento del gobierno"
+    },
+    "FocusCard":{
+        "methodName": "Enfoque No Nómina"
+    },
+    "PlasticCard":{
+        "methodName": "Tarjeta de plástico"
+    },
+    "DigitalCard":{
+        "methodName": "Tarjeta digital"
+    },
+    "CorporateCard":{
+        "methodName": "Corporate Reward"
+    },
+    "paypal":{
+        "addressLine1":"Dirección Línea 1",
+        "country":"País",
+        "state":"Estado",
+        "city":"Ciudad",
+        "zipCode":"Código postal",
+        "email":"Correo electrónico",
+        "phone":"Número de teléfono",
+        "address":"Dirección",
+        "methodName":"PAYPAL"
+    },
+    "zelle":{
+        "email":"Correo electrónico",
+        "phone":"Número de teléfono",
+        "methodName":"ZELLE"
+    },
+    "depositToDebitCard":{
+        "methodName":"DEPOSIT TO DEBIT CARD",
+        "nameOnCard":"Nombre en la tarjeta",
+        "cardNumber":"Número de tarjeta",
+        "expiryDate":"Fecha de caducidad"
+    },
+    "bankAccount":{
+        "methodName":"BANK ACCOUNT"
+    },
+    "addAlternatePaymentMethod":"Agregar método de pago secundario",
+    "paymentMethod":"Método de pago"
+}

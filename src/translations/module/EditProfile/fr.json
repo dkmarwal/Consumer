@@ -1,0 +1,32 @@
+{
+    "userProfileFieldName": {
+        "OldPassword": "Ancien mot de passe",
+        "NewPassword":"Nouveau mot de passe",
+        "ConfirmNewPassword":"Confirmer le nouveau mot de passe",
+        "DeleteProfile":"Supprimer le profil",
+        "PasswordSuggestion":"Le nouveau mot de passe doit comporter au moins huit caractères, au moins une lettre majuscule, une lettre minuscule, un chiffre et un caractère spécial",
+        "deleteDialogTitle":"Es-tu sûr?",
+        "deleteDialogText":"Une fois votre profil supprimé, vous ne pouvez plus recevoir de paiements ni accéder à votre compte.",
+        "cancelButtonText":"ANNULER",
+        "saveButtonText":"METTRE À JOUR",
+        "deleteButtonText":"EFFACER",
+        "userNameReq":"Nom d'utilisateur est nécessaire",
+        "oldPassReq":"L'ancien mot de passe est requis",
+        "newPassReq": "Un nouveau mot de passe est requis",
+        "invalidNewPassword":"Le mot de passe ne correspond pas",
+        "somethingWentWrong":"Quelque chose s'est mal passé",
+        "profileDetails":"Détails du profil",
+        "password": "Le mot de passe",
+        "userName": "Nom d'utilisateur",
+        "changePass": "Changer le mot de passe",
+        "UsernameSuggestion": "Le nom d'utilisateur doit comporter entre 8 et 50 caractères, les lettres (A-Z, a-z), les chiffres (0-9) et les caractères spéciaux (@,_,-,.,,) sont autorisés",
+        "passReq": "Mot de passe requis",
+        "securityQuestion": "Sélectionnez la question de sécurité",
+        "securityAnswer": "Réponse de sécurité",
+        "phoneLength":"Le numéro de téléphone doit comporter 10 chiffres",
+        "phoneReq":"Le numéro de téléphone est requis",
+        "securityAnswerLength": "La réponse de sécurité doit comporter au moins 6 caractères",
+        "securityAnswerReq": "Une réponse de sécurité est requise",
+        "securityQuestionReq": "La question de sécurité est obligatoire"
+    }
+}

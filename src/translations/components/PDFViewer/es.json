@@ -1,0 +1,12 @@
+{
+    "label": {
+        "termsNCondition": "Terms & Conditions.pdf",
+        "download": "Descargar",
+        "faq":"FAQs.pdf",
+        "privacyPolicy":"Privacy Policy.pdf",
+        "TnC": "Términos y condiciones",
+        "noPrivacyPolicy":"No se ha encontrado ninguna política de privacidad",
+        "noTnC":"No se encontraron términos y condiciones",
+        "noFaq":"No se encontraron preguntas frecuentes"
+    }
+}

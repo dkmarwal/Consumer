@@ -1,0 +1,35 @@
+{
+  "label": {
+    "dashboard": "Tablero",
+    "enrollment": "Inscripción",
+    "addPayment": "Agregar pago",
+    "contactPage": "Pagina de contacto",
+    "PAFPage": "Página PAF",
+    "offersPage": "Página de ofertas",
+    "SHARE INFORMATION": "COMPARTIR INFORMACIÓN",
+    "electronically": "{{clientName}} quisiera pagarle electrónicamente a través de Payment Exchange.",
+    "select": "Seleccione",
+    "GoToSettings": "Ir a la configuración"
+  },
+  "notification": {
+    "Dual factor authentication updated successfully": "La autenticación de doble factor se actualizó correctamente",
+    "alternatePaymentDelete": "Método de pago secundario eliminado con éxito"
+  },
+  "heading": {
+    "accounts": "Cuentas",
+    "preferredMethod": "Método de pago principal",
+    "alternateMethod": "Método de pago secundario",
+    "cancel": "CANCELAR",
+    "confirmRemove": "ELIMINAR",
+    "removeAlternatePayment": "Eliminar método de pago secundario",
+    "removeAlternateText": "¿Estás seguro de eliminar el pago secundario?",
+    "thresholdRemoveAlternateText":"El límite de pago máximo de {{paymentMethodName}} es ${{paymentMethodCode}}. Cualquier pago entrante que supere el límite máximo de pago del método de pago principal será rechazado si no se agrega la preferencia de pago secundario. ¿Aún desea eliminar el pago secundario?"
+  },
+  "paymentAuth": {
+    "payments": " Pago",
+    "paymentText": " necesita autenticación para procesar.",
+    "paymentsText": " necesita autenticación para procesar.",
+    "verify": "VERIFICAR",
+    "stalePopup": "Actualice o confirme su preferencia de pago para validar su perfil"
+  }
+}

@@ -1,0 +1,34 @@
+{
+    "tooltip": "ID de pago único",
+    "label": {
+      "paymentReference": "REFERENCIA DE PAGO",
+      "paymentMethod": "MÉTODO DE PAGO",
+      "paymentMobMethod": "MÉTODO",
+      "date": "FECHA",
+      "status": "ESTADO",
+      "amount":"MONTO",
+      "notes":"NOTAS",
+      "paymentAmount": "Monto del pago",
+      "noDataFound": "No se encontraron transacciones",
+      "rowsPerPage": "Filas por página",
+      "bankDeposit":"Deposito bancario",
+      "check":"Cheque",
+      "paypal":"PayPal",
+      "directDeposit":"Instant Pay",
+      "zelle":"Zelle",
+      "primaryText":"Primario",
+      "alternateText":"Otras Formas de Pago",
+      "defaultText":"Pago preestablecido",
+      "labelDisplayedRows": "{{from}}-{{to}} de {{count}}"
+    },
+    "placeholder": {
+      "enterText": "Ingrese mensaje de texto",
+      "paymentDate": "DD / MM / AAAA"
+    },
+    "tooltipText":{
+      "primary":"Método de pago principal elegido por el destinatario.",
+      "secondary":"Método de pago utilizado cuando falla el método principal.",
+      "default":"Método de pago elegido por el remitente cuando fallan los métodos primario y secundario."
+    }
+  }
+  

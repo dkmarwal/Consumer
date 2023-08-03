@@ -1,0 +1,15 @@
+{
+    "label": {
+        "logout": "CERRAR SESIÓN",
+        "manageYourAccount": " Gestiona tu cuenta",
+        "english": "Inglés",
+        "french": "Francés",
+        "paymentExchange": "Payment Exchange",
+        "Redeem": "Canjear",
+        "Rewards": "Recompensas",
+        "Manage Account": "Administrar cuenta",
+        "Support": "Apoyo",
+        "Employee Rewards": "Recompensas para empleados",
+        "hiGuestUser":"Hola, usuario invitado"
+    }
+}

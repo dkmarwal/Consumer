@@ -1,0 +1,118 @@
+{
+    "14244": {
+        "title": "Sistema | alerta",
+        "description": "La información de su pagador Best Buy Canada LTD se actualiza. Haga clic aquí para ver la información actualizada."
+    },
+
+    "5220":{
+        "title": "B CASupp2 | Cuentas por cobrar",
+        "description": "Los cambios en su información de contacto se han actualizado correctamente. Haga clic aquí para ver la información actualizada."
+    },
+    "5215": {
+        "title": "B CASupp2 | Cuentas por cobrar",
+        "description": "Los cambios en su información de ubicación se han actualizado correctamente. Haga clic aquí para ver la información actualizada."
+    }, 
+    "5210": {
+        "title": "B CASupp2 | Cuentas por cobrar",
+        "description": "Los cambios en los detalles de su empresa se han actualizado correctamente. Haga clic aquí para ver la información actualizada."
+    
+    },
+    "5207": {
+        "title": "B CASupp2 | Cuentas por cobrar",
+        "description": "Los cambios en la información de su cuenta de pago se han actualizado correctamente. Haga clic aquí para ver la información actualizada."
+   },
+   "5202": {
+        "title": "B CASupp2 | Cuentas por cobrar",
+        "description": "Los cambios en su información de ubicación se han actualizado correctamente. Haga clic aquí para ver la información actualizada."
+    }, 
+    "5197": {
+        "title": "B CASupp2 | Cuentas por cobrar",
+        "description": "Los cambios en la información de su cuenta de pago se han actualizado correctamente. Haga clic aquí para ver la información actualizada."
+    },
+    "5192": {
+        "title": "B CASupp2 | Cuentas por cobrar",
+        "description": "Los cambios en los detalles de su empresa se han actualizado correctamente. Haga clic aquí para ver la información actualizada."
+    },
+    "5191": {
+        "title": " | ",
+        "description": "Las actualizaciones de su cuenta de pago son aceptadas por su pagador Best Buy Canada LTD. Haga clic aquí para ver la información actualizada."
+    },
+    "5190": {
+        "title": "Sistema | alerta",
+        "description": "Se ha compartido una nueva cuenta de pago con Best Buy Canada LTD. Haga clic aquí para ver la información actualizada."
+    }, 
+    "5188": {
+        "title": "B CASupp2 | Cuentas por cobrar",
+        "description": "Los cambios en la información de su cuenta de pago se han actualizado correctamente. Haga clic aquí para ver la información actualizada."
+    },
+   "5185": {
+        "title": " | ",
+        "description": "Las actualizaciones de su cuenta de pago son aceptadas por su pagador Best Buy Canada LTD. Haga clic aquí para ver la información actualizada."
+   },
+    "5184": {
+        "title": "B CASupp2 | Cuentas por cobrar",
+        "description": "Los cambios en la información de su cuenta de pago se han actualizado correctamente. Haga clic aquí para ver la información actualizada."
+    },
+    "5172": {
+        "title": "Sistema | alerta",
+        "description": "La información de su empresa pagador se actualiza. Haga clic aquí para ver la información actualizada."
+    },
+    "5168":{
+        "title": "Sistema | alerta",
+        "description": "Se ha compartido una nueva cuenta de pago con Best Buy Canada LTD. Haga clic aquí para ver la información actualizada."
+    },
+    "5167": {
+        "title": "B CASupp2 | Cuentas por cobrar",
+        "description": "Los cambios en la información de su cuenta de pago se han actualizado correctamente. Haga clic aquí para ver la información actualizada."
+    },
+     "4336": {
+        "title": "B CASupp2 | Cuentas por cobrar",
+        "description": "Los cambios en los detalles de su empresa se han actualizado correctamente. Haga clic aquí para ver la información actualizada."
+     },
+    "4239": {
+        "title": "Sistema | alerta",
+        "description": "Los cambios en los detalles de su empresa se han actualizado correctamente. Haga clic aquí para ver la información actualizada."
+    },
+    "4228": {
+        "title": " | ",
+        "description": "Su pagador B CASupp acepta las actualizaciones de su Cuenta de pago. Haga clic aquí para ver la información actualizada."
+    },
+    "4227": {
+        "title": " | ",
+        "description": "Su pagador B CASupp acepta las actualizaciones de su Cuenta de pago. Haga clic aquí para ver la información actualizada."
+    },
+    "4165": {
+        "title": "Sistema | alerta",
+        "description": "Los cambios en los detalles de su empresa se han actualizado correctamente. Haga clic aquí para ver la información actualizada."
+    },
+    "4152": {
+        "title": "Sistema | alerta",
+        "description": "Los cambios en los detalles de su empresa se han actualizado correctamente. Haga clic aquí para ver la información actualizada."
+    },
+    "258": {
+        "title": "Sistema | alerta",
+        "description": "Se ha compartido una nueva cuenta bancaria / cuenta de tarjeta virtual con Best Buy Canada LTD. Haga clic aquí para ver la información actualizada."
+    },
+    "252": {
+        "title": "Sistema | alerta",
+        "description": "Se ha compartido una nueva cuenta bancaria / cuenta de tarjeta virtual con Best Buy Canada LTD. Haga clic aquí para ver la información actualizada."
+    },
+    "250": {
+        "title": "Sistema | alerta",
+        "description": "¡El perfil está listo para recibir pagos!"
+    },
+"label": {
+    "earlier": "Más temprano",
+    "new": "Nuevo",
+    "clearAll":"Borrar todas las notificaciones",
+    "undoClear": "Deshacer notificación clara",
+    "markAllRead":"Marcar todo como leido",
+    "undoReadAll": "Deshacer Leer todo",
+    "showAllNotification": "Mostrar todas las notificaciones",
+    "noNotification": "No hay notificaciones para compartir",
+    "notifications": "Notificaciones",
+    "Mark as Unread" : "Marcar como no leído",
+     "Mark as read": "Marcar como leído",
+     "Remove this notification": "Eliminar esta notificación"
+}
+}

@@ -1,0 +1,8 @@
+{
+    "unAuthories": {
+        "AccessDenied": "Accès refusé",
+        "ACCESSDENIED": "ACCÈS REFUSÉ !",
+        "notAccessMsg": "Vous pourriez avoir tenté d'accéder à la partie du site réservée aux utilisateurs autorisés uniquement. Veuillez contacter l'équipe de support client.",
+        "OkayBtn": "D'accord"
+    }
+}

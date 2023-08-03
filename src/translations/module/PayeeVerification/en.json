@@ -1,0 +1,104 @@
+{
+  "title": {
+    "users": "Users",
+    "addUser": "Add User",
+    "editUser": "Edit User",
+    "roles": "Roles",
+    "newRole": "New Role",
+    "editRole": "Edit Role"
+  },
+  "buttonLabel": {
+    "saveRole": "SAVE ROLE",
+    "cancel": "CANCEL",
+    "delete": "Delete",
+    "save": "Save",
+    "rowsPerPage": "rows per page",
+    "verify": "VERIFY",
+    "continue":"CONTINUE"
+  },
+  "user": {
+    "addView": {
+      "error": {
+        "consumerId": "{{displayName}} is required.",
+        "firstName": "First Name is required.",
+        "lastName": "Last Name is required.",
+        "phone": "Phone Number should be 10 digits.",
+        "email": "Invalid {{displayName}}.",
+        "addressLine1": "Address Line 1 is required.",
+        "addressLine2": "Address Line 2 is required.",
+        "postalCode": "{{displayName}} is required.",
+        "emptyEmail": "{{displayName}} is required.",
+        "customFieldError": "{{fieldName}} is required.",
+        "customField1": "Custom Field 1 is required.",
+        "customField2": "Custom Field 2 is required.",
+        "customField3": "Custom Field 3 is required.",
+        "customField4": "Custom Field 4 is required.",
+        "customField5": "Custom Field 5 is required.",
+        "phoneOTP": "One Time OTP is required."
+      },
+      "notification": {
+        "User information updated successfully": "User information updated successfully.",
+        "User added successfully": "User added successfully.",
+        "youAreSuccessfullyVerified": "You are successfully verified!",
+        "verificationComplete":"Verification Complete",
+        "otpSent":"OTP sent successfully."
+      },
+      "label": {
+        "consumerId": "Consumer ID*",
+        "payeeId": "Payee ID*",
+        "firstName": "First Name*",
+        "lastName": "Last Name*",
+        "phone": "Phone Number*",
+        "enterOTP": "Enter Code Here",
+        "email": "Email ID*",
+        "address1": "Address Line 1",
+        "address2": "Address Line 2",
+        "country": "Country",
+        "state": "State",
+        "city": "City",
+        "zipCode": "Postal Code",
+        "custom_field1": "Custom Field 1",
+        "custom_field2": "Custom Field 2",
+        "custom_field3": "Custom Field 3",
+        "custom_field4": "Custom Field 4",
+        "custom_field5": "Custom Field 5"
+      },
+      "placeholder": {
+        "enterOTP": "Enter Code Here"
+      }
+    }
+  },
+  "welcomeToPaymentExchange": "Welcome to Payment Exchange!",
+  "payeeVerification": " Payee Verification",
+  "identityVerificationMessage": "Please help us in verifying your identity by completing the below with your details.",
+  "verifying": "Verifying...",
+  "threeSteps": "Your payment is just 3 steps away",
+  "verifyYourself": "Verify Yourself",
+  "emailTooltip":"Please enter your Email in yourname@example.com",
+  "existingUser": {
+    "Company Profile already exists!": "Company Profile already exists!",
+    "ProfileExists": "Profile exists already!",
+    "PaymentExchangeTxt": "Payment Exchange account with these details already exists.",
+    "clickHere": "Click Here!",
+    "loginTxt": "to Login.",
+    "accountDetailsTxt": "Your payment account details have already been shared with us. No measures shall be required from your side.",
+    "thanksTxt": "Thank you for choosing",
+    "PaymentExchange": "& Payment Exchange"
+  },
+  "textBoxLink": {
+    "resendCode": "Resend Code",
+    "privacyPolicy": "Privacy Policy",
+    "termOfServices": "Term of Services"
+  },
+  "radioBtn": {
+    "payeeID": "Payee ID",
+    "txtMe": "Text me a Validation code"
+  },
+  "privacyPolicy": "Privacy Policy",
+  "privacyPolicyMsg": "At U.S. Bancorp®, trust has always been the foundation of our relationship with customers. Because you trust us with your financial and other personal information, we respect your privacy and safeguard your information. In order to preserve that trust, the U.S. Bancorp family of financial service providers pledges to protect your privacy by adhering to the practices described below.",
+  "termServicesTitle": "Payment powered by U.S. Bank",
+  "termServices": "Term of Services",
+  "termServicesMsg": "The U.S. Bank Payment program uses short code 52272 to alert consumers of action needed to receive a pending payment. The consumer should contact the company payer referenced in the message with questions about the payment. Our client privacy policy may be viewed at",
+  "termServicesMsg1": " contact information may be found at ",
+  "termServicesMsg2": " The consumer may reply to the message with the word HELP to receive additional information, or STOP to be added to our opt-out list. This is a one-time message; no further communication will be sent. The mobile carriers are not liable for delayed or undelivered messages."
+}

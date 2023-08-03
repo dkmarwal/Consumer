@@ -1,0 +1,32 @@
+{
+    "userProfileFieldName": {
+        "OldPassword": "Old Password",
+        "NewPassword":"New Password",
+        "ConfirmNewPassword":"Confirm New Password",
+        "DeleteProfile":"Delete Profile",
+        "PasswordSuggestion":"New password must be minimum eight characters, at least one uppercase letter, one lowercase letter, one number and one special character",
+        "deleteDialogTitle":"Are you Sure?",
+        "deleteDialogText":"Once you delete your profile, you can no longer receive payments or have access to your account.",
+        "cancelButtonText":"CANCEL",
+        "saveButtonText":"UPDATE",
+        "deleteButtonText":"DELETE",
+        "userNameReq":"Username is required",
+        "oldPassReq":"Old Password is required",
+        "newPassReq": "New Password is required",
+        "invalidNewPassword":"Password does not match",
+        "somethingWentWrong":"Something Went Wrong",
+        "profileDetails":"Profile Details",
+        "password": "Password",
+        "userName": "Username",
+        "changePass": "Change Password",
+        "UsernameSuggestion": "Username must be 8-50 characters long, letters (A-Z, a-z), numbers (0-9) and special characters (@,_,-,.,,) are allowed",
+        "passReq": "Password is required",
+        "securityQuestion": "Select Security Question",
+        "securityAnswer": "Security Answer",
+        "phoneLength":"Phone Number should be of 10 digits",
+        "phoneReq":"Phone Number is required",
+        "securityAnswerLength": "Security Answer should be minimum 6 characters",
+        "securityAnswerReq": "Security Answer is required",
+        "securityQuestionReq": "Security Question is required"
+    }
+}

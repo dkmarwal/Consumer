@@ -1,0 +1,39 @@
+{
+    "label":{
+        "bankName":"Nombre del banco",
+        "bankState":"Estado del banco",
+        "bankCity":"Ciudad del Banco",
+        "routingNumber":"Número de ruta",
+        "or":"O"
+    },
+    "heading":{
+        "searchBank":"Buscar banco",
+        "byRoutingNumber":"Por número de ruta ABA",
+        "byBankName":"Por nombre de banco, estado y ciudad"
+    },
+    "tableHeader":{
+        "bankName":"NOMBRE DEL BANCO",
+        "routingNumber":"NÚMERO DE RUTA",
+        "city":"CIUDAD",
+        "state":"ESTADO"
+    },
+    "error":{
+        "bankName":"Se requiere el nombre del banco",
+        "bankState":"Se requiere el estado del banco",
+        "bankCity":"Se requiere la ciudad del banco",
+        "routingNumber":"Se requiere el número de ruta",
+        "bankCityLength":"La ciudad del banco debe tener menos de 31 caracteres."
+    },
+    "text":{
+        "noOptions":"Sin opciones",
+        "labelDisplayedRows": "{{from}}-{{to}} de {{count}}",
+        "noDataFound":"Datos no encontrados",
+        "bankResult":"Seleccione su banco a continuación ({{totalCount}} Resultados)"
+    },
+    "button":{
+        "cancel":"CANCELAR",
+        "search":"BÚSQUEDA",
+        "back":"ATRÁS",
+        "select":"SELECCIONE"
+    }
+}

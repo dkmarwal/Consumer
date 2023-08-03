@@ -1,0 +1,180 @@
+{
+  "error": {
+    "accountNumberRequired": "Se requiere el número de cuenta",
+    "confirmAccountNumber": "Confirmar el número de cuenta es obligatorio",
+    "accountNumberSame": "Confirme que el número de cuenta debe ser el mismo que el número de cuenta",
+    "routingNumberLength": "El número de ruta debe tener 9 dígitos",
+    "routingNumberRequired": "Se requiere un número de ruta",
+    "accountTypeRequired": "Se requiere el tipo de cuenta",
+    "bankNameRequired": "Se requiere el nombre del banco",
+    "bankNameLength":"El nombre del banco debe tener menos de 159 caracteres.",
+    "addressLine1": "Se requiere la línea de dirección 1",
+    "addressLine2": "Se requiere la dirección de línea 2",
+    "country": "El país es obligatorio",
+    "state": "El estado es obligatorio",
+    "city": "Ciudad es requerida",
+    "postalCode": "Se requiere código postal",
+    "validPhoneNumber": "El número de teléfono debe tener 10 dígitos",
+    "emailOrPhone": "Seleccione correo electrónico/número de teléfono",
+    "emptyToken": "Correo electronico es requerido",
+    "emptyPhoneNumber": "Se requiere el número de teléfono"
+  },
+
+  "remittance": {
+    "emailIdRequired": "Correo electronico es requerido",
+    "validEmailId": "Por favor introduzca una dirección de correo electrónico válida",
+    "deliveryMode": "Seleccione un modo de envío de remesas",
+    "chooseDeliveryMode": "Recibir detalles de pago adicionales",
+    "recievePayment": "Seleccione para recibir remesas de pago (opcional)",
+    "content": "* El formato de la remesa será PDF",
+    "optional":" (opcional)"
+  },
+
+  "message": {
+    "somethingWentWrong": "Algo salió mal",
+    "invalidReq":"Solicitud no válida",
+    "successfulAlternatePaymentMethod": "Ha actualizado correctamente su método de pago secundario.",
+    "successfulDeletePaymentMethod": "Ha eliminado correctamente su método de pago secundario.",
+    "successfulPreferredPaymentMethod": "¡Su información de pago se ha actualizado correctamente!",
+    "achAlternatePaymentMethod": "Se ha agregado deposito bancario como su método de pago alternativo.",
+    "checkAlternatePaymentMethod": "Se ha añadido el cheque como método de pago alternativo.",
+    "successfulCheckPreferredPaymentUpdate":"Su preferencia de pago se actualizó con éxito. El pago se liberará a través de {{paymentMethodName}}. Tomará {{timeSpan}} días hábiles para llegar a su dirección registrada.",
+    "successfulACHPreferredPaymentUpdate":"Su preferencia de pago se actualizó con éxito. El pago se liberará en su cuenta bancaria. Tomará {{timeSpan}} días hábiles para que el pago aparezca en su cuenta bancaria.",
+    "logoutAlternatePayment": "Puede agregar el pago alternativo después de iniciar sesión en el intercambio de pagos",
+    "addNewAlternatePaymentMethod":"Se recomienda elegir un método de pago secundario para garantizar el procesamiento sin problemas de pagos altos en dólares. Al seleccionar un método de pago secundario, recibirá su dinero sin demora, incluso si su método de pago principal no puede procesarlo debido a los límites de procesamiento de la red."
+  },
+
+  "label": {
+    "accountNumber": "Número de cuenta",
+    "confirmAccountNumber": "Confirmar número de cuenta",
+    "routingNumber": "Número de ruta",
+    "bankName": "Nombre del banco",
+    "accountType": "Tipo de cuenta",
+    "addressLine1": "Dirección Línea 1",
+    "addressLine2": "Dirección de línea 2",
+    "country": "País",
+    "state": "Estado",
+    "city": "Ciudad",
+    "postalCode": "Código postal",
+    "countryCode": "Código de país",
+    "phoneNumber": "Número de teléfono",
+    "emailOrPhone": "Correo electrónico / número de teléfono",
+    "email": "Correo electrónico",
+    "address":"Dirección",
+    "searchRoutingCode":"Número de ruta de búsqueda",
+    "searchBank":"Buscar Banco",
+    "select":"Seleccione"
+  },
+
+  "buttonLabel": {
+    "continue": "SEGUIR",
+    "back": "ATRÁS",
+    "cancel":"CANCELAR",
+    "add":"AGREGAR",
+    "update":"ACTUALIZAR",
+    "okay":"BUENO"
+  },
+
+  "heading": {
+    "updatePreferredPaymentMethod": "Actualizar el método de pago principal",
+    "updateAlternatePaymentMethod": "Actualizar el método de pago secundario",
+    "addAlternatePaymentMethod": "Agregar método de pago secundario",
+    "checkAsPayment": "Si prefiere recibir su pago mediante check.",
+    "orDivider": "O",
+    "otherPayments":"Otras opciones de pago",
+    "cardInfo":"Información de la tarjeta",
+    "updateDetails":"Actualizar detalles",
+    "secondaryPaymentMethodAdded":"Método de pago secundario agregado"
+  },
+
+  "link": {
+    "clearSelection": "Limpiar Formulario",
+    "clickHere": "Haga clic aquí",
+    "searchRoutingNumber": "Número de ruta de búsqueda"
+  },
+
+  "ach": {
+    "content": {
+      "achInformation": "Comparta los detalles de su cuenta",
+      "note": "Nota: Los detalles de pago de ACH ya se agregaron como su método de pago alternativo. Lo mismo se guardará como su método de pago preferido. Y el cambio realizado para ACH también se reflejará en el método de pago alternativo.",
+      "bankSearchResult": "Resultados de la búsqueda bancaria",
+      "bankDetails":"Detalles del banco"
+    }
+  },
+
+  "check": {
+    "content": {
+      "checkInformation": "Comparta los detalles de su Cheque",
+      "note": "Nota: Los detalles de pago de cheques ya están agregados como su método de pago alternativo. Lo mismo se guardará como su método de pago preferido. Y el cambio realizado para el cheque también se reflejará en el método de pago alternativo.",
+      "checkDetails":"Cheque detalles"
+    }
+  },
+
+  "pushToCard": {
+    "error": {
+      "nameRequired": "Se requiere el nombre",
+      "validCardNumber": "Por favor, introduzca un número de tarjeta válido",
+      "expiryDateRequired": "Se requiere la fecha de caducidad",
+      "cvvLength": "CVV debe tener una longitud de 3 dígitos",
+      "cardNumber":"Solo se acepta Visa/MasterCard"
+    },
+
+    "content": {
+      "pushToCardInformation": "Comparta los detalles de su tarjeta de débito",
+      "pushToCardDetails":"Detalles de la tarjeta de débito"
+    },
+
+    "label": {
+      "cardName": "Nombre del titular de la tarjeta",
+      "cardNumber": "Número de tarjeta",
+      "expiryDate": "Fecha de caducidad",
+      "cvv": "CVV"
+    }
+  },
+
+  "paypal": {
+    "error": {
+      "phoneNumberRequired":"Se requiere número de teléfono",
+      "phoneNumberLength": "El número de teléfono debe tener 10 dígitos.",
+      "emailIdRequired": "Correo electronico es requerido",
+      "validEmailId": "Por favor introduzca una dirección de correo electrónico válida"
+    },
+
+    "content": {
+      "paypalInformation": "Comparte tus datos de PayPal",
+      "paypalDetails":"Detalles de PayPal"
+    }
+  },
+
+  "zelle": {
+    "content": {
+      "zelleInformation": "Comparta sus detalles de Zelle",
+      "zelleDetails":"Detalles de Zelle"
+    },
+
+    "label": {
+      "tokenValue": "Correo electrónico"
+    }
+  },
+  "actionButtons": {
+    "continue": "SEGUIR",
+    "back": "ATRÁS"
+  },
+  "mostPreferred":"Más preferido",
+  "usBankPreferred":"Privilegiado",
+  "ifEnrolled":"Menos de 1 hora si el número de teléfono o el correo electrónico están registrados en Zelle.",
+  "selectAnAccount":"Seleccione una cuenta para compartir",
+  "shareAccount":"Selecciona una cuenta para compartir ",
+  "subHeading":{
+    "ach":"Más rápido, más fácil y más conveniente. Controle la cuenta a su conveniencia.",
+    "paypal":"El pago se transferirá a su cuenta PayPal. El pago tardará menos de una hora en aparecer.",
+    "zelle":"Manera rápida, segura y fácil de recibir dinero. No es necesario compartir su información bancaria confidencial.",
+    "check":"Espere de 10 a 15 días hábiles para que su cheque llegue a su dirección registrada.",
+    "directDeposit":"El pago se transferirá a la cuenta vinculada a su tarjeta de débito de 16 dígitos o tarjeta prepaga precargable. El pago tardará menos de una hora en aparecer en su cuenta bancaria."
+  },
+  "tooltipText":{
+    "paypal":"El límite máximo establecido es de ${{threshold}}. No se procesará ningún pago futuro que supere el límite establecido.",
+    "directDeposit":"El límite máximo establecido es de ${{threshold}}. No se procesará ningún pago futuro que supere el límite establecido.",
+    "zelle":"El límite máximo establecido es de ${{threshold}}. No se procesará ningún pago futuro que supere el límite establecido."
+  }
+}

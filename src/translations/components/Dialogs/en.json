@@ -1,0 +1,20 @@
+{
+    "buttonLabel": {
+        "close" : "CLOSE"
+    },
+    "UserExistConfirmDialog": {
+        "label": {
+            "alreadyExists": "This user already exist in our system.",
+            "sytemAdmin": "You can contact the system administrator for the account using the information below.",
+            "citySupplierSupport": "Please contact City Supplier Support at helpdesk@citipaymentexchange.citi.com for further assistance.",
+            "email/phone": "Email:{{email}} / Phone: {{phone}}",
+            "goToLoginScreen": "GO TO LOGIN SCREEN",
+            "close": "CLOSE",
+            "yes": "Yes",
+            "ok": "OKAY",
+            "no": "No"
+        }
+    },
+
+    "dataSecureText": "Your Data Is Secure"
+}

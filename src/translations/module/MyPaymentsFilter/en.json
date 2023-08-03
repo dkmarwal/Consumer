@@ -1,0 +1,36 @@
+{
+  "dateFilter": "Date Filter",
+  "label": {
+    "paymentId": "Payment ID",
+    "paymentAmount":"Payment Amount",
+    "remitToId": "Remit to ID",
+    "paymentTypeIds": "Payment Method",
+    "all": "All",
+    "debitAccount": "Debit Account",
+    "resetFilter": "RESET",
+    "applyFilter": "APPLY",
+    "paymentMethods": "Payment Methods",
+    "StartDate": "Start Date",
+    "EndDate": "End Date",
+    "byDate": "By Date",
+    "byAmount": "By Amount",
+    "byStatus": "By Status",
+    "byPaymentMethod": "By Payment Method",
+    "minAmount":"Min Amount",
+    "maxAmount":"Max Amount"
+  },
+  "filters": {
+    "last15Days": "Last 15 Days",
+    "last6Months": "Last 6 Months",
+    "previousMonth": "Previous Month",
+    "custom": "Custom"
+  },
+  "error": {
+    "validDate": "Please choose a valid Date",
+    "rangeDate": "End Date cannot be less than Start Date",
+    "startDate": "Start Date is required",
+    "endDate": "End Date is required",
+    "maxAmtErr":"Max Amount cannot be less than Min Amount",
+    "maxAmountInvalid":"Max Amount cannot be 0"
+  }
+}

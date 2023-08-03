@@ -1,0 +1,36 @@
+{
+  "dateFilter": "Filtre de date",
+  "label": {
+    "paymentId": "ID de paiement",
+    "paymentAmount":"Montant du paiement",
+    "remitToId": "Remit To ID",
+    "paymentTypeIds": "Mode de paiement",
+    "all": "Tout",
+    "debitAccount": "Compte de débit",
+    "resetFilter": "RÉINITIALISER",
+    "applyFilter": "APPLIQUER",
+    "paymentMethods": "Méthodes de payement",
+    "StartDate": "Date de début",
+		"EndDate": "Date de fin",
+    "byDate": "Par date",
+    "byAmount": "Par montant",
+    "byStatus": "Par statut",
+    "byPaymentMethod": "Par mode de paiement",
+    "minAmount":"Montant minimal",
+    "maxAmount":"Montant maximum"
+  },
+  "filters": {
+    "last15Days": "15 derniers jours",
+    "last6Months": "6 derniers mois",
+    "previousMonth": "Le mois précédent",
+    "custom": "Personnalisé"
+  },
+  "error": {
+    "validDate": "Veuillez choisir une date valide",
+    "rangeDate": "La date de fin ne peut pas être inférieure à la date de début",
+    "startDate": "La date de début est requise",
+    "endDate": "La date de fin est requise",
+    "maxAmtErr":"Le montant maximum ne peut pas être inférieur au montant minimum",
+    "maxAmountInvalid":"Le montant maximum ne peut pas être 0"
+  }
+}

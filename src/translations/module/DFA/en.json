@@ -1,0 +1,45 @@
+{
+    "buttonLabel": {
+        "cancel": "CANCEL",
+        "save": "SAVE",
+        "call": "CALL",
+        "sms": "TEXT",
+        "email":"EMAIL",
+        "resendSms": "RESEND TEXT",
+        "submit": "SUBMIT",
+        "back":"BACK",
+        "send":"SEND",
+        "skip": "SKIP FOR NOW",
+        "text": "TEXT ME",
+        "update":"UPDATE"
+    },
+    "error": {
+        "dfaPhone": "Phone number must be of 10 digits",
+        "verificationErr": "Please enter your verification code",
+        "dfaErr":"Please select either Call or Text to receive your verification code.",
+        "somethingWentWrong": "Something went wrong! Try again.",
+        "invalidPhoneNumber": "Invalid number !",
+        "verificationCodeRequired": "Verification Code is required."
+    },
+    "notification": {
+        "Dual factor authentication updated successfully": "Dual factor authentication updated successfully"
+    },
+    "label": {
+        "dfaType": "Dual Factor Authentication Type",
+        "phone": "PHONE",
+        "sms": "SMS",
+        "verificationCode":"Verification Code"
+    },
+    "message": {
+        "retryAfter60": "This can take a few seconds. Retry after 60 seconds.",
+        "MFAText":"Please select where would you like to receive your verification code",
+        "enterCode": "Please enter the six digit verification code received on",
+        "verificationCode": "Enter Your Verification Code",
+        "twoStepVerification": "Two-Step Verification",
+        "accessProfile": "Verify to access your profile",
+        "verifyPhoneNumber": "Kindly verify your phone number.",
+        "securePayments": "Adds more security to your future payments & account information.",
+        "oneTimeVerificationCode": "We will send you a one time verification code.",
+        "updatePhoneText":"Please update your phone number to proceed with your payment preference"
+    }
+}

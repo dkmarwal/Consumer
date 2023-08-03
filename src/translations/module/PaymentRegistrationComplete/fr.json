@@ -1,0 +1,9 @@
+{
+  "thankYou": "Merci",
+  "isLoggedInIf1": "Vous recevrez votre paiement dans votre",
+  "isLoggedInIf2": "compte. Une confirmation (Email/SMS) vous a été envoyée.",
+  "isLoggedInElse1": "Une confirmation par e-mail/SMS a été envoyée à l'adresse enregistrée. Vous recevrez votre paiement dans votre",
+  "isLoggedInElse2": "compte",
+  "Okay": "D'ACCORD",
+  "Continue":"CONTINUEZ"
+}

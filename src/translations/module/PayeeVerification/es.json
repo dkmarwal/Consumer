@@ -1,0 +1,104 @@
+{
+  "title": {
+    "users": "Users",
+    "addUser": "Add User",
+    "editUser": "Edit User",
+    "roles": "Roles",
+    "newRole": "New Role",
+    "editRole": "Edit Role"
+  },
+  "buttonLabel": {
+    "saveRole": "SAVE ROLE",
+    "cancel": "CANCEL",
+    "delete": "Delete",
+    "save": "Save",
+    "rowsPerPage": "rows per page",
+    "verify": "VERIFICAR",
+    "continue":"CONTINUE"
+  },
+  "user": {
+    "addView": {
+      "error": {
+        "consumerId": "{{displayName}} es obligatorio.",
+        "firstName": "Se requiere el primer nombre.",
+        "lastName": "Se requiere apellido.",
+        "phone": "El número de teléfono debe tener 10 dígitos.",
+        "email": "{{displayName}} no válida.",
+        "addressLine1": "Se requiere la línea de dirección 1.",
+        "addressLine2": "Se requiere la dirección de línea 2.",
+		"postalCode": "Se requiere {{displayName}}.",
+        "emptyEmail": "Se requiere {{displayName}}.",
+        "customFieldError": "El {{fieldName}} es obligatorio.",
+        "customField1": "El campo personalizado 1 es obligatorio.",
+        "customField2": "El campo personalizado 2 es obligatorio.",
+        "customField3": "El campo personalizado 3 es obligatorio.",
+        "customField4": "El campo personalizado 4 es obligatorio.",
+        "customField5": "El campo personalizado 5 es obligatorio.",
+        "phoneOTP": "Se requiere OTP de una sola vez."
+      },
+      "notification": {
+        "User information updated successfully": "La información del usuario se actualizó correctamente.",
+        "User added successfully": "Usuario agregado correctamente.",
+        "youAreSuccessfullyVerified": "¡Estás verificado con éxito!",
+        "verificationComplete":"Verificación completa",
+        "otpSent":"OTP enviado con éxito."
+      },
+      "label": {
+        "consumerId": "ID de consumidor *",
+        "payeeId": "Identificación del beneficiario*",
+        "firstName": "Primer nombre*",
+        "lastName": "Apellido*",
+        "phone": "Número de teléfono*",
+        "enterOTP": "Ingresa el código aquí",
+        "email": "Identificación de correo*",
+        "address1": "Dirección Línea 1",
+        "address2": "Dirección de línea 2",
+        "country": "País",
+        "state": "Estado",
+        "city": "Ciudad",
+        "zipCode": "Código postal",
+        "custom_field1": "Campo personalizado 1",
+        "custom_field2": "Campo personalizado 2",
+        "custom_field3": "Campo personalizado 3",
+        "custom_field4": "Campo personalizado 4",
+        "custom_field5": "Campo personalizado 5"
+      },
+      "placeholder": {
+        "enterOTP": "Ingresa el código aquí"
+      }
+    }
+  },
+  "welcomeToPaymentExchange": "¡Bienvenido a Payment Exchange!",
+  "payeeVerification": " Verificación del beneficiario",
+  "identityVerificationMessage": "Ayúdenos a verificar su identidad completando los siguientes datos.",
+  "verifying": "Verificando...",
+  "threeSteps": "Tu pago está a solo 3 pasos",
+  "verifyYourself": "Verificarse a sí mismo",
+  "emailTooltip":"Por favor ingrese su correo electrónico en yourname@example.com",
+  "existingUser": {
+    "Company Profile already exists!": "¡El perfil de la empresa ya existe!",
+     "ProfileExists": "¡El perfil ya existe!",
+     "PaymentExchangeTxt": "Ya existe una cuenta de Payment Exchange con estos detalles.",
+     "clickHere": "¡Haga clic aquí!",
+     "loginTxt": "iniciar sesión.",
+     "accountDetailsTxt": "Los detalles de su cuenta de pago ya se han compartido con nosotros. No se requerirán medidas por su parte.",
+     "thanksTxt": "Gracias por escoger",
+     "PaymentExchange": "& Intercambio de pagos"
+  },
+  "textBoxLink": {
+    "resendCode": "Reenviar codigo",
+    "privacyPolicy": "Política de privacidad",
+    "termOfServices": "Término de los servicios"
+  },
+  "radioBtn": {
+    "payeeID": "Identificación del beneficiario",
+    "txtMe": "Envíame un código de validación"
+  },
+  "privacyPolicy": "Política de privacidad",
+  "privacyPolicyMsg": "En U.S. Bancorp®, la confianza siempre ha sido la base de nuestra relación con los clientes. Debido a que nos confía su información financiera y personal, respetamos su privacidad y protegemos su información. Para preservar esa confianza, la familia de proveedores de servicios financieros de U.S. Bancorp se compromete a proteger su privacidad al adherirse a las prácticas que se describen a continuación.",
+  "termServicesTitle": "Pago impulsado por U.S. Bank",
+  "termServices": "Término de los servicios",
+  "termServicesMsg": "El programa de pago de U.S. Bank utiliza el código corto 52272 para alertar a los consumidores sobre la acción necesaria para recibir un pago pendiente. El consumidor debe comunicarse con la empresa pagadora a la que se hace referencia en el mensaje si tiene preguntas sobre el pago. Nuestra política de privacidad del cliente se puede ver en",
+  "termServicesMsg1": " la información de contacto se puede encontrar en ",
+  "termServicesMsg2": " El consumidor puede responder al mensaje con la palabra AYUDA para recibir información adicional o DETENER para ser agregado a nuestra lista de exclusión voluntaria. Este es un mensaje único; no se enviará ninguna otra comunicación. Los operadores de telefonía móvil no son responsables de los mensajes retrasados ​​o no entregados."
+}

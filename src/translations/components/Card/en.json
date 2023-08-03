@@ -1,0 +1,16 @@
+{
+    "yourPaymentIsJust3StepsAway":"Your payment is just 3 step(s) away.",
+    "verifyYourself":"1. Verify yourself",
+    "registerOrContinueAsGuest":"2. Register or continue as guest",
+    "shareYourPaymentDetailsWithUs":"3. Share your payment details with us",
+    "journeyCompleted":"Journey Completed!",
+    "authenticatePayment":"Authenticate Payment",
+    "authenticateYourself":"Authenticate yourself",
+    "welcomeCard":{
+        "enjoyTheBenefits":"Enjoy the Benefits with us :",
+        "contactLessPayments":"Contactless payments",
+        "personalisePaymentMethods":"Personalise payment methods",
+        "notificationAndAlerts":"Notification and alerts",
+        "transparency":"Transparency"
+    }
+}

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" version="1.1" style=""><rect id="backgroundrect" width="100%" height="100%" x="0" y="0" fill="none" stroke="none" class="" style=""/>
+    <title>CAECA5D0-5559-4AD9-A89D-9C8BCAAB3A75</title>
+    <defs>
+        <filter id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.043137 0 0 0 0 0.098039 0 0 0 0 0.254902 0 0 0 1.000000 0"/>
+        </filter>
+        <path d="M15.5,0.5 L9.875,6.828 L9.875,15.5 L6.125,14.5625 L6.125,6.828 L0.5,0.5 L15.5,0.5 Z" id="path-2"/>
+    </defs>
+    
+<g class="currentLayer" style=""><title>Layer 1</title><g id="Client-Portal" stroke="none" stroke-width="1" fill="#2B2D30" fill-rule="evenodd" class="" opacity="1" fill-opacity="1" filter="">
+        <g id="My-Payments---mypayments" opacity="1" fill="#2B2D30" fill-opacity="1" stroke="none" stroke-opacity="1" filter="">
+            <g id="Group" opacity="1" fill="#2B2D30" fill-opacity="1" stroke="none" stroke-opacity="1" filter="">
+                <g id="ic_lock" filter="" opacity="1" fill="#2B2D30" fill-opacity="1" stroke="none" stroke-opacity="1">
+                    <g id="svg_1" opacity="1" fill="#2B2D30" fill-opacity="1" stroke="none" stroke-opacity="1" filter="">
+                        <mask id="mask-3" fill="white" transform="translate(-0.5,-0.5) translate(1,4) translate(1129,19) translate(120,406) translate(-1250,-429) ">
+                            <use xlink:href="#path-2" id="svg_2"/>
+                        </mask>
+                        <use id="Icon" fill="#2B2D30" xlink:href="#path-2" y="-0.5" x="-0.5"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g></g></svg>

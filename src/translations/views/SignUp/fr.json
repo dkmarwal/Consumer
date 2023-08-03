@@ -1,0 +1,74 @@
+{
+    "buttonLabel": {
+      "cancel": "Annuler"
+    },
+    "signUpWithTax": {
+      "user": {
+        "error": {
+          "firstName": "Le prénom est requis.",
+          "lastName": "Le nom de famille est obligatoire.",
+          "userName": "Nom d'utilisateur est nécessaire.",
+          "securityQuestionId": "Une question de sécurité est requis.",
+          "phone": "Le numéro de téléphone doit être composé de 10 chiffres",
+          "email": "Adresse e-mail invalide",
+          "password": "Le nouveau mot de passe doit comporter au moins huit caractères, au moins une lettre majuscule, une lettre minuscule, un chiffre et un caractère spécial",
+          "confirmPassword": "Le mot de passe et le mot de passe de confirmation doivent être identiques",
+          "securityAnswer": "La réponse de sécurité doit comporter au moins 6 caractères."
+        },
+        "notification": {
+          "Signup successful": "Inscription réussie",
+          "tooltipTitle": "Le nouveau mot de passe doit comporter au moins huit caractères, au moins une lettre majuscule, une lettre minuscule, un chiffre et un caractère spécial",
+          "User already exist!": "L'utilisateur existe déjà!"
+        }
+      },
+      "label": {
+        "paymentExchange": "Payment Exchange",
+        "completeSetup": "COMPLETEZ VOTRE CONFIGURATION",
+        "firstName": "Prénom*",
+        "lastName": "Nom de famille*",
+        "userName": "Nom d'utilisateur*",
+        "email": "E-mail*",
+        "password": "Mot de passe*",
+        "confirmPassword": "Confirmer le mot de passe*",
+        "securityQuestion": "Question de sécurité*",
+        "securityAnswer": "Réponse de sécurité*",
+        "register": "S'inscrire"
+      },
+
+      "stepperInfo":{
+        "companyInfo": "INFORMATIONS SUR LA SOCIÉTÉ",
+        "contactInfo": "INFORMATIONS DE CONTACT",
+        "mailVarif": "VÉRIFICATION DE L'E-MAIL"
+      }
+    },
+    "startUp": {
+      "label": {
+        "welcomeMsg": "Citi Payment Exchange a commencé à offrir un service gratuit qui vous permettra de recevoir vos paiements par voie électronique! Configurez votre profil sur notre nouveau système de traitement des paiements électroniques afin que nous puissions commencer à traiter vos paiements. Payment Exchange vous permet:",
+        "updatePayment": "Mettre à jour électroniquement les détails de paiement et de profil",
+        "trackPayment": "Suivez tous vos paiements en un seul endroit",
+        "receivePayment": "Recevez des paiements électroniquement de",
+        "wlcmPaymentExchange": "Bienvenue sur Payment Exchange!",
+        "completeSignUp": "COMPLÉTEZ VOTRE INSCRIPTION",
+        "taxId": "Numéro d'identification fiscale *",
+        "email": "E-mail*",
+        "agree": "Je suis d'accord pour",
+        "terms": "Termes et conditions.",
+        "termsConditionConfirmText": "Veuillez lire et confirmer votre accord avec nos conditions générales qui détaillent vos droits et responsabilités en tant que membre du réseau Citi Payment Exchange.",
+        "certifyText": "Je certifie que je suis un employé de l'entreprise pour laquelle je crée un profil Citi Payment Exchange, que je suis autorisé à créer un profil au nom de l'entreprise et que les informations que je fournis dans le profil de notre entreprise sont correctes au mieux. ma connaissance",
+        "verify": "Vérifier"
+      },
+      "error": {
+        "email": "Adresse e-mail invalide",
+        "taxId": "Le numéro d'ID fiscale fédérale / SSN doit comporter 9 chiffres"
+      },
+      "notification": {
+          "Activation code is mandatory": "Le code d'activation est obligatoire.",
+          "To verify kindly go through and accept the Terms & Conditions and certify your authorisation to create Citi Payment Exchange profile on behalf of your company": "Pour vérifier, veuillez lire et accepter les conditions générales et certifier votre autorisation de créer un profil Citi Payment Exchange au nom de votre entreprise.",
+          "To verify kindly go through and accept the Terms & Conditions": "Pour vérifier, veuillez lire et accepter les conditions générales.",
+          "To verify kindly certify your authorisation to create Citi Payment Exchange profile on behalf of your company": "Pour vérifier, veuillez certifier votre autorisation de créer un profil Citi Payment Exchange au nom de votre entreprise.",
+          "Please select the Captcha": "Veuillez sélectionner le Captcha.",
+          "Tax Id is mandatory": "L'identifiant fiscal est obligatoire.",
+          "User already exists!": "L'utilisateur existe déjà!"
+      }
+    }
+  }

@@ -1,0 +1,50 @@
+{
+  "heading": {
+    "thankYou": "Merci",
+    "payment": "Paiement de",
+    "reflect": "se reflétera dans votre",
+    "account": "Compte",
+    "recievePayment": "Vous recevrez votre(vos) paiement(s) du montant",
+    "confirmation": "dans votre (vos) compte(s). Une confirmation (Email/SMS) vous a été envoyée.",
+    "noNewPayment": "Aucun nouveau paiement pour Authenticate.",
+    "thankyouText":"Une confirmation par e-mail / SMS a été envoyée à vos coordonnées dans vos dossiers. Vous recevrez votre paiement sur votre compte bancaire lié à Zelle dans les 1-2 heures. Pour les paiements futurs, vous pouvez modifier vos préférences de paiement à tout moment."
+  },
+
+  "buttonLabel": {
+    "Okay": "D’accord",
+    "close": "PROCHE",
+    "resend": "Renvoyer",
+    "verify": "VÉRIFIER",
+    "cancel": "ANNULER",
+    "submit": "NOUS FAIRE PARVENIR",
+    "later": "PLUS TARD"
+  },
+  "error": {
+    "enterCode": "Veuillez saisir le code de vérification.",
+    "selectonePayment":"Veuillez sélectionner au moins un montant de paiement."
+  },
+  "dashboard":{
+    "verifyPaymentTitle":"Vérifier pour recevoir le Paiement",
+    "verifyPaymentText":"Ha recibido una solicitud de autenticación de pago, seleccione el pago para autenticar",
+    "codeReceived":"Veuillez saisir le code à six chiffres reçu le",
+    "both":"ambas",
+    "NoPaymentsText":"No hay pagos para autenticarse",
+    "verifySuccessTitle":"Vérifier le paiement",
+    "verifySuccessMsg":{
+      "ach": "Votre paiement est autorisé avec succès. Vous recevrez votre paiement sur votre compte bancaire sous {{timeRequired}} jours ouvrés. Pour les paiements futurs, vous pouvez modifier vos préférences de paiement à tout moment.",
+      "check":"Votre paiement est autorisé avec succès. Vous recevrez votre chèque sous {{timeRequired}} jours ouvrés. Pour les paiements futurs, vous pouvez modifier vos préférences de paiement à tout moment.",
+      "zelle":"Votre paiement est autorisé avec succès. Vous recevrez votre paiement sur votre compte bancaire lié à Zelle généralement en moins d'une heure. Pour les paiements futurs, vous pouvez modifier vos préférences de paiement à tout moment.",
+      "directDeposit":"Votre paiement est autorisé avec succès. Vous recevrez votre paiement sur le compte lié à votre carte de débit en moins d'une heure. Pour les paiements futurs, vous pouvez modifier vos préférences de paiement à tout moment.",
+      "paypal":"Votre paiement est autorisé avec succès. Vous recevrez votre paiement sur votre compte PayPal en moins d'une heure. Pour les paiements futurs, vous pouvez modifier vos préférences de paiement à tout moment."
+    }
+  },
+  "verifyPayment": "Valider pour recevoir $ {{paymentsData}} paiement",
+  "enterCode": "Veuillez saisir le code de vérification à six chiffres reçu le {{contact}}",
+  "enterCodeBoth": "Veuillez entrer le code de vérification à six chiffres reçu sur les deux {{mobile}} et {{email}}",
+  "retryAfter60": "Cela peut prendre quelques secondes. Réessayez après 60 secondes.",
+  "enterVerCode": "Code de vérification",
+  "nonCdmAuth":{
+    "paymentReceivedHeading":"Waouh ! Vous avez reçu le paiement de ${{paymentAmount}}",
+    "enterVerificationCode":"Entrer le code de vérification"
+  }
+}

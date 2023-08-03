@@ -1,0 +1,10 @@
+{
+    "thankYou": "Gracias",
+    "isLoggedInIf1": "Recibirás tu pago en tu",
+    "isLoggedInIf2": "cuenta. Se le ha enviado una confirmación (correo electrónico / SMS).",
+    "isLoggedInElse1": "Se ha enviado una confirmación por correo electrónico / SMS a la dirección registrada. Recibirás tu pago en tu",
+    "isLoggedInElse2": "cuenta",
+    "Okay": "BUENO",
+    "Continue":"SEGUIR"
+  }
+  

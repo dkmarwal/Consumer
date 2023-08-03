@@ -1,0 +1,26 @@
+{
+    "You Have Been Idle!": "¡Has estado inactivo!",
+    "You will get sign out Do you want to stay signin?": "Se cerrará la sesión. ¿Quieres permanecer conectado?",
+    "Citibank": "Citibank",
+    "USBank":"U.S. Bank",
+    "Home": "Hogar",
+    "Users": "Usuarios",
+    "Payment Details": "Detalles del pago",
+    "Client Details": "Detalles del cliente",
+    "Roles": "Roles",
+    "Permissions": "Permisos",
+    "Vendor Profile": "Perfil de proveedor",
+    "Payment Preference": "Preferencia de pago",
+    "Profile": "Perfil",
+    "reduxData": {
+        "somethingWrong": "¡UPS! Algo salió mal.",
+        "errorOccured": "Se ha producido un error.",
+        "detailsAdded": "Detalles agregados con éxito.",
+        "reportData": "No se encontraron los datos del informe.",
+        "responseFormat": "Formato de respuesta no esperado",
+        "exceptionOccur": "Se produce una excepción en la API",
+        "resFormat":"excepción de formato de respuesta",
+        "serverExep": "Excepción del servidor",
+        "fileNotFound": "Archivo no encontrado"
+    }
+}

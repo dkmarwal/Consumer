@@ -1,0 +1,19 @@
+{
+    "buttonLabel": {
+        "close" : "CERRAR"
+    },
+    "UserExistConfirmDialog": {
+        "label": {
+            "alreadyExists": "Este usuario ya existe en nuestro sistema.",
+            "sytemAdmin": "Puede ponerse en contacto con el administrador del sistema de la cuenta utilizando la siguiente información.",
+            "citySupplierSupport": "Comuníquese con el Soporte para proveedores de la ciudad en helpdesk@citipaymentexchange.citi.com para obtener más ayuda.",
+            "email/phone": "Correo electrónico: {{email}} / Teléfono: {{phone}} ",
+            "goToLoginScreen": "IR A LA PANTALLA DE INICIO DE SESIÓN",
+            "close": "CERRAR",
+            "yes": "sí",
+            "ok": "BUENO",
+            "no": "No"
+        }
+    },
+    "dataSecureText": "Tus datos están seguros"
+}

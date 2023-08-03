@@ -1,0 +1,41 @@
+{
+  "error": {
+    "Please fill at least one email address": "Please fill at least one email address",
+    "Invalid email address": "Invalid email address",
+    "VAN name is required": "VAN name is required",
+    "VAN EDI Code must be 2 alphanumeric characters": "VAN EDI Code must be 2 alphanumeric characters",
+    "VAN EDI Qualifier must be alphanumeric": "VAN EDI Qualifier must be alphanumeric",
+    "Please select at least one format": "Please select at least one format"
+  },
+  "remittanceEmail": {
+    "label": {
+      "additionalInformation": "ADD ADDITIONAL EMAIL",
+      "bulkRemittanceEmail": "Email Address",
+      "remittanceEmails": "Remittance Emails*",
+      "bulkRemittance": "Bulk Remittance"
+    }
+  },
+  "bulkRemittance": {
+    "label": {
+      "forAllBank": "This is for all the bank accounts with this client",
+      "remittanceDelivery": "Remittance Delivery Mode*",
+      "vanName": "Van Name*",
+      "remittanceVanEdiCode": "VAN EDI Code*",
+      "remittanceVanEdiQualifier": "VAN EDI Qualifier*",
+      "format": "Remittance Format*"
+    }
+  },
+  "remittanceFrequencyOptions": {
+    "Daily": "Daily",
+    "Weekly": "Weekly",
+    "Monthly": "Monthly",
+    "None": "None"
+  },
+
+  "chooseRemittanceMode": "Receive Additional Payment Details",
+  "receivePayment": "Select to receive payment remittances (Optional)",
+  "remittanceFormat": "*Remittance format will be PDF",
+  "EmailId":"Email",
+  "optional":"(optional)",
+  "tooltipText":"You will receive additional payment details via email and you will be able to download it from the portal once available."
+}

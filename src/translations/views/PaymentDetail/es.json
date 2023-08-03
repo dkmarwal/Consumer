@@ -1,0 +1,61 @@
+{
+  "paymentDetailHeading": "{{amount}} de {{clientName}}",
+  "fileName":"lista_de_pagos_{{dateStr}}.pdf",
+    "filters": "Filtros",
+    "heading": "HISTORIAL DE PAGOS",
+    "title": "Pagos",
+    "buttonLabel": {
+      "exportAs": "Exportar cómo "
+    },
+    "alert": {
+      "Remittance Download API WIP": "Descarga de remesas API WIP",
+      "Remittance Email API WIP": "Remesas de correo electrónico API WIP",
+      "No Data available to Download": "¡No hay datos disponibles para descargar!"
+    },
+    "label": {
+      "Today": "Hoy dia",
+      "Previous Month": "Mes anterior",
+      "Previous Quarter": "Trimestre anterior",
+      "Previous Year": "Año anterior",
+      "Last 7 Days": "Los últimos 7 días",
+      "Last 30 Days": "Últimos 30 días",
+      "Custom": "Personalizado",
+      "All Time": "Todo el tiempo",
+      "paymentDetails": "Detalles del pago",
+      "dateFilters": "Filtros de fecha",
+      "all": "Todos",
+      "remitToId": "Remitir a identificación",
+      "viewing": "Visita",
+      "moreFilters": "Más filtros",
+      "resetFilter": "RESTABLECER FILTRO",
+      "applyFilter": "APLICAR FILTRO",
+      "paymentMethod": "Método de pago",
+      "CHK": "CHK",
+      "ACH": "ACH",
+      "VCA": "VCA",
+      "creditAccounts": "Cuentas de crédito",
+      "allAccounts": "Todas las cuentas"
+    },
+    "tableColumn": {
+      "Payment Reference": "Referencia de pago",
+      "Payer Name": "Nombre del pagador",
+      "Value Date": "Fecha valor",
+      "Status": "Estado",
+      "Payment Amount": "Monto del pago",
+      "Payment Type": "Tipo de pago",
+      "Client Name": "nombre del cliente",
+      "Payment Date": "Fecha de pago",
+      "Payment List": "Lista de pagos",
+      "Payment Method": "Método de pago"
+    },
+    "notification": {
+      "File does not exist": "El archivo no existe."
+    },
+    "placeHolder": {
+      "endDate": "DD-MM-AAAA"
+    },
+    "appliedFiltersLabel":{
+      "clearAll":"Limpiar todo",
+      "filters":"Filtros:"
+    }
+  }

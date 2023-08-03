@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>B482F11C-3B8F-41E7-BEA1-083C68A78F3E</title>
+    <defs>
+        <filter id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.043137 0 0 0 0 0.098039 0 0 0 0 0.254902 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+        <path d="M8,8 C10.21,8 12,6.21 12,4 C12,1.79 10.21,0 8,0 C5.79,0 4,1.79 4,4 C4,6.21 5.79,8 8,8 L8,8 Z M8,10 C5.33,10 0,11.34 0,14 L0,16 L16,16 L16,14 C16,11.34 10.67,10 8,10 L8,10 Z" id="path-2"></path>
+        <rect id="path-4" x="0" y="0" width="50" height="50"></rect>
+    </defs>
+    <g id="Client-Portal" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="add_a_photo" transform="translate(-241.000000, -1603.000000)" filter="url(#filter-1)">
+            <g transform="translate(241.000000, 1603.000000)">
+                <mask id="mask-3" fill="white">
+                    <use xlink:href="#path-2"></use>
+                </mask>
+                <g id="Mask"></g>
+                <g id="🎨-Color" mask="url(#mask-3)">
+                    <g transform="translate(-17.000000, -17.000000)">
+                        <mask id="mask-5" fill="white">
+                            <use xlink:href="#path-4"></use>
+                        </mask>
+                        <use id="Black" stroke="none" fill="#000000" fill-rule="evenodd" xlink:href="#path-4"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

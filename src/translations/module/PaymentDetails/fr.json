@@ -1,0 +1,13 @@
+{
+    "paymentReference": "Référence de paiement",
+    "paymentMethod": "Mode de paiement",
+    "notes": "Remarques",
+    "paymentReceipt": "Détails de paiement",
+    "downloadPaymentReciept": "Télécharger les détails de paiement",
+    "deliveryAddress": "Adresse de livraison",
+    "notification": {
+      "Download Success!!": "Télécharger Succès!!",
+      "File does not exist!": "Fichier ne existe pas!"
+    }
+  }
+  

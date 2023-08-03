@@ -1,0 +1,49 @@
+{
+  "heading": {
+    "thankYou": "Thank You",
+    "payment": "Payment of",
+    "reflect": "will reflect in your",
+    "account": "account",
+    "recievePayment": "You will receive your payment(s) of amount",
+    "confirmation": "in your account(s). A confirmation (Email/SMS) has been sent to you.",
+    "noNewPayment": "No new payments to Authenticate.",
+    "thankyouText": "An Email / SMS confirmation has been sent to your contact information on file. You will receive your payment in your bank account linked with Zelle within 1-2 hours. For future payments, you can change your payment preference anytime."
+  },
+
+  "buttonLabel": {
+    "okay": "Okay",
+    "resend": "Resend",
+    "verify": "VERIFY",
+    "cancel":"CANCEL",
+    "submit":"SUBMIT",
+    "later":"LATER"
+  },
+  "error": {
+    "enterCode": "Please enter verification code.",
+    "selectonePayment":"Please select atleast one payment amount."
+  },
+"dashboard":{
+  "verifyPaymentTitle":"Verify to Receive Payment",
+  "verifyPaymentText":"You have received payment authentication request, please select the payment to authenticate",
+  "codeReceived":"Kindly enter six digit code received on",
+  "both":"both",
+  "NoPaymentsText":"No Payments to Authenticate",
+  "verifySuccessTitle":"Verify Payment",
+  "verifySuccessMsg":{
+    "ach": "Your payment is successfully authorized. You will receive your payment to your bank account within {{timeRequired}} business days. For future payments, you can change your payment preference anytime.",
+    "check":"Your payment is successfully authorized. You will receive your check within {{timeRequired}} business days. For future payments, you can change your payment preference anytime.",
+    "zelle":"Your payment is successfully authorized. You will receive your payment in your bank account linked with Zelle usually in less than an hour. For future payments, you can change your payment preference anytime.",
+    "directDeposit":"Your payment is successfully authorized. You will receive your payment in the account linked to your debit card within less than an hour. For future payments, you can change your payment preference anytime.",
+    "paypal":"Your payment is successfully authorized. You will receive your payment in your PayPal account in less than an hour. For future payments, you can change your payment preference anytime."
+  }
+},
+  "verifyPayment": "Verify to receive ${{paymentsData}} Payment",
+  "enterCode": "Please enter the six digit verification code received on {{contact}}",
+  "enterCodeBoth": "Please enter the six digit verification code received on both {{mobile}} and {{email}}",
+  "retryAfter60": "This can take a few seconds. Retry after 60 seconds.",
+  "enterVerCode": "Verification Code",
+  "nonCdmAuth":{
+    "paymentReceivedHeading":"Woohoo! Your have received payment of ${{paymentAmount}}",
+    "enterVerificationCode":"Enter the verification code"
+  }
+}

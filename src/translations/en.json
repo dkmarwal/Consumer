@@ -1,0 +1,26 @@
+{
+    "You Have Been Idle!": "You Have Been Idle!",
+    "You will get sign out Do you want to stay signin?": "You will get signed out. Do you want to stay signed in?",
+    "Citibank": "Citibank",
+    "USBank":"U.S. Bank",
+    "Home": "Home",
+    "Users": "Users",
+    "Payment Details": "Payment Details",
+    "Client Details": "Client Details",
+    "Roles": "Roles",
+    "Permissions": "Permissions",
+    "Vendor Profile": "Vendor Profile",
+    "Payment Preference": "Payment Preference",
+    "Profile": "Profile",
+    "reduxData": {
+        "somethingWrong": "Oops! Something went wrong.",
+        "errorOccured": "An error has occurred.",
+        "detailsAdded": "Details added successfully.",
+        "reportData": "Report data not found.",
+        "responseFormat": "Response format not expected",
+        "exceptionOccur": "Exception Occur on API",
+        "resFormat":"response format exception",
+        "serverExep": "Server Exception",
+        "fileNotFound": "File not found"
+    }
+}

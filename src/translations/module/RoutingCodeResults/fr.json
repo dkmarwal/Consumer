@@ -1,0 +1,39 @@
+{
+    "label":{
+        "bankName":"Nom de la banque",
+        "bankState":"État de la banque",
+        "bankCity":"Banque Ville",
+        "routingNumber":"Numéro d'acheminement",
+        "or":"OU"
+    },
+    "heading":{
+        "searchBank":"Rechercher une banque",
+        "byRoutingNumber":"Par Numéro d'acheminement ABA",
+        "byBankName":"Par nom de banque, état et ville"
+    },
+    "tableHeader":{
+        "bankName":"NOM DE LA BANQUE",
+        "routingNumber":"ROUTAGE PAS.",
+        "city":"VILLE",
+        "state":"ÉTAT"
+    },
+    "error":{
+        "bankName":"Le nom de la banque est requis",
+        "bankState":"L'état de la banque est requis",
+        "bankCity":"La ville de la banque est requise",
+        "routingNumber":"Le numéro d'acheminement est requis",
+        "bankCityLength":"Bank City doit comporter moins de 31 caractères."
+    },
+    "text":{
+        "noOptions":"Aucune option",
+        "labelDisplayedRows": "{{from}}-{{to}} de {{count}}",
+        "noDataFound":"Aucune donnée disponible",
+        "bankResult":"Sélectionner votre banque ci-dessous ({{totalCount}} Résultats)"
+    },
+    "button":{
+        "cancel":"ANNULER",
+        "search":"CHERCHER",
+        "back":"RETOUR",
+        "select":"SÉLECTIONNER"
+    }
+}

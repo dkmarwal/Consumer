@@ -1,0 +1,34 @@
+{
+  "tooltip": "Unique Payment ID",
+  "label": {
+    "paymentReference": "PAYMENT REFERENCE",
+    "paymentMethod": "PAYMENT METHOD",
+    "paymentMobMethod": "METHOD",
+    "date": "DATE",
+    "status": "STATUS",
+    "amount":"AMOUNT",
+    "notes":"NOTES",
+    "paymentAmount": "Payment Amount",
+    "noDataFound": "No Transactions Found",
+    "rowsPerPage": "Rows per page",
+    "bankDeposit":"Bank Deposit",
+    "check":"Check",
+    "paypal":"PayPal",
+    "directDeposit":"Instant Pay",
+    "zelle":"Zelle",
+    "primaryText":"Primary",
+    "alternateText":"Secondary",
+    "defaultText":"Default",
+    "labelDisplayedRows": "{{from}}-{{to}} of {{count}}",
+    "": ""
+  },
+  "placeholder": {
+    "enterText": "Enter Text",
+    "paymentDate": "MM/DD/YYYY"
+  },
+  "tooltipText":{
+    "primary":"Primary payment method opted by receiver.",
+    "secondary":"Payment method used when primary method fails.",
+    "default":"Payment method opted by the sender when both primary and secondary methods fail."
+  }
+}

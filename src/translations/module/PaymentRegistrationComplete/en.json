@@ -1,0 +1,10 @@
+{
+  "thankYou": "Thank You",
+  "isLoggedInIf1": "You will receive your payment in your",
+  "isLoggedInIf2": "account. A confirmation(Email/SMS) has been sent to you.",
+  "isLoggedInElse1": "An Email/SMS confirmation has been sent to the address on record. You will receive your payment in your",
+  "isLoggedInElse2": "account",
+  "Okay": "OKAY",
+  "Continue":"CONTINUE",
+  "thankyouText":"An email and / or SMS confirmation has been sent to your contact information on file. You will receive your payment in your PayPal account within 2-3 hours. For future payments, you can change your payment preference anytime."
+}

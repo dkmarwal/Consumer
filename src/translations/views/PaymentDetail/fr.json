@@ -1,0 +1,62 @@
+{
+  "paymentDetailHeading": "{{amount}} de {{clientName}}",
+  "fileName":"liste_de_paiement_{{dateStr}}.pdf",
+  "filters": "Filtres",
+  "heading": "HISTORIQUE DE PAIEMENT",
+  "title": "Paiements",
+  "buttonLabel": {
+    "exportAs": "Exporter sous"
+  },
+  "alert": {
+    "Remittance Download API WIP": "Remittance telecharger API WIP",
+    "Remittance Email API WIP": "Remittance Email API WIP",
+    "No Data available to Download": "Aucune donnée disponible pour le téléchargement!"
+  },
+  "label": {
+    "Today": "Aujourd'hui",
+    "Previous Month": "Le mois précédent",
+    "Previous Quarter": "Trimestre précédent",
+    "Previous Year": "Année précédente",
+    "Last 7 Days": "Les 7 derniers jours",
+    "Last 30 Days": "Les 30 derniers jours",
+    "Custom": "Personnalisé",
+    "custom": "Personnalisé",
+    "All Time": "Tout le temps",
+    "paymentDetails": "Détails de paiement",
+    "dateFilters": "Filtres de date",
+    "all": "Tout",
+    "remitToId": "Remit To ID",
+    "viewing": "Visualisation",
+    "moreFilters": "Plus de filtres",
+    "resetFilter": "RÉINITIALISER LE FILTRE",
+    "applyFilter": "APPLIQUER LE FILTRE",
+    "paymentMethod": "Mode de paiement",
+    "CHK": "CHK",
+    "ACH": "ACH",
+    "VCA": "VCA",
+    "creditAccounts": "Comptes de crédit",
+    "allAccounts": "Tous les comptes"
+  },
+  "tableColumn": {
+    "Payment Reference": "Référence de paiement",
+    "Payer Name": "Nom du payeur",
+    "Value Date": "Date de valeur",
+    "Status": "Statut",
+    "Payment Amount": "Montant du paiement",
+    "Payment Type": "Type de paiement",
+    "Client Name": "Nom du client",
+    "Payment Date": "Date de paiement",
+    "Payment List": "Liste de paiement",
+    "Payment Method": "Mode de paiement"
+  },
+  "notification": {
+    "File does not exist": "Fichier ne existe pas."
+  },
+  "placeHolder": {
+    "endDate": "MM-JJ-AAAA"
+  },
+  "appliedFiltersLabel":{
+    "clearAll":"Tout effacer",
+    "filters":"Filtres:"
+  }
+}

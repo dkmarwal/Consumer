@@ -1,0 +1,90 @@
+{
+    "ach":{
+        "accountNumber":"Numéro de compte",
+        "routingNumber":"Numéro d'acheminement",
+        "bankName":"Nom de banque",
+        "bankAccountType":"Type de compte",
+        "methodName":"DÉPÔT DIRECT",
+        "methodNameACH":"ACH",
+        "methodNameRTP":"RTP@"
+    },
+    "check":{
+        "addressLine1":"Adresse 1",
+        "country":"Pays",
+        "state":"État",
+        "city":"Ville",
+        "zipCode":"Code postal",
+        "address":"Adresse",
+        "methodName":"CHÈQUE"
+    },
+    "directDeposit":{
+        "nameOnCard":"Nom sur la carte",
+        "cardNumber":"Numéro de carte",
+        "expiryDate":"Date d'expiration",
+        "addressLine1":"Adresse 1",
+        "country":"Pays",
+        "state":"État",
+        "city":"Ville",
+        "zipCode":"Code postal",
+        "methodName":"INSTANT PAY"
+    },
+    "ReliaCard":{
+        "methodName": "ReliaCard",
+        "emailPhone": "Courriel/numéro de téléphone",
+        "email": "E-mail",
+        "firstName": "Prénom",
+        "lastName": "Nom de famille",
+        "addressLine1": "Ligne d'adresse",
+        "addressLine2": "Adresse Ligne 2",
+        "uniqueId":"Identificación única",
+        "phoneNumber": "Pas de téléphone.",
+        "address":"Adresse",
+        "SSN":"SSN",
+        "zipCode":"Code postal",
+        "dateOfBirth": "Date de naissance",
+        "homePhone": "Téléphone fixe",
+        "mobilePhone": "Téléphone mobile",
+        "employerState": "État employeur",
+        "govLocation": "Emplacement du gouvernement",
+        "govExpiredDate": "Date d'expiration du gouvernement"
+    },
+    "FocusCard":{
+        "methodName": "Focus non-paie"
+    },
+    "PlasticCard":{
+        "methodName": "Carte plastique"
+    },
+    "DigitalCard":{
+        "methodName": "Carte numérique"
+    },
+    "CorporateCard":{
+        "methodName": "Corporate Reward"
+    },
+    "paypal":{
+        "addressLine1":"Adresse 1",
+        "country":"Pays",
+        "state":"État",
+        "city":"Ville",
+        "zipCode":"Code postal",
+        "email":"E-mail",
+        "phone":"Numéro de téléphone",
+        "address":"Adresse",
+        "methodName":"PAYPAL"
+    },
+    "zelle":{
+        "email":"E-mail",
+        "phone":"Numéro de téléphone",
+        "methodName":"ZELLE"
+    },
+    "depositToDebitCard":{
+        "methodName":"DEPOSIT TO DEBIT CARD",
+        "nameOnCard":"Nom sur la carte",
+        "cardNumber":"Numéro de carte",
+        "expiryDate":"Date d'expiration"
+    },
+      "bankAccount":{
+        "methodName":"BANK ACCOUNT"
+    },
+    "addAlternatePaymentMethod":"Ajouter un mode de paiement secondaire",
+    "paymentMethod":"Mode de paiement"
+}

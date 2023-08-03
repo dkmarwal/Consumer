@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="18px" viewBox="0 0 22 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>card_selected</title>
+    <defs>
+        <path d="M21.6666666,4.3333333 L4.3333333,4.3333333 C3.13083329,4.3333333 2.17749995,5.29749997 2.17749995,6.49999997 L2.16666662,19.5 C2.16666662,20.7025 3.13083329,21.6666667 4.3333333,21.6666667 L21.6666666,21.6666667 C22.8691667,21.6666667 23.8333334,20.7025 23.8333334,19.5 L23.8333334,6.49999997 C23.8333334,5.29749997 22.8691667,4.3333333 21.6666666,4.3333333 L21.6666666,4.3333333 Z M21.6666667,19.5 L4.3333333,19.5 L4.3333333,13 L21.6666667,13 L21.6666667,19.5 L21.6666667,19.5 Z M21.6666667,8.66666665 L4.3333333,8.66666665 L4.3333333,6.49999997 L21.6666667,6.49999997 L21.6666667,8.66666665 L21.6666667,8.66666665 Z" id="path-1"></path>
+    </defs>
+    <g id="Supplier-Portal-Phase-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="card_unselected" transform="translate(-2.000000, -4.000000)">
+            <polygon id="Base" points="-5.41666788e-08 -5.41665865e-08 26.0000001 -5.41665865e-08 26.0000001 26.0000001 -5.41666788e-08 26.0000001"></polygon>
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Icon" fill-rule="nonzero"></g>
+            <rect id="↳-🎨-Color" fill="#002D72" mask="url(#mask-2)" x="0" y="0" width="26" height="26"></rect>
+        </g>
+    </g>
+</svg>

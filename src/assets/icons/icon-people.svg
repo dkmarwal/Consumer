@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 14" width="22" height="14">
+	<defs>
+		<image width="50" height="50" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAMAAAAp4XiDAAAAAXNSR0IB2cksfwAAAEtQTFRFAAAACxlBCxlBCxlBCxlBCxlBCxlBCxlBCxlBCxlBCxlBCxlBCxlBCxlBCxlBCxlBCxlBCxlBCxlBCxlBCxlBCxlBCxlBCxlBCxlB/6RtMwAAABl0Uk5TAJLz7P+Q6u0bYrPj9oDvz49DcnPXdkBtAY0WxV0AAABrSURBVHic7c/LCoAgFEXRa1n56p3V/39pFpE2MQskB3dNDoIbFAAhlD6S5cTdgIIahd0A2X61tBsn+fAw8+2KuJsGxoVUSgrOAOqm7frHYqCX0TRmJu0vNHVomI9dvAm9Wc/ziwQiJQih321O1gO+7SoQmwAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<use id="Client-Portal-Phase-1" href="#img1" x="-14" y="-18" />
+</svg>

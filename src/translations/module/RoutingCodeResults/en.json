@@ -1,0 +1,39 @@
+{
+    "label":{
+        "bankName":"Bank Name",
+        "bankState":"Bank State",
+        "bankCity":"Bank City",
+        "routingNumber":"Routing Number",
+        "or":"OR"
+    },
+    "heading":{
+        "searchBank":"Search Bank",
+        "byRoutingNumber":"By ABA Routing Number",
+        "byBankName":"By Bank Name, State & City"
+    },
+    "tableHeader":{
+        "bankName":"BANK NAME",
+        "routingNumber":"ROUTING NO.",
+        "city":"CITY",
+        "state":"STATE"
+    },
+    "error":{
+        "bankName":"Bank Name is required",
+        "bankState":"Bank State is required",
+        "bankCity":"Bank City is required",
+        "routingNumber":"Routing Number is required",
+        "bankCityLength":"Bank City must be less than 31 characters."
+    },
+    "text":{
+        "noOptions":"No options",
+        "labelDisplayedRows": "{{from}}-{{to}} of {{count}}",
+        "noDataFound":"No Data Found",
+        "bankResult":"Select Your Bank Below ({{totalCount}} Results)"
+    },
+    "button":{
+        "cancel":"CANCEL",
+        "search":"SEARCH",
+        "back":"BACK",
+        "select":"SELECT"
+    }
+}
